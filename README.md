@@ -159,24 +159,119 @@ URL Project Report (Github): https://github.com/AgriSage/Informe
 
 ### 1.1.1. Description de la StartUp
 
+AgriSage es una startup que nace con la finalidad de brindar conocimientos y habilidades a personas apasionadas por la hidroponía y la creación de granjas en casa. Ofrecemos una experiencia de aprendizaje integral que combina cursos en línea, recursos prácticos y una comunidad activa de entusiastas. Desde principiantes hasta expertos, nuestra plataforma proporciona las herramientas necesarias para adentrarse en el emocionante mundo de la agricultura en interiores. A través de contenido didáctico de alta calidad y asesoramiento personalizado, estamos transformando la forma en que las personas realizan el proceso de cultivo, promoviendo la sostenibilidad y la autosuficiencia en entornos urbanos y rurales por igual.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 ## 1.2. Solution Profile
 
+- **Nombre del Producto:** <br><br>
+
+  Nuestra aplicación web recibe el nombre de “AgriSage”, ya que hacemos referencia a los cultivos que serán empleados por nuestros usuarios en la creación de sus proyectos caseros, quienes a su vez irán creciendo con nosotros, al adquirir conocimientos constantemente y mejorar sus habilidades en el sector agrícola. <br><br>
+
+- **Descripción del Producto:** <br><br>
+
+  Nuestra propuesta es un servicio novedoso e innovador, ofrecemos a nuestros usuarios la posibilidad de desarrollar sus propios proyectos domésticos basados en hidroponía, empezando con un nivel de principiantes hasta lograr convertirse en todos unos expertos en el tema. Nuestro servicio será intuitivo, sencillo y fácil de utilizar para cualquier persona que haga uso de la aplicación. <br><br>
+
+- **Monetización:** <br><br>
+
+ Nuestra aplicación se enorgullece de ofrecer una extensa variedad de cursos especializados en hidroponía para satisfacer las necesidades de aprendizaje de nuestros usuarios. Desde técnicas básicas hasta avanzadas, nuestra plataforma ofrece una selección curada de cursos diseñados por expertos en la industria. Con un enfoque en la calidad del contenido y la accesibilidad, los usuarios pueden adquirir cursos individualmente para profundizar en áreas específicas de interés. Además, mediante la monetización exclusiva de la venta de cursos, garantizamos una experiencia de aprendizaje sin distracciones publicitarias. Cada curso está cuidadosamente elaborado para proporcionar conocimientos prácticos y habilidades aplicables, lo que permite a los usuarios avanzar en su viaje hacia la maestría en la hidroponía con confianza y eficacia.
+
+ <br><br>
+
 ### 1.2.1. Antecedentes y problemática
+
+- **What?** <br><br>
+
+  El problema de nuestros usuarios es la falta de conocimiento acerca de la creación de una granja en casa, así como su mantención a lo largo del tiempo.<br><br>
+
+- **When?** <br><br>
+
+  El problema descrito se presenta cada vez que nuestros usuarios buscan información acerca de hidroponía, impidiendo que puedan tener su propias granjas domésticas. <br><br>
+
+- **Where?** <br><br>
+
+  El problema se encuentra en la poca información que se puede llegar a recopilar en distintos medios, y lo poco que se consigue resulta ser dificultoso de entender. <br><br>
+
+- **Why?** <br><br>
+
+  Usualmente los usuarios no logran encontrar la información necesaria sobre hidroponía y granjas domésticas, por lo que deben buscar por medio de internet, preguntar a familia o amigos para encontrar la mayor información posible.<br><br>
+
+- **How?** <br><br>
+
+  Resulta muy complicado para los principiantes poder encontrar los pasos necesarios para iniciar una granja en casa. Debido a esta problemática, surge nuestra aplicación, la cual servirá de apoyo a todos aquellos entusiastas a poner en práctica su pasión por la hidroponía y lograr su objetivo. <br><br>
+
+- **How much?** <br><br>
+
+  La problemática se origina debido a que existe poca información que podemos encontrar sobre hidroponía en el hogar, y la que se encuentra puede resultar complicada para las personas nuevas en el tema. Además, la información proporcionada en páginas web llega a presentarse de forma desordenada, lo que genera más obstáculos para los usuarios. <br><br>
 
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+La hidroponía es una de las actividades que posee gran cantidad de practicantes, a la vez que existen personas que desean aventurarse en la hidroponía y la creación de granjas en casa. De acuerdo a El Comercio (2019), la hidroponía es el futuro de la agricultura sostenible, debido a que necesita 90% menos agua que los métodos de agricultura convencionales. Además, afirman que es un modelo que se adapta a espacios pequeños, permitiendo así una mayor eficiencia en la regulación de la nutrición y el crecimiento de cultivos se da con mayor rapidez. Aunque, a menudo, las personas que incursionan en la hidroponía se enfrentan a barreras que dificultan su acceso a la información y los recursos necesarios. La falta de una plataforma educativa integral y práctica hace que la curva de aprendizaje sea empinada y desafiante. Además, la falta de interacción significativa con una comunidad activa de personas con ideas afines puede hacer que este proceso se sienta aislado. Es por este motivo que, como startup, abordaremos la resolución de la siguiente cuestión: ¿Cómo podemos aplicar nuestro conocimiento tecnológico para ofrecer un servicio novedoso que pueda ofrecer la información necesaria para los principiantes en la hidroponía?
+
 #### 1.2.2.2. Lean UX Assumptions
+
+**Business outcomes:**
+
+- Los usuarios de la aplicación están interesados en iniciar un proyecto doméstico de hidroponía.
+- Los usuarios desean obtener guías ofrecidas por expertos calificados en el tema.
+- Los usuarios desean una interfaz de aplicación intuitiva, responsive y fácil de usar para la búsqueda y visualización de los cursos.
+- Los usuarios buscan funciones adicionales, como que se incluya servicios de equipamiento, nutrientes, y demás implementos.
+- Los usuarios deben poder ver y analizar las opciones de forma clara y precisa.
+- La aplicación debe ser compatible con múltiples navegadores modernos.
+- Los usuarios están dispuestos a pagar por funciones premium o servicios adicionales en la aplicación.
+
+**Users: assumptions**
+
+- **¿Quién es el usuario?**
+
+  Los usuarios interesados en la aplicación son aquellos que buscan toda la información necesaria para iniciar un proyecto propio sobre hidroponía casera y agricultura, además de buscar cursos y guías de expertos en las cuales puedan basarse y realizar de mejor manera su plan agrícola. Nuestros usuarios son: personas mayores de edad que deseen iniciar en la hidroponía, y expertos que desean brindar sus conocimientos a los principiantes.
+
+- **¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+  Nuestra aplicación es aplicable tanto como un pasatiempo inicial, hasta convertirse en un proyecto y trabajo continuo que conlleva mayor inversión de tiempo.
+
+- **¿Qué problema tiene nuestro producto? ¿Cómo se resuelve?**
+
+  El problema que aborda nuestro producto es la dificultad de encontrar información acerca de hidroponía en casa y cómo iniciar tu propio proyecto. Se resuelve al proporcionar una plataforma que pueda conectar principiantes y expertos que puedan guiarlos a realizar su proyecto. Esto brinda la posibilidad de formar una comunidad en la cual puedan compartir experiencias, consejos, tutoriales y demás.
+
+- **¿Cuándo y cómo es usado nuestro producto?**
+
+  Nuestro producto se adecua a los usuarios, por lo que puede ser utilizado en las fechas que ellos prefieran, y cuando consideren que sea conveniente iniciar adecuadamente el proyecto que planean. Al mismo tiempo, los expertos también pueden decidir en qué momento compartir sus conocimientos, realizando buenos cursos para los principiantes.
+
+- **¿Qué características son importantes?**
+
+  La característica más importante es la posibilidad de crear comunidades, dentro de las cuales se pueden compartir diversas características entre los usuarios.
+
+- **¿Cómo debe verse nuestro producto y comportarse?**
+
+  Nuestro producto debe cumplir con su propósito sin presentar errores en su funcionamiento. El producto debe tener un uso sencillo, eficiente y ágil.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+- Creemos que nuestra aplicación será de gran utilidad para las personas principiantes en el tema de hidroponía casera. Sabremos que tuvimos éxito cuando las reseñas positivas realizadas por los usuarios sean mayores al 80%.
+
+- Creemos que los expertos en el tema podrán contribuir de manera significativa para el aprendizaje de los principiantes. Sabremos que tuvimos éxito cuando los cursos ofrecidos tengan inscritos más del 70% de usuarios.
+
+- Creemos que nuestra aplicación será utilizada por personas mayores de 18 años, siendo este nuestro segmento objetivo. Sabremos que tuvimos éxito cuando el promedio de edad de los usuarios coincida con nuestro objetivo.
+
+- Creemos que nuestra aplicación será sencilla e intuitiva de usar para nuestros usuarios. Sabremos que tuvimos éxito cuando en las encuestas los usuarios satisfechos sean más del 80%.
+
+- Creemos que las comunidades serán una buena característica en la cual los usuarios puedan compartir sus experiencias y consejos entre sus proyectos. Sabremos que tuvimos éxito cuando la mayoría de los usuarios haga uso de esta característica.
+- 
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos Objetivo
 
+| Tipo de Usuario | Personas que deseen iniciar en la hidroponía                                                                                                                                                                                                                                 | Expertos que desean brindar sus conocimientos a los principiantes                                                                                                                                                                                                |
+| :-------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Geográfico      | País: Perú <br><br> Zona residencial: No es relevante, pueden ser de diferentes zonas del país.                                                                                                                                                                                      | País: Perú <br><br> Zona residencial: No es relevante, pueden ser de diferentes zonas del país.                                                                                                                                                                          |
+| Psicográfico    | Clase Social: Mayormente se encuentran desde la clase media baja, hacia clases sociales más elevadas. <br><br> Estilo de vida: Son personas apasionadas por el tema de la agricultura y las granjas en casa, sin embargo no poseen los conocimientos para iniciar su propio proyecto. | Clase Social: Mayormente se encuentran desde la clase media baja, hacia clases sociales más elevadas. <br><br> Estilo de vida: Son personas dedicadas a la hidroponía, con cierto tiempo de experiencia en el tema, por lo que quieren ofrecer ayuda a los principiantes. |
+| Demográfico     | Edad: Personas mayores de edad. <br><br> Nivel de Ingreso: No es relevante, ya que depende de los factores que se elijan. <br><br> Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte.                                                    | Edad: Deben ser mayores de edad, preferiblemente mayores de 30 años. <br><br> Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte. <br><br> Estudios: Debe contar con secundaria completa o superior.                          |
+
+<br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
