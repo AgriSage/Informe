@@ -468,8 +468,6 @@ AgriSage se comprometerá a mantenerse a la vanguardia de la innovación en hidr
 
 En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos. Esta información se usará en el desarrollo de nuestra solución.
 
-### 2.2.2. Registro de entrevistas
-
 **Adquisición de información general**
 
 1. ¿Cómo te llamas?
@@ -504,11 +502,32 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 9. ¿Qué canales digitales sueles utilizar para interactuar con la comunidad de hidroponía o la comunidad de jardineros en general?
 10. ¿Cuáles son tus principales objetivos y frustraciones en relación con la enseñanza o asesoramiento en hidroponía?
 
+### 2.2.2. Registro de entrevistas
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
+
+Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia de aprendizaje altamente enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo: desde brindar recursos claros y accesibles a principiantes, hasta ofrecer herramientas para que los expertos compartan su conocimiento
+
+**User Persona del segmento: Personas que deseen iniciar en la hidroponía**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/xI9JfoQ.png">
+
+</div>
+
+**User Persona del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/QmQ6wZb.png">
+
+</div>
+<br>
 
 ### 2.3.2. User Task Matrix
 
