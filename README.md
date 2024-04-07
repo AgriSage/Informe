@@ -400,15 +400,114 @@ La hidroponía es una de las actividades que posee gran cantidad de practicantes
 
 ## 2.1. Competidores
 
+<br>
+Luego de realizar una investigación en el mercado, hemos encontrado tres proyectos que consideramos como potenciales competidores para AgriSage. Estos son:
+<br><br>
+
+
+- **AeroGarden:**
+<br>
+
+  Ofrece sistemas de jardinería hidropónica todo en uno diseñados para uso en interiores, facilitando el cultivo de una variedad de plantas con kits completos que incluyen semillas, nutrientes y sistemas de iluminación integrados.
+<br>
+
+<div align="center">
+
+  <img src="https://asset.brandfetch.io/idJH_yim8H/idENItB0i-.jpeg">
+
+</div>
+
+<br><br>
+
+
+- **GrowVeg:**
+<br>
+
+  Proporciona herramientas y recursos en línea para planificar y mantener jardines tanto en interiores como en exteriores, permitiendo a los usuarios diseñar, organizar y gestionar sus cultivos de manera eficiente y efectiva.
+<br>
+
+<div align="center">
+
+  <img src="https://www.smallfootprintfamily.com/wp-content/uploads/Grow-Veg-logo.jpg">
+
+</div>
+
+<br><br>
+
+
+- **Hidroponika:**
+<br>
+
+  Ofrece soluciones completas de hidroponía para cultivo en interiores, incluyendo sistemas, equipos y suministros especializados, así como asesoramiento experto y recursos educativos para ayudar a los cultivadores a optimizar sus resultados.
+<br>
+
+<div align="center">
+
+  <img src="https://i.imgur.com/sPqvU40.png">
+
+</div>
+
+<br><br>
+
 ### 2.1.1. Análisis competitivo
 
+<table>
+<tbody><tr><th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th></tr><tr><td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td><td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td></tr><tr><td colspan="5">Este análisis se concretó teniendo como finalidad el poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de ellos.</td></tr><tr><td colspan="3">Nuestro Producto / Competidores</td><td colspan="1" valign="top" style="font-weight: bold;">AgriSage<br><img src="" alt="AgriSage" width="70px"></td><td colspan="1" valign="top" style="font-weight: bold;">Hidroponika<br><img src="https://i.imgur.com/sPqvU40.png?width=600&amp;height=600" alt="Hidroponika" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">GrowVeg<br><img src="https://www.smallfootprintfamily.com/wp-content/uploads/Grow-Veg-logo.jpg" alt="GrowVeg" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">AeroGarden<br><img src="https://asset.brandfetch.io/idJH_yim8H/idENItB0i-.jpeg" alt="AeroGarden" width="60px"></td></tr><tr><td colspan="1" rowspan="2">Perfil</td><td colspan="2">Overview</td><td colspan="1" valign="top">Aplicación web donde los clientes podrán informarse acerca de la hidroponía, mantenerse informado cada dia sobre diversos temas de la hidroponía y poder realizar cursos interactivos donde aprenda distintas técnicas o materiales a usar. Además de ofrecer variedad de productos dentro de la aplicación.</td><td colspan="1" valign="top">Es una página web que cuenta con una gran variedad de productos y servicios relacionados a la hidroponía, de gran calidad y para distintos lugares.Además posee distintos cursos para iniciar en la hidroponía.</td><td colspan="1" valign="top">Es una página web que ofrece distintos tipos de información sobre agricultura.  Ofrecen capacitaciones y cursos donde explican distintos tipos de métodos a utilizar en la agricultura. Estos cursos los dictan de manera presencial o virtual dependiendo del área que dicten.</td><td colspan="1" valign="top">Es una página web que ofrece distintos productos para la hidroponia como nutrientes para las plantas, huertas donde irán instaladas estas plantas y semillas de distintos tipos.</td></tr><tr><td colspan="2">Ventaja competitiva</td><td colspan="1" valign="top">Una mejor variedad de productos acorde a la economía de las personas y a los distintos lugares del Perú. Además de un continuo seguimiento de nuestros clientes para poder aclarar alguna duda o problema que pueda surgir.</td><td colspan="1" valign="top">Una gran cantidad de productos, packs, soluciones y demás para la hidroponia. Tiene una sólida interfaz donde explican los servicios que ofrece la empresa y los beneficios de realizar hidroponia.</td><td colspan="1" valign="top">Una ventaja que ellos tienen a diferencia de otros es la gran cantidad de cursos que dictan, esto hace que muchas personas elijan sus servicios para aprender más acerca de distintos temas de agricultura y también sobre de la hidroponia.</td><td colspan="1" valign="top">Gran variedad de semillas y nutrientes para la hidroponia. Esto hace que sean un lugar concurrido para las personas que tengan este tipo de huertos.</td></tr><tr><td colspan="1" rowspan="2">Perfil de Marketing</td><td colspan="2">Mercado objetivo</td><td colspan="1" valign="top">Personas de todo el Perú que quieran comenzar a utilizar la técnica de hidroponía para cultivar en sus casas o personas que necesitan materiales para seguir ciudadano sus cultivos</td><td colspan="1" valign="top">Personas que quieran obtener sus productos o empezar en la hidroponía en sus hogares u otros lugares.</td><td colspan="1" valign="top">Personas que estén interesadas en aprender más sobre la hidroponía, dispuestos a llevar cursos y asistir en charlas que Intagri ofrece.</td><td colspan="1" valign="top">Personas que se dedican a cultivar plantas con la técnica de hidroponía.</td></tr><tr><td colspan="2">Estrategias de marketing</td><td colspan="1" valign="top">Publicidad a través de redes sociales</td><td colspan="1" valign="top">En las principales redes sociales.</td><td colspan="1" valign="top">En las principales redes sociales, linkedin y en empresas aliadas como Fertilab y Proain.</td><td colspan="1" valign="top">Publicidad a través de las principales redes sociales</td></tr><tr><td colspan="1" rowspan="3">Perfil de Producto</td><td colspan="2">Productos &amp; Servicios</td><td colspan="1" valign="top">Brindar un servicio de calidad mediante la información que mostraremos en nuestra página, La creación de cursos didácticos de distintos temas de la hidroponía, además de la creación de comunidades donde las personas puedan contar sus experiencias o recomendar distintas cosas.</td><td colspan="1" valign="top">Gran variedad de productos desde nutrientes para las plantas hasta hidro huertos de distintos tamaños y para distintos tipos de plantas.</td><td colspan="1" valign="top">Los productos que ellos ofrecen son los cursos y capacitaciones sobre distintos temas acerca de la agricultura.</td><td colspan="1" valign="top">Gran variedad de productos desde nutrientes para las plantas hasta huertos de distintos tamaños y para distintos tipos de plantas.</td></tr><tr><td colspan="2">Precios &amp; Costos</td><td colspan="1" valign="top">Los precios y costos por nuestros cursos se mostrarán en la pantalla de compra del producto. Asimismo trataremos de mantener los precios lo más accesible para todo público.</td><td colspan="1" valign="top">Los costos varían desde los más baratos que son las soluciones desde los 20 soles hasta los más caros que son los hidro huertos que pueden pasar los 1000 soles.</td><td colspan="1" valign="top">Sus precios varían entre los cursos que son los más cómodos hasta los diplomados internacionales que valen mucho dinero.</td><td colspan="1" valign="top">Los costos varían desde los más baratos que son los nutrientes y semillas hasta los más caros que son los huertos que pueden costar una gran cantidad de dinero dependiendo del tamaño de estos.</td></tr><tr><td colspan="2">Canales de distribución (Web y/o Móvil)</td><td colspan="1" valign="top">Se contará con una página web en donde se encontrará todo lo que ofrecemos e información acerca de nosotros </td><td colspan="1" valign="top">Se hacen envíos a todo el Perú mediante empresas de courier tanto para Lima metropolitana hasta los distintos departamentos del país.</td><td colspan="1" valign="top">La mayoría de cursos que dictan son virtuales pero los seminarios o congresos que ellos dicten son presenciales.</td><td colspan="1" valign="top">Ofrecen sus servicios por medio de empresas de envio internacional.</td><tr></tr><td colspan="1" rowspan="5">Análisis SWOT</td></td></tr><tr><td colspan="2">Fortalezas</td><td colspan="1" valign="top">Brindar información de distintos temas sobre la hidroponía, además de estar validadas por un especialista. Comunicación constante con los clientes.</td><td colspan="1" valign="top">Una gran variedad de productos para ofrecer a todos sus clientes.</td><td colspan="1" valign="top">Una gran variedad de cursos de distintos temas que pueden atraer a distintas personas. Capacitaciones y ponencias de manera presencial hacen que sean más reconocidos por sus demás competidores.</td><td colspan="1" valign="top">Gran variedad de semillas para la plantación de estas, distintos nutrientes que ayudan a la planta a crecer y gran variedad de huertos de distintos tamaños y para distintos propocitos.</td></tr><tr><td colspan="2">Debilidades</td><td colspan="1" valign="top">Falta de credibilidad por ser una startup nueva y no ser tan reconocida en el medio.</td><td colspan="1" valign="top">Falta de comunicación con los clientes. Sus únicos medios de comunicación son las redes sociales y whatsapp, por lo que se puede tardar a la hora de responder algún mensaje.</td><td colspan="1" valign="top">Al tener un catálogo muy amplio de cursos y temas que ofrecen, no pueden enfocarse en un tema en específico por lo que algunas ocasiones no resolverán la duda al cliente.</td><td colspan="1" valign="top">Algunas personas no podrán conocer qué tipos de nutrientes necesitan para sus plantas o que tipos de huertas se acomodan más a su lugar de plantación.</td></tr><tr><td colspan="2">Oportunidades</td><td colspan="1" valign="top">Falta de información por especialistas en el tema.. Falta de plataformas que ofrezcan servicios de hidroponía a nivel nacional.</td><td colspan="1" valign="top">Falta de lugares o webs donde una persona pueda encontrar todo lo relacionado a la hidroponía, soluciones, semillas, huertos, etc.</td><td colspan="1" valign="top">Falta de lugares donde dicten cursos de una gran variedad de temas.</td><td colspan="1" valign="top">Al tener una gran variedad de productos podrán satisfacer las necesidades de sus clientes.</td></tr><tr><td colspan="2">Amenazas</td><td colspan="1" valign="top">Las personas en primera instancia no confiarán en nosotros por ser una nueva empresa. Falta de socios los cuales nos puedan ayudar en el tema económico de la startup.</td><td colspan="1" valign="top">Algunas personas no contarán con el presupuesto suficiente para poder comprar las estaciones esenciales donde cultivar las plantas utilizando esta técnica.</td><td colspan="1" valign="top">Algunas personas no podrán acceder a sus cursos presenciales por falta de tiempo o por la locación de estas capacitaciones.</td><td colspan="1" valign="top">Los mismos productos podrán ser encontrados en otros tipos de páginas</td></tr></tbody></table>
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+
+Diferenciación de productos/servicios:
+AgriSage se destacará en el mercado al ofrecer una experiencia de aprendizaje integral y personalizada en hidroponía y agricultura en interiores. Además de proporcionar contenido educativo de alta calidad y recursos prácticos respaldados por asesoramiento personalizado, la plataforma ofrecerá kits de inicio completos para aquellos que deseen comenzar su aventura en la agricultura en interiores de manera fácil y conveniente, a su vez contará con una tienda virtual dentro de la aplicación, y una comunidad de usuarios que contribuira a ella. Estos kits incluirán todo lo necesario para comenzar a cultivar, desde semillas hasta equipos básicos. AgriSage se comprometerá a brindar a los usuarios una solución integral que abarque desde la educación hasta la práctica, simplificando así el proceso de cultivo en interiores.
+
+Marketing y posicionamiento de marca:
+AgriSage se promocionará como la plataforma preferida para aquellos interesados en la hidroponía y la agricultura en interiores, ofreciendo una amplia gama de productos y servicios que satisfagan las necesidades de los usuarios. Además del contenido educativo y los kits de inicio, la plataforma también albergará una tienda en línea integrada donde los usuarios podrán comprar suministros, equipos y productos relacionados con la agricultura en interiores. Esta estrategia de marketing ampliará aún más la oferta de AgriSage, posicionándola como un destino único y completo para los entusiastas de la jardinería en interiores.
+
+Innovación continua y mejora de productos:
+AgriSage se comprometerá a mantenerse a la vanguardia de la innovación en hidroponía y agricultura en interiores, no solo en términos de educación y recursos, sino también en la oferta de productos y servicios. Se realizarán actualizaciones regulares en la tienda en línea de AgriSage para agregar nuevos productos, mejorar la selección existente y adaptarse a las necesidades cambiantes de los usuarios. Se buscará colaborar con fabricantes y proveedores de renombre para ofrecer productos de alta calidad y tecnología avanzada que mejoren la experiencia de cultivo en interiores de los usuarios. Esta estrategia garantizará que AgriSage continúe siendo relevante y atractivo para su base de usuarios, promoviendo así el crecimiento y la fidelización del cliente.
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos. Esta información se usará en el desarrollo de nuestra solución.
+
 ### 2.2.2. Registro de entrevistas
+
+**Adquisición de información general**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es su ocupación?
+4. Actualmente, ¿en qué lugar reside?
+
+**Segmento 1: Personas que deseen iniciar en la hidroponía**
+
+1. ¿Qué te motiva a interesarte en la hidroponía?
+2. ¿Cuáles son tus principales objetivos al comenzar a explorar la hidroponía?
+3. ¿Qué tipo de información o recursos necesitas para comenzar con éxito en la hidroponía?
+4. ¿Qué obstáculos o desafíos crees que podrías enfrentar al iniciarte en la hidroponía?
+5. ¿Qué te gustaría aprender o encontrar en una plataforma como AgriSage?
+6. ¿Tienes alguna experiencia previa en jardinería o cultivo de plantas?
+7. ¿Qué tipo de personalidad tienes y cómo influye en tu interés por la hidroponía?
+8. ¿Qué dispositivos prefieres utilizar para acceder a información y recursos sobre hidroponía?
+9. ¿Qué canales digitales sueles utilizar para buscar información relacionada con la jardinería o la agricultura?
+10. ¿Cuáles son tus principales objetivos y frustraciones relacionadas con la jardinería en interiores?
+
+
+**Segmento 2: Expertos en hidroponía que puedan brindar conocimientos**
+
+1. ¿Cuál es tu experiencia y trayectoria en el campo de la hidroponía?
+2. ¿Qué te motiva a compartir tus conocimientos y experiencia con otros?
+3. ¿Cuáles crees que son los principales desafíos que enfrentan las personas al iniciarse en la hidroponía?
+4. ¿Qué tipo de información o recursos consideras más útiles para quienes están comenzando en la hidroponía?
+5. ¿Qué habilidades o conocimientos consideras esenciales para tener éxito en la hidroponía?
+6. ¿Cuál es tu experiencia previa en enseñanza o asesoramiento en hidroponía?
+7. ¿Qué tipo de personalidad tienes y cómo influye en tu capacidad para enseñar o asesorar a otros?
+8. ¿Qué dispositivos prefieres utilizar para compartir información y recursos sobre hidroponía?
+9. ¿Qué canales digitales sueles utilizar para interactuar con la comunidad de hidroponía o la comunidad de jardineros en general?
+10. ¿Cuáles son tus principales objetivos y frustraciones en relación con la enseñanza o asesoramiento en hidroponía?
 
 ### 2.2.3. Análisis de entrevistas
 
