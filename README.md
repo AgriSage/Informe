@@ -185,26 +185,26 @@ AgriSage es una startup que nace con la finalidad de brindar conocimientos y hab
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src=" " alt=" " style="margin-bottom: 5px;" width="800"/>
+            <img src="images/foto integrante 2.jpg" alt=" " style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            NOMBRE Y APELLIDO
+            Luis Angel Anampa Lavado
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
-        <br>
-        CARRERA
+        <br> 
+        Ingenieria de Software
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        COMPLETAR
+        Mi nombre es Angel Anampa y tengo 19 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Elegí dicha carrera porque soy una persona que le interesa mucho los temas que tienen que ver con tecnología , me gustan los videojuegos. Me considero una persona atenta, responsable , optimista que sabe solucionar los problemas. Como integrante del equipo me comprometo a apoyar al grupo en este trabajo.
         </td>
     </tr>
     <tr align="center">
