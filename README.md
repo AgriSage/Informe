@@ -510,7 +510,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 2.3.1. User Personas
 
-Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia de aprendizaje altamente enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo: desde brindar recursos claros y accesibles a principiantes, hasta ofrecer herramientas para que los expertos compartan su conocimiento
+Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia de aprendizaje altamente enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo: desde brindar recursos claros y accesibles a principiantes, hasta ofrecer herramientas para que los expertos compartan su conocimiento.
 
 **User Persona del segmento: Personas que deseen iniciar en la hidroponía**
 
@@ -530,6 +530,39 @@ Los User Personas son necesarios para la formación de este proyecto, ya que bri
 <br>
 
 ### 2.3.2. User Task Matrix
+
+En esta seccion, se describen las tareas típicas que realizan los dos segmentos objetivos. Se evalúa la frecuencia y la severidad de cada tarea de los user persona, lo que ayuda a priorizar y entender cuáles son las áreas clave en las que el producto podría influir.
+
+**Segmento Objetivo:** Personas que deseen iniciar en la hidroponía
+
+|                   Tarea                    |  Frecuencia  | Severidad |
+| :----------------------------------------: | :----------: | :-------: |
+| Aprender los conceptos básicos de la hidroponía          | Casi siempre | Alta      |
+| Buscar kits de inicio para hidroponía                   | Casi siempre | Media     |
+| Obtener orientación sobre cómo cultivar con éxito       | A veces      | Alta      |
+| Solucionar problemas durante el cultivo                 | Rara vez     | Alta      |
+| Investigar sobre los diferentes tipos de sistemas de hidroponía | Casi siempre | Media |
+| Comprar suministros y equipos para su sistema de hidroponía | A veces      | Alta    |
+| Registrarse en cursos en línea sobre hidroponía         | A veces      | Media     |
+| Mantener registros y hacer seguimiento del progreso del cultivo | A veces      | Alta   |
+| Establecer un calendario de tareas para el cuidado de las plantas | A veces      | Media |
+
+
+**Segmento Objetivo:** Expertos que desean brindar sus conocimientos a los principiantes
+
+| Tareas                                      | Frecuencia   | Severidad |
+|---------------------------------------------------------|--------------|-----------|
+| Compartir su experiencia y conocimientos en hidroponía  | Casi siempre | Alta      |
+| Buscar recursos educativos avanzados                   | Casi siempre | Media     |
+| Participar en comunidades de hidroponía                 | A veces      | Alta      |
+| Promover prácticas agrícolas sostenibles                | Rara vez     | Alta      |
+| Dar feedback sobre los productos y equipos de hidroponía| A veces      | Alta      |
+| Investigar nuevas técnicas y tecnologías en hidroponía | Casi siempre | Media     |
+| Asistir a conferencias y eventos relacionados con la hidroponía| Rara vez     | Alta    |
+| Realizar experimentos y pruebas con nuevos sistemas de cultivo | A veces      | Alta |
+| Escribir artículos o guías sobre hidroponía para su blog o sitio web| Rara vez     | Alta |
+
+
 
 ### 2.3.3. User Journey Mapping
 
