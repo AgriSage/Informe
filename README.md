@@ -209,26 +209,28 @@ AgriSage es una startup que nace con la finalidad de brindar conocimientos y hab
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src=" " alt=" " style="margin-bottom: 5px;" width="800"/>
+            <img src="images/team_i_d.png" alt="DiegoCisneros" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            NOMBRE Y APELLIDO
+            Diego Rafael Cisneros Tafur
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        CARRERA
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        COMPLETAR
+        Estudiante de 5to ciclo de Ingeniería de software. Me gusta la inteligencia artificial, programación competitiva, hacking ético, jugar videojuegos y leer. 
+        Domino C++, Python, SQL y Rust. 
+        También tengo conocimientos de  JS y TS y me apasiona el desarrollo frontend y backend.
         </td>
     </tr>
     <tr align="center">
@@ -293,9 +295,9 @@ AgriSage es una startup que nace con la finalidad de brindar conocimientos y hab
 
 - **Monetización:** <br><br>
 
- Nuestra aplicación se enorgullece de ofrecer una extensa variedad de cursos especializados en hidroponía para satisfacer las necesidades de aprendizaje de nuestros usuarios. Desde técnicas básicas hasta avanzadas, nuestra plataforma ofrece una selección curada de cursos diseñados por expertos en la industria. Con un enfoque en la calidad del contenido y la accesibilidad, los usuarios pueden adquirir cursos individualmente para profundizar en áreas específicas de interés. Además, mediante la monetización exclusiva de la venta de cursos, garantizamos una experiencia de aprendizaje sin distracciones publicitarias. Cada curso está cuidadosamente elaborado para proporcionar conocimientos prácticos y habilidades aplicables, lo que permite a los usuarios avanzar en su viaje hacia la maestría en la hidroponía con confianza y eficacia.
+Nuestra aplicación se enorgullece de ofrecer una extensa variedad de cursos especializados en hidroponía para satisfacer las necesidades de aprendizaje de nuestros usuarios. Desde técnicas básicas hasta avanzadas, nuestra plataforma ofrece una selección curada de cursos diseñados por expertos en la industria. Con un enfoque en la calidad del contenido y la accesibilidad, los usuarios pueden adquirir cursos individualmente para profundizar en áreas específicas de interés. Además, mediante la monetización exclusiva de la venta de cursos, garantizamos una experiencia de aprendizaje sin distracciones publicitarias. Cada curso está cuidadosamente elaborado para proporcionar conocimientos prácticos y habilidades aplicables, lo que permite a los usuarios avanzar en su viaje hacia la maestría en la hidroponía con confianza y eficacia.
 
- <br><br>
+<br><br>
 
 ### 1.2.1. Antecedentes y problemática
 
@@ -378,16 +380,17 @@ La hidroponía es una de las actividades que posee gran cantidad de practicantes
 - Creemos que nuestra aplicación será sencilla e intuitiva de usar para nuestros usuarios. Sabremos que tuvimos éxito cuando en las encuestas los usuarios satisfechos sean más del 80%.
 
 - Creemos que las comunidades serán una buena característica en la cual los usuarios puedan compartir sus experiencias y consejos entre sus proyectos. Sabremos que tuvimos éxito cuando la mayoría de los usuarios haga uso de esta característica.
-- 
+-
+
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos Objetivo
 
-| Tipo de Usuario | Personas que deseen iniciar en la hidroponía                                                                                                                                                                                                                                 | Expertos que desean brindar sus conocimientos a los principiantes                                                                                                                                                                                                |
-| :-------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Geográfico      | País: Perú <br><br> Zona residencial: No es relevante, pueden ser de diferentes zonas del país.                                                                                                                                                                                      | País: Perú <br><br> Zona residencial: No es relevante, pueden ser de diferentes zonas del país.                                                                                                                                                                          |
+| Tipo de Usuario | Personas que deseen iniciar en la hidroponía                                                                                                                                                                                                                                          | Expertos que desean brindar sus conocimientos a los principiantes                                                                                                                                                                                                         |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Geográfico      | País: Perú <br><br> Zona residencial: No es relevante, pueden ser de diferentes zonas del país.                                                                                                                                                                                       | País: Perú <br><br> Zona residencial: No es relevante, pueden ser de diferentes zonas del país.                                                                                                                                                                           |
 | Psicográfico    | Clase Social: Mayormente se encuentran desde la clase media baja, hacia clases sociales más elevadas. <br><br> Estilo de vida: Son personas apasionadas por el tema de la agricultura y las granjas en casa, sin embargo no poseen los conocimientos para iniciar su propio proyecto. | Clase Social: Mayormente se encuentran desde la clase media baja, hacia clases sociales más elevadas. <br><br> Estilo de vida: Son personas dedicadas a la hidroponía, con cierto tiempo de experiencia en el tema, por lo que quieren ofrecer ayuda a los principiantes. |
-| Demográfico     | Edad: Personas mayores de edad. <br><br> Nivel de Ingreso: No es relevante, ya que depende de los factores que se elijan. <br><br> Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte.                                                    | Edad: Deben ser mayores de edad, preferiblemente mayores de 30 años. <br><br> Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte. <br><br> Estudios: Debe contar con secundaria completa o superior.                          |
+| Demográfico     | Edad: Personas mayores de edad. <br><br> Nivel de Ingreso: No es relevante, ya que depende de los factores que se elijan. <br><br> Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte.                                           | Edad: Deben ser mayores de edad, preferiblemente mayores de 30 años. <br><br> Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte. <br><br> Estudios: Debe contar con secundaria completa o superior.                 |
 
 <br><br>
 
@@ -399,12 +402,11 @@ La hidroponía es una de las actividades que posee gran cantidad de practicantes
 Luego de realizar una investigación en el mercado, hemos encontrado tres proyectos que consideramos como potenciales competidores para AgriSage. Estos son:
 <br><br>
 
-
 - **AeroGarden:**
-<br>
+  <br>
 
   Ofrece sistemas de jardinería hidropónica todo en uno diseñados para uso en interiores, facilitando el cultivo de una variedad de plantas con kits completos que incluyen semillas, nutrientes y sistemas de iluminación integrados.
-<br>
+  <br>
 
 <div align="center">
 
@@ -414,12 +416,11 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
 
 <br><br>
 
-
 - **GrowVeg:**
-<br>
+  <br>
 
   Proporciona herramientas y recursos en línea para planificar y mantener jardines tanto en interiores como en exteriores, permitiendo a los usuarios diseñar, organizar y gestionar sus cultivos de manera eficiente y efectiva.
-<br>
+  <br>
 
 <div align="center">
 
@@ -429,12 +430,11 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
 
 <br><br>
 
-
 - **Hidroponika:**
-<br>
+  <br>
 
   Ofrece soluciones completas de hidroponía para cultivo en interiores, incluyendo sistemas, equipos y suministros especializados, así como asesoramiento experto y recursos educativos para ayudar a los cultivadores a optimizar sus resultados.
-<br>
+  <br>
 
 <div align="center">
 
@@ -449,9 +449,7 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
 <table>
 <tbody><tr><th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th></tr><tr><td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td><td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td></tr><tr><td colspan="5">Este análisis se concretó teniendo como finalidad el poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de ellos.</td></tr><tr><td colspan="3">Nuestro Producto / Competidores</td><td colspan="1" valign="top" style="font-weight: bold;">AgriSage<br><img src="" alt="AgriSage" width="70px"></td><td colspan="1" valign="top" style="font-weight: bold;">Hidroponika<br><img src="https://i.imgur.com/sPqvU40.png?width=600&amp;height=600" alt="Hidroponika" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">GrowVeg<br><img src="https://www.smallfootprintfamily.com/wp-content/uploads/Grow-Veg-logo.jpg" alt="GrowVeg" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">AeroGarden<br><img src="https://asset.brandfetch.io/idJH_yim8H/idENItB0i-.jpeg" alt="AeroGarden" width="60px"></td></tr><tr><td colspan="1" rowspan="2">Perfil</td><td colspan="2">Overview</td><td colspan="1" valign="top">Aplicación web donde los clientes podrán informarse acerca de la hidroponía, mantenerse informado cada dia sobre diversos temas de la hidroponía y poder realizar cursos interactivos donde aprenda distintas técnicas o materiales a usar. Además de ofrecer variedad de productos dentro de la aplicación.</td><td colspan="1" valign="top">Es una página web que cuenta con una gran variedad de productos y servicios relacionados a la hidroponía, de gran calidad y para distintos lugares.Además posee distintos cursos para iniciar en la hidroponía.</td><td colspan="1" valign="top">Es una página web que ofrece distintos tipos de información sobre agricultura.  Ofrecen capacitaciones y cursos donde explican distintos tipos de métodos a utilizar en la agricultura. Estos cursos los dictan de manera presencial o virtual dependiendo del área que dicten.</td><td colspan="1" valign="top">Es una página web que ofrece distintos productos para la hidroponia como nutrientes para las plantas, huertas donde irán instaladas estas plantas y semillas de distintos tipos.</td></tr><tr><td colspan="2">Ventaja competitiva</td><td colspan="1" valign="top">Una mejor variedad de productos acorde a la economía de las personas y a los distintos lugares del Perú. Además de un continuo seguimiento de nuestros clientes para poder aclarar alguna duda o problema que pueda surgir.</td><td colspan="1" valign="top">Una gran cantidad de productos, packs, soluciones y demás para la hidroponia. Tiene una sólida interfaz donde explican los servicios que ofrece la empresa y los beneficios de realizar hidroponia.</td><td colspan="1" valign="top">Una ventaja que ellos tienen a diferencia de otros es la gran cantidad de cursos que dictan, esto hace que muchas personas elijan sus servicios para aprender más acerca de distintos temas de agricultura y también sobre de la hidroponia.</td><td colspan="1" valign="top">Gran variedad de semillas y nutrientes para la hidroponia. Esto hace que sean un lugar concurrido para las personas que tengan este tipo de huertos.</td></tr><tr><td colspan="1" rowspan="2">Perfil de Marketing</td><td colspan="2">Mercado objetivo</td><td colspan="1" valign="top">Personas de todo el Perú que quieran comenzar a utilizar la técnica de hidroponía para cultivar en sus casas o personas que necesitan materiales para seguir ciudadano sus cultivos</td><td colspan="1" valign="top">Personas que quieran obtener sus productos o empezar en la hidroponía en sus hogares u otros lugares.</td><td colspan="1" valign="top">Personas que estén interesadas en aprender más sobre la hidroponía, dispuestos a llevar cursos y asistir en charlas que Intagri ofrece.</td><td colspan="1" valign="top">Personas que se dedican a cultivar plantas con la técnica de hidroponía.</td></tr><tr><td colspan="2">Estrategias de marketing</td><td colspan="1" valign="top">Publicidad a través de redes sociales</td><td colspan="1" valign="top">En las principales redes sociales.</td><td colspan="1" valign="top">En las principales redes sociales, linkedin y en empresas aliadas como Fertilab y Proain.</td><td colspan="1" valign="top">Publicidad a través de las principales redes sociales</td></tr><tr><td colspan="1" rowspan="3">Perfil de Producto</td><td colspan="2">Productos &amp; Servicios</td><td colspan="1" valign="top">Brindar un servicio de calidad mediante la información que mostraremos en nuestra página, La creación de cursos didácticos de distintos temas de la hidroponía, además de la creación de comunidades donde las personas puedan contar sus experiencias o recomendar distintas cosas.</td><td colspan="1" valign="top">Gran variedad de productos desde nutrientes para las plantas hasta hidro huertos de distintos tamaños y para distintos tipos de plantas.</td><td colspan="1" valign="top">Los productos que ellos ofrecen son los cursos y capacitaciones sobre distintos temas acerca de la agricultura.</td><td colspan="1" valign="top">Gran variedad de productos desde nutrientes para las plantas hasta huertos de distintos tamaños y para distintos tipos de plantas.</td></tr><tr><td colspan="2">Precios &amp; Costos</td><td colspan="1" valign="top">Los precios y costos por nuestros cursos se mostrarán en la pantalla de compra del producto. Asimismo trataremos de mantener los precios lo más accesible para todo público.</td><td colspan="1" valign="top">Los costos varían desde los más baratos que son las soluciones desde los 20 soles hasta los más caros que son los hidro huertos que pueden pasar los 1000 soles.</td><td colspan="1" valign="top">Sus precios varían entre los cursos que son los más cómodos hasta los diplomados internacionales que valen mucho dinero.</td><td colspan="1" valign="top">Los costos varían desde los más baratos que son los nutrientes y semillas hasta los más caros que son los huertos que pueden costar una gran cantidad de dinero dependiendo del tamaño de estos.</td></tr><tr><td colspan="2">Canales de distribución (Web y/o Móvil)</td><td colspan="1" valign="top">Se contará con una página web en donde se encontrará todo lo que ofrecemos e información acerca de nosotros </td><td colspan="1" valign="top">Se hacen envíos a todo el Perú mediante empresas de courier tanto para Lima metropolitana hasta los distintos departamentos del país.</td><td colspan="1" valign="top">La mayoría de cursos que dictan son virtuales pero los seminarios o congresos que ellos dicten son presenciales.</td><td colspan="1" valign="top">Ofrecen sus servicios por medio de empresas de envio internacional.</td><tr></tr><td colspan="1" rowspan="5">Análisis SWOT</td></td></tr><tr><td colspan="2">Fortalezas</td><td colspan="1" valign="top">Brindar información de distintos temas sobre la hidroponía, además de estar validadas por un especialista. Comunicación constante con los clientes.</td><td colspan="1" valign="top">Una gran variedad de productos para ofrecer a todos sus clientes.</td><td colspan="1" valign="top">Una gran variedad de cursos de distintos temas que pueden atraer a distintas personas. Capacitaciones y ponencias de manera presencial hacen que sean más reconocidos por sus demás competidores.</td><td colspan="1" valign="top">Gran variedad de semillas para la plantación de estas, distintos nutrientes que ayudan a la planta a crecer y gran variedad de huertos de distintos tamaños y para distintos propocitos.</td></tr><tr><td colspan="2">Debilidades</td><td colspan="1" valign="top">Falta de credibilidad por ser una startup nueva y no ser tan reconocida en el medio.</td><td colspan="1" valign="top">Falta de comunicación con los clientes. Sus únicos medios de comunicación son las redes sociales y whatsapp, por lo que se puede tardar a la hora de responder algún mensaje.</td><td colspan="1" valign="top">Al tener un catálogo muy amplio de cursos y temas que ofrecen, no pueden enfocarse en un tema en específico por lo que algunas ocasiones no resolverán la duda al cliente.</td><td colspan="1" valign="top">Algunas personas no podrán conocer qué tipos de nutrientes necesitan para sus plantas o que tipos de huertas se acomodan más a su lugar de plantación.</td></tr><tr><td colspan="2">Oportunidades</td><td colspan="1" valign="top">Falta de información por especialistas en el tema.. Falta de plataformas que ofrezcan servicios de hidroponía a nivel nacional.</td><td colspan="1" valign="top">Falta de lugares o webs donde una persona pueda encontrar todo lo relacionado a la hidroponía, soluciones, semillas, huertos, etc.</td><td colspan="1" valign="top">Falta de lugares donde dicten cursos de una gran variedad de temas.</td><td colspan="1" valign="top">Al tener una gran variedad de productos podrán satisfacer las necesidades de sus clientes.</td></tr><tr><td colspan="2">Amenazas</td><td colspan="1" valign="top">Las personas en primera instancia no confiarán en nosotros por ser una nueva empresa. Falta de socios los cuales nos puedan ayudar en el tema económico de la startup.</td><td colspan="1" valign="top">Algunas personas no contarán con el presupuesto suficiente para poder comprar las estaciones esenciales donde cultivar las plantas utilizando esta técnica.</td><td colspan="1" valign="top">Algunas personas no podrán acceder a sus cursos presenciales por falta de tiempo o por la locación de estas capacitaciones.</td><td colspan="1" valign="top">Los mismos productos podrán ser encontrados en otros tipos de páginas</td></tr></tbody></table>
 
-
 ### 2.1.2. Estrategias y tácticas frente a competidores
-
 
 Diferenciación de productos/servicios:
 AgriSage se destacará en el mercado al ofrecer una experiencia de aprendizaje integral y personalizada en hidroponía y agricultura en interiores. Además de proporcionar contenido educativo de alta calidad y recursos prácticos respaldados por asesoramiento personalizado, la plataforma ofrecerá kits de inicio completos para aquellos que deseen comenzar su aventura en la agricultura en interiores de manera fácil y conveniente, a su vez contará con una tienda virtual dentro de la aplicación, y una comunidad de usuarios que contribuira a ella. Estos kits incluirán todo lo necesario para comenzar a cultivar, desde semillas hasta equipos básicos. AgriSage se comprometerá a brindar a los usuarios una solución integral que abarque desde la educación hasta la práctica, simplificando así el proceso de cultivo en interiores.
@@ -487,7 +485,6 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 8. ¿Qué dispositivos prefieres utilizar para acceder a información y recursos sobre hidroponía?
 9. ¿Qué canales digitales sueles utilizar para buscar información relacionada con la jardinería o la agricultura?
 10. ¿Cuáles son tus principales objetivos y frustraciones relacionadas con la jardinería en interiores?
-
 
 **Segmento 2: Expertos en hidroponía que puedan brindar conocimientos**
 
@@ -535,34 +532,31 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 **Segmento Objetivo:** Personas que deseen iniciar en la hidroponía
 
-|                   Tarea                    |  Frecuencia  | Severidad |
-| :----------------------------------------: | :----------: | :-------: |
-| Aprender los conceptos básicos de la hidroponía          | Casi siempre | Alta      |
-| Buscar kits de inicio para hidroponía                   | Casi siempre | Media     |
-| Obtener orientación sobre cómo cultivar con éxito       | A veces      | Alta      |
-| Solucionar problemas durante el cultivo                 | Rara vez     | Alta      |
-| Investigar sobre los diferentes tipos de sistemas de hidroponía | Casi siempre | Media |
-| Comprar suministros y equipos para su sistema de hidroponía | A veces      | Alta    |
-| Registrarse en cursos en línea sobre hidroponía         | A veces      | Media     |
-| Mantener registros y hacer seguimiento del progreso del cultivo | A veces      | Alta   |
-| Establecer un calendario de tareas para el cuidado de las plantas | A veces      | Media |
-
+|                               Tarea                               |  Frecuencia  | Severidad |
+| :---------------------------------------------------------------: | :----------: | :-------: |
+|          Aprender los conceptos básicos de la hidroponía          | Casi siempre |   Alta    |
+|               Buscar kits de inicio para hidroponía               | Casi siempre |   Media   |
+|         Obtener orientación sobre cómo cultivar con éxito         |   A veces    |   Alta    |
+|              Solucionar problemas durante el cultivo              |   Rara vez   |   Alta    |
+|  Investigar sobre los diferentes tipos de sistemas de hidroponía  | Casi siempre |   Media   |
+|    Comprar suministros y equipos para su sistema de hidroponía    |   A veces    |   Alta    |
+|          Registrarse en cursos en línea sobre hidroponía          |   A veces    |   Media   |
+|  Mantener registros y hacer seguimiento del progreso del cultivo  |   A veces    |   Alta    |
+| Establecer un calendario de tareas para el cuidado de las plantas |   A veces    |   Media   |
 
 **Segmento Objetivo:** Expertos que desean brindar sus conocimientos a los principiantes
 
-| Tareas                                      | Frecuencia   | Severidad |
-|---------------------------------------------------------|--------------|-----------|
-| Compartir su experiencia y conocimientos en hidroponía  | Casi siempre | Alta      |
-| Buscar recursos educativos avanzados                   | Casi siempre | Media     |
-| Participar en comunidades de hidroponía                 | A veces      | Alta      |
-| Promover prácticas agrícolas sostenibles                | Rara vez     | Alta      |
-| Dar feedback sobre los productos y equipos de hidroponía| A veces      | Alta      |
-| Investigar nuevas técnicas y tecnologías en hidroponía | Casi siempre | Media     |
-| Asistir a conferencias y eventos relacionados con la hidroponía| Rara vez     | Alta    |
-| Realizar experimentos y pruebas con nuevos sistemas de cultivo | A veces      | Alta |
-| Escribir artículos o guías sobre hidroponía para su blog o sitio web| Rara vez     | Alta |
-
-
+| Tareas                                                               | Frecuencia   | Severidad |
+| -------------------------------------------------------------------- | ------------ | --------- |
+| Compartir su experiencia y conocimientos en hidroponía               | Casi siempre | Alta      |
+| Buscar recursos educativos avanzados                                 | Casi siempre | Media     |
+| Participar en comunidades de hidroponía                              | A veces      | Alta      |
+| Promover prácticas agrícolas sostenibles                             | Rara vez     | Alta      |
+| Dar feedback sobre los productos y equipos de hidroponía             | A veces      | Alta      |
+| Investigar nuevas técnicas y tecnologías en hidroponía               | Casi siempre | Media     |
+| Asistir a conferencias y eventos relacionados con la hidroponía      | Rara vez     | Alta      |
+| Realizar experimentos y pruebas con nuevos sistemas de cultivo       | A veces      | Alta      |
+| Escribir artículos o guías sobre hidroponía para su blog o sitio web | Rara vez     | Alta      |
 
 ### 2.3.3. User Journey Mapping
 
@@ -586,7 +580,6 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 2.3.5. As-is Scenario Mapping
 
-
 # Capítulo III: Requeriments Specifications
 
 ## 3.1 To-Be Scenario Mapping
@@ -596,7 +589,6 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 ## 3.3 Impact Mapping
 
 ## 3.4 Product Backlog
-
 
 # Capítulo IV: Product Design
 
@@ -654,7 +646,6 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 4.8.1. Database Diagram.
 
-
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
@@ -686,7 +677,6 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
-
 
 ## Conclusiones
 
