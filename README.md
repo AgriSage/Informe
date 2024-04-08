@@ -566,6 +566,22 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 2.3.3. User Journey Mapping
 
+**User Journey Mapping del segmento: Personas que deseen iniciar en la hidroponía**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/nrHoNDc.png">
+
+</div>
+
+**User Journey Mapping del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/0PkBzuf.png">
+
+</div>
+
 ### 2.3.4. Empathy Mapping
 
 ### 2.3.5. As-is Scenario Mapping
