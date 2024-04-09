@@ -602,13 +602,110 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 4.2.1. Organization Systems.
 
+La página de aterrizaje y las secciones de la aplicación se crearán utilizando una estructura visual jerárquica en el sitio web.
+Esto permitirá la colocación adecuada de cada elemento necesario para este desarrollo.
+Se espera que se tengan en cuenta elementos como las etiquetas, las especificaciones de pantalla y la resolución.
+Además, los iconos se diseñarán utilizando una matriz, lo que aumentará la visibilidad de los detalles y permitirá mantener un proceso ordenado en todo momento.
+
+#### **El público objetivo: Personas que quieran iniciarse en el cultivo hidropónico.**
+
+**Jerarquía:**
+
+Aplicando los filtros adecuados, los vídeos, capítulos, cursos o temas seleccionados pueden aparecer en el orden correcto, es decir, los elementos con mayor coincidencia aparecerán primero y así sucesivamente. El usuario tendrá la posibilidad de elegir el resultado que más le atraiga.
+
+**Secuencial:**
+
+Cuando se necesita crear una cuenta para utilizar la aplicación, la información que aparece en pantalla debe seguir una secuencia, ya que se deben respetar los pasos necesarios para que la tarea se complete.
+
+**Matricial:**
+
+En la configuración de la cuenta, el usuario podrá configurar los diferentes aspectos de la cuenta según sus preferencias, mostrando las secciones divididas en apartados.
+
+#### **Segmento Objetivo: Expertos interesados en brindar sus servicios**
+
+**Jerarquía:**
+
+Especialización:
+
+Los expertos pueden ser clasificados según su área de especialización, como “Nutricionistas”, “Ingenieros Agrónomos”, “Diseñadores de Sistemas Hidropónicos”, etc.
+Experiencia:
+
+Puedes organizar a los expertos según su nivel de experiencia, desde principiantes hasta veteranos.
+Calificaciones y Reseñas:
+
+Si hay un sistema de calificación o reseñas, puedes destacar a los expertos mejor evaluados.
+
+**Secuencial:**
+
+Búsqueda de Expertos:
+
+El usuario busca expertos en el área específica que necesita.
+Perfil del Experto:
+
+Al seleccionar un experto, se muestra su perfil completo, incluyendo su experiencia, habilidades y reseñas.
+Contacto o Contratación:
+
+El usuario puede comunicarse con el experto o contratar sus servicios directamente desde la plataforma.
+
+**Matricial:**
+
+En la configuración de la cuenta, el usuario podrá configurar los diferentes aspectos de la cuenta según sus preferencias, mostrando las secciones divididas en apartados.
+
 ### 4.2.2. Labeling Systems.
+
+Tendremos un sistema de etiquetado en la sección inicial de la Landing Page en la que se evidencia informacion clara y presisa de los cursos y guías que se ofrecen en la aplicación.
+
+Home: En esta sección se muestra la sección inicial de la Landing Page, en la que se ofrece la bienvenida a los posibles usuarios, junto a una frase que representa al proyecto.
+Servicios: En esta sección se describen las características que los usuarios podrán encontrar al hacer uso de nuestra aplicación.
+Quiénes somos: En esta sección el cliente puede observar información acerca de nuestro equipo de desarrollo y una descripción breve de nuestro objetivo.
+Contacto: En esta sección se muestra la información de contacto de la empresa, como el correo electrónico, número de teléfono y dirección física.
+Cursos: En esta sección se muestra la información acerca de los cursos que se ofrecen en la aplicación, junto a una breve descripción de cada uno.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+En esta seción se describen las etiquetas SEO y Meta Tags que se utilizarán en la aplicación para mejorar la visibilidad en los motores de búsqueda.
+
+Para el Landing Page:
+
+- **Title:** "AgriSage - Aprende a cultivar en casa con hidroponía"
+
+- **Description:** "AgriSage es una plataforma educativa que te enseña a cultivar en casa con hidroponía. Aprende a cultivar tus propias plantas de forma sostenible y eficiente."
+
+- **Keywords:** "hidroponía, cultivo en casa, agricultura urbana, jardinería en interiores, plantas en casa"
+
+- **Autor:** AgriSage
+
+Para la aplicación web:
+
+- **Title:** "Inicio Agri - Aprende a cultivar en casa con hidroponía"
+
+- **Description:** "Aquí encontrarás cursos, guías y recursos para aprender a cultivar en casa con hidroponía. Conviértete en un experto en jardinería en interiores."
+
+- **Keywords:** "hidroponía, cultivo en casa, agricultura urbana, jardinería en interiores, plantas en casa, cursos de hidroponía, guías de cultivo, recursos para jardinería"
+
+- **Autor:** AgriSage
+
 ### 4.2.4. Searching Systems.
 
+En la aplicación se implementará un sistema de búsqueda que permitirá a los usuarios encontrar rápidamente los cursos, guías y recursos que necesitan. El sistema de búsqueda se basará en palabras clave y categorías, y mostrará resultados relevantes de acuerdo con los términos de búsqueda del usuario.
+
+- **Landing Page**
+
+  En la Landing Page, el sistema de búsqueda permitirá a los usuarios buscar cursos, guías y recursos por palabras clave, categorías y temas. Los resultados de la búsqueda se mostrarán en una lista ordenada por relevancia, y los usuarios podrán hacer clic en los resultados para obtener más información.
+
+- **Aplicación Web**
+
+  En la aplicación web, el sistema de búsqueda permitirá a los usuarios buscar cursos, guías y recursos por palabras clave, categorías y temas. Los resultados de la búsqueda se mostrarán en una lista ordenada por relevancia, y los usuarios podrán hacer clic en los resultados para obtener más información.
+
 ### 4.2.5. Navigation Systems.
+
+La landing Page de AgriSage contará con un sistema de navegación sencillo y claro, que permitirá a los usuarios encontrar fácilmente la información que buscan. La navegación se organizará en categorías y subcategorías, y se mostrará de forma clara y concisa en la parte superior de la página.
+
+- Iniciar sessión Registrarse: Los usuarios podrán iniciar sesión o registrarse en la aplicación web desde cualquier página de la Landing Page, utilizando un formulario de inicio de sesión o registro que se mostrará en la parte superior de la página.
+
+- Barra de navegación: La barra de navegación de la Landing Page incluirá las siguientes secciones: Inicio, Servicios, Quiénes somos, Contacto, Cursos. Cada sección estará claramente etiquetada y será fácilmente accesible desde cualquier página de la Landing Page.
+
+- Menú desplegable: En la aplicación web, el menú desplegable permitirá a los usuarios acceder a las diferentes secciones de la aplicación de forma rápida y sencilla. Los usuarios podrán navegar por las diferentes categorías y subcategorías de cursos, guías y recursos, y encontrar la información que necesitan de forma eficiente.
 
 ## 4.3. Landing Page UI Design.
 
