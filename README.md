@@ -711,6 +711,15 @@ La landing Page de AgriSage contará con un sistema de navegación sencillo y cl
 
 ### 4.3.1. Landing Page Wireframe.
 
+Se empleará el patrón Z en la página de inicio para dirigir a los usuarios de una forma más rápida al contenido importante.
+Comienza con el logo luego las opciones de importancia.
+Se utilizará un diseño de cuadrícula para organizar los elementos de la página de inicio de forma clara y ordenada.
+
+<div align="center">
+  <img src="images/4.3.1-1.png">
+  <img src="images/4.3.1-2.png">
+</div>
+
 ### 4.3.2. Landing Page Mock-up.
 
 ## 4.4. Web Applications UX/UI Design.
