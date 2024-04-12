@@ -295,8 +295,7 @@ AgriSage es una startup que nace con la finalidad de brindar conocimientos y hab
 
 - **Monetización:** <br><br>
 
-Nuestra aplicación se enorgullece de ofrecer una extensa variedad de cursos especializados en hidroponía para satisfacer las necesidades de aprendizaje de nuestros usuarios. Desde técnicas básicas hasta avanzadas, nuestra plataforma ofrece una selección curada de cursos diseñados por expertos en la industria. Con un enfoque en la calidad del contenido y la accesibilidad, los usuarios pueden adquirir cursos individualmente para profundizar en áreas específicas de interés. Además, mediante la monetización exclusiva de la venta de cursos, garantizamos una experiencia de aprendizaje sin distracciones publicitarias. Cada curso está cuidadosamente elaborado para proporcionar conocimientos prácticos y habilidades aplicables, lo que permite a los usuarios avanzar en su viaje hacia la maestría en la hidroponía con confianza y eficacia.
-
+Nuestra aplicación se enorgullece de ofrecer una extensa variedad de cursos especializados en hidroponía para satisfacer las necesidades de aprendizaje de nuestros usuarios. Desde técnicas básicas hasta avanzadas, nuestra plataforma ofrece una selección curada de cursos diseñados por expertos en la industria. Con un enfoque en la calidad del contenido y la accesibilidad, los usuarios pueden adquirir cursos individualmente para profundizar en áreas específicas de interés. Además, mediante la monetización exclusiva de la venta de cursos y productos especializados par introducirnos en el mundo de la hidroponía. Cada curso y cada producto estará cuidadosamente elaborado para proporcionar conocimientos prácticos y habilidades aplicables, lo que permite a los usuarios avanzar en su viaje hacia la maestría en la hidroponía con nuestro respaldo y apoyo continuo.
 <br><br>
 
 ### 1.2.1. Antecedentes y problemática
