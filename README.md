@@ -721,6 +721,14 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 
 ### 4.3.2. Landing Page Mock-up.
 
+<div align="center">
+  <img src="images/landing-mockup-1.png">
+  <img src="images/landing-mockup-2.png">
+  <img src="images/landing-mockup-3.png">
+  <img src="images/landing-mockup-4.png">
+  <img src="images/landing-mockup-5.png">
+</div>
+
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
