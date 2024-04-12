@@ -578,6 +578,26 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 2.3.4. Empathy Mapping
 
+Los Mapas de Empatía son fundamentales para el proyecto AgriSage, ya que facilitan una comprensión profunda y completa de las experiencias, pensamientos y emociones de los usuarios clave. Estos mapas brindan una visión integral de cómo los usuarios perciben, sienten, observan, escuchan, expresan y se comportan en relación con la agricultura interior y la hidroponía. Al ofrecer una representación visual y detallada de sus puntos de vista y necesidades, los Mapas de Empatía orientan el desarrollo de la plataforma asegurando que se aborden los problemas reales y se satisfagan las expectativas de los usuarios.
+
+**Empathy Mapping del segmento: Personas que deseen iniciar en la hidroponía**
+
+<div align="center">
+
+  <img src="images/EmpathyMap.png">
+
+</div>
+
+**Empathy Mapping del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
+
+<div align="center">
+
+  <img src="images/EmpathyMap2.png">
+
+</div>
+
+
+
 ### 2.3.5. As-is Scenario Mapping
 
 # Capítulo III: Requeriments Specifications
