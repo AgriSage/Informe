@@ -618,6 +618,22 @@ Los Mapas de Empatía son fundamentales para el proyecto AgriSage, ya que facili
 
 ### [**2.3.5. As-is Scenario Mapping**](#as-is-scenario-mapping)
 
+**As-is Scenario Mapping del segmento: Personas que deseen iniciar en la hidroponía**
+
+<div align="center">
+
+  <img src="images/ASISMAPPING.png">
+
+</div>
+
+**As-is Scenario Mapping del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
+
+<div align="center">
+
+  <img src="images/ASISMAPPING2.png">
+
+</div>
+
 
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
 
