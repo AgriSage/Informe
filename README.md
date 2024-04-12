@@ -69,30 +69,28 @@ _TB1_
 
 Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
 
-|Integrante|Actvidades Asignadas|
-|----------|----------|
-|Luis Anampa||
-|Diego Pumahualcca||
-|Alexander Justo||
-|Eduardo Mancilla||
-|Diego Cisneros||
+| Integrante        | Actvidades Asignadas |
+| ----------------- | -------------------- |
+| Luis Anampa       |                      |
+| Diego Pumahualcca |                      |
+| Alexander Justo   |                      |
+| Eduardo Mancilla  |                      |
+| Diego Cisneros    |                      |
 
 # Student Outcome
 
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-------------------|-------------------|------------|
-|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Luis Anampa**<br>TB1:<br><br>**Diego Pumahualcca**<br>TB1:<br><br>**Alexander Justo**<br>TB1:<br><br>**Eduardo Mancilla**<br>TB1:<br><br>**Diego Cisnero**<br>TB1:<br>|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Luis Anampa**<br>TB1:<br><br>**Diego Pumahualcca**<br>TB1:<br>**Alexander Justo**<br>TB1: <br><br>**Eduardo Mancilla**<br>TB1:<br><br>**Diego Cisnero**<br>TB1:<br>|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
-
-
+| Criterio Especifico                                                                                                                                                                                       | Acciones Realizadas                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.     | **Luis Anampa**<br>TB1:<br><br>**Diego Pumahualcca**<br>TB1:<br><br>**Alexander Justo**<br>TB1:<br><br>**Eduardo Mancilla**<br>TB1:<br><br>**Diego Cisnero**<br>TB1:<br> | La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.                             |
+| Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería. | **Luis Anampa**<br>TB1:<br><br>**Diego Pumahualcca**<br>TB1:<br>**Alexander Justo**<br>TB1: <br><br>**Eduardo Mancilla**<br>TB1:<br><br>**Diego Cisnero**<br>TB1:<br>    | La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo. |
 
 # Contenido
 
 - [Contenido](#contenido)
 - [**Capítulo I: Introducción.**](#capítulo-i-introducción)
-  - [**1.1  Startup Profile.**](#11--startup-profile)
+  - [**1.1 Startup Profile.**](#11--startup-profile)
     - [**1.1.1. Descripción del startup.**](#111-descripción-del-startup)
-    - [**1.1.2.  Perfiles de los integrantes del equipo.**](#112--perfiles-de-los-integrantes-del-equipo)
+    - [**1.1.2. Perfiles de los integrantes del equipo.**](#112--perfiles-de-los-integrantes-del-equipo)
   - [**1.2. Solution Profile.**](#12-solution-profile)
     - [**1.2.1. Antecedentes y Problemática.**](#121-antecedentes-y-problemática)
     - [**1.2.2. Lean UX Process.**](#122-lean-ux-process)
@@ -171,13 +169,14 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 <br><br>
 
 # [**Capítulo I: Introducción.**](#capítulo-i-introducción)
-## [**1.1  Startup Profile.**](#startup-profile)
+
+## [**1.1 Startup Profile.**](#startup-profile)
 
 ### [**1.1.1. Descripción del startup.**](#descripción-del-startup)
 
 AgriSage es una startup que nace con la finalidad de brindar conocimientos y habilidades a personas apasionadas por la hidroponía y la creación de granjas en casa. Ofrecemos una experiencia de aprendizaje integral que combina cursos en línea, recursos prácticos y una comunidad activa de entusiastas. Desde principiantes hasta expertos, nuestra plataforma proporciona las herramientas necesarias para adentrarse en el emocionante mundo de la agricultura en interiores. A través de contenido didáctico de alta calidad y asesoramiento personalizado, estamos transformando la forma en que las personas realizan el proceso de cultivo, promoviendo la sostenibilidad y la autosuficiencia en entornos urbanos y rurales por igual.
 
-### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-los-integrantes-del-equipo)
+### [**1.1.2. Perfiles de los integrantes del equipo.**](#perfiles-de-los-integrantes-del-equipo)
 
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
@@ -319,7 +318,6 @@ AgriSage es una startup que nace con la finalidad de brindar conocimientos y hab
 Nuestra aplicación se enorgullece de ofrecer una extensa variedad de cursos especializados en hidroponía para satisfacer las necesidades de aprendizaje de nuestros usuarios. Desde técnicas básicas hasta avanzadas, nuestra plataforma ofrece una selección curada de cursos diseñados por expertos en la industria. Con un enfoque en la calidad del contenido y la accesibilidad, los usuarios pueden adquirir cursos individualmente para profundizar en áreas específicas de interés. Además, mediante la monetización exclusiva de la venta de cursos y productos especializados par introducirnos en el mundo de la hidroponía. Cada curso y cada producto estará cuidadosamente elaborado para proporcionar conocimientos prácticos y habilidades aplicables, lo que permite a los usuarios avanzar en su viaje hacia la maestría en la hidroponía con nuestro respaldo y apoyo continuo.
 <br><br>
 
-
 ### [**1.2.1. Antecedentes y Problemática.**](#antecedentes-y-problemática)
 
 - **What?** <br><br>
@@ -347,6 +345,7 @@ Nuestra aplicación se enorgullece de ofrecer una extensa variedad de cursos esp
   La problemática se origina debido a que existe poca información que podemos encontrar sobre hidroponía en el hogar, y la que se encuentra puede resultar complicada para las personas nuevas en el tema. Además, la información proporcionada en páginas web llega a presentarse de forma desordenada, lo que genera más obstáculos para los usuarios. <br><br>
 
 ### [**1.2.2. Lean UX Process.**](#lean-ux-process)
+
 #### [**1.2.2.1. Lean UX Problem Statements.**](#lean-ux-problem-statements)
 
 La hidroponía es una de las actividades que posee gran cantidad de practicantes, a la vez que existen personas que desean aventurarse en la hidroponía y la creación de granjas en casa. De acuerdo a El Comercio (2019), la hidroponía es el futuro de la agricultura sostenible, debido a que necesita 90% menos agua que los métodos de agricultura convencionales. Además, afirman que es un modelo que se adapta a espacios pequeños, permitiendo así una mayor eficiencia en la regulación de la nutrición y el crecimiento de cultivos se da con mayor rapidez. Aunque, a menudo, las personas que incursionan en la hidroponía se enfrentan a barreras que dificultan su acceso a la información y los recursos necesarios. La falta de una plataforma educativa integral y práctica hace que la curva de aprendizaje sea empinada y desafiante. Además, la falta de interacción significativa con una comunidad activa de personas con ideas afines puede hacer que este proceso se sienta aislado. Es por este motivo que, como startup, abordaremos la resolución de la siguiente cuestión: ¿Cómo podemos aplicar nuestro conocimiento tecnológico para ofrecer un servicio novedoso que pueda ofrecer la información necesaria para los principiantes en la hidroponía?
@@ -415,6 +414,7 @@ La hidroponía es una de las actividades que posee gran cantidad de practicantes
 <br><br>
 
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
+
 ## [**2.1. Competidores.**](#competidores)
 
 <br>
@@ -480,6 +480,7 @@ Innovación continua y mejora de productos:
 AgriSage se comprometerá a mantenerse a la vanguardia de la innovación en hidroponía y agricultura en interiores, no solo en términos de educación y recursos, sino también en la oferta de productos y servicios. Se realizarán actualizaciones regulares en la tienda en línea de AgriSage para agregar nuevos productos, mejorar la selección existente y adaptarse a las necesidades cambiantes de los usuarios. Se buscará colaborar con fabricantes y proveedores de renombre para ofrecer productos de alta calidad y tecnología avanzada que mejoren la experiencia de cultivo en interiores de los usuarios. Esta estrategia garantizará que AgriSage continúe siendo relevante y atractivo para su base de usuarios, promoviendo así el crecimiento y la fidelización del cliente.
 
 ## [**2.2. Entrevistas.**](#entrevistas)
+
 ### [**2.2.1. Diseño de entrevistas.**](#diseño-de-entrevistas)
 
 En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos. Esta información se usará en el desarrollo de nuestra solución.
@@ -614,7 +615,6 @@ Los Mapas de Empatía son fundamentales para el proyecto AgriSage, ya que facili
 
 </div>
 
-
 ### [**2.3.5. As-is Scenario Mapping**](#as-is-scenario-mapping)
 
 **As-is Scenario Mapping del segmento: Personas que deseen iniciar en la hidroponía**
@@ -633,12 +633,11 @@ Los Mapas de Empatía son fundamentales para el proyecto AgriSage, ya que facili
 
 </div>
 
-
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
 
 # [**Capítulo III: Requirements Specification.**](#capítulo-iii-requirements-specification)
-## [**3.1. To-Be Scenario Mapping.**](#to-be-scenario-mapping)
 
+## [**3.1. To-Be Scenario Mapping.**](#to-be-scenario-mapping)
 
 ## [**3.2.User Stories.**](#user-stories)
 
@@ -647,12 +646,15 @@ Los Mapas de Empatía son fundamentales para el proyecto AgriSage, ya que facili
 ## [**3.4. Product Backlog.**](#product-backlog)
 
 # [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
+
 ## [**4.1. Style Guidelines.**](#style-guidelines)
+
 ### [**4.1.1. General Style Guidelines.**](#general-style-guidelines)
 
 ### [**4.1.2. Web Style Guidelines.**](#web-style-guidelines)
 
 ## [**4.2. Information Architecture.**](#information-architecture)
+
 ### [**4.2.1. Organization Systems.**](#organization-systems)
 
 La página de aterrizaje y las secciones de la aplicación se crearán utilizando una estructura visual jerárquica en el sitio web.
@@ -759,7 +761,9 @@ La landing Page de AgriSage contará con un sistema de navegación sencillo y cl
 - Barra de navegación: La barra de navegación de la Landing Page incluirá las siguientes secciones: Inicio, Servicios, Quiénes somos, Contacto, Cursos. Cada sección estará claramente etiquetada y será fácilmente accesible desde cualquier página de la Landing Page.
 
 - Menú desplegable: En la aplicación web, el menú desplegable permitirá a los usuarios acceder a las diferentes secciones de la aplicación de forma rápida y sencilla. Los usuarios podrán navegar por las diferentes categorías y subcategorías de cursos, guías y recursos, y encontrar la información que necesitan de forma eficiente.
+
 ## [**4.3. Landing Page UI Design**](#landing-page-ui-design)
+
 ### [**4.3.1. Landing Page Wireframe.**](#landing-page-wireframe)
 
 Se empleará el patrón Z en la página de inicio para dirigir a los usuarios de una forma más rápida al contenido importante.
@@ -782,6 +786,7 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 </div>
 
 ## [**4.4. Web Applications UX/UI Design.**](#web-applications-uxui-design)
+
 ### [**4.4.1. Web Applications Wireframes.**](#web-applications-wireframes)
 
 ### [**4.4.2. Web Applications Wireflow Diagrams.**](#web-applications-wireflow-diagrams)
@@ -793,6 +798,7 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 ## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping)
 
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
+
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
 
 ### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
@@ -800,24 +806,31 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 ### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
 
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
+
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
+
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
 
 ## [**4.8. Database Design.**](#database-design)
+
 ### [**4.8.1. Database Diagram.**](#database-diagram)
 
 # [**Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
+
 ## [**5.1. Software Configuration Management.**](#software-configuration-management)
+
 ### [**5.1.1. Software Development Environment Configuration.**](#software-development-environment-configuration)
 
 ### [**5.1.2. Source Code Management.**](#source-code-management)
 
 ### [**5.1.3. Source Code Style Guide \& Conventions.**](#source-code-style-guide--conventions)
 
-### [**5.1.4. Software Deployment Configuration.**](#software-deployment-configuration)    
+### [**5.1.4. Software Deployment Configuration.**](#software-deployment-configuration)
 
 ## [**5.2. Landing Page, Services \& Applications Implementation.**](#landing-page-services--applications-implementation)
+
 ### [**5.2.1. Sprint 1.**](#sprint-1)
+
 #### [**5.2.1.1. Sprint Planning 1.**](#sprint-planning-1)
 
 #### [**5.2.1.2. Sprint Backlog 1.**](#sprint-backlog-1)
