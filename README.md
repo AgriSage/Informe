@@ -828,6 +828,7 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
 
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
+<img src="images/ClassDiagram.png" alt="Class Diagram">
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
 
