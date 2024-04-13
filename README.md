@@ -835,6 +835,7 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 ## [**4.8. Database Design.**](#database-design)
 
 ### [**4.8.1. Database Diagram.**](#database-diagram)
+<img src="images/DataBaseDiagram.png" alt="DataBase Diagram">
 
 # [**Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
 
