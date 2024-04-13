@@ -180,19 +180,19 @@ Producto:
 
 ### 1.1.1. Descripción de la Startup
 
-Nuestra startup [nombre] tiene como objetivo conectar a personas que presentan algún tipo de bienestar emocional, tales como estrés laboral, ansiedad social y necesitan ayuda de especialistas en salud mental. Si estás estresado, ansioso o tienes otros problemas similares, nuestra aplicación se encargará de ofrecer un espacio donde puedes expresar lo que te está pasando. Los usuarios pueden participar en pequeños foros donde pueden hablar sobre sus problemas y recibir recomendaciones y/o consejos acerca de ejercicios de relajación que pueden adoptar como rutina, los cuales son ofrecidos por especialistas en salud mental y también podrán participar de talleres y eventos gratuitos ofrecidos por especialistas. Además, ofrecemos un plan de suscripción que incluye acceso a eventos exclusivos, análisis detallados de tu salud emocional y la posibilidad de reservar hasta 3 citas con nuestros especialistas, que están disponibles en la aplicación. Se contará con acceso al perfil del especialista además de ver una sección de reseñas de usuarios beneficiados con sus terapias, con el fin de que puedan adquirir sus servicios. Este proyecto busca proporcionar a los usuarios afectados un espacio seguro para expresar sus preocupaciones y recibir apoyo de especialistas y otros usuarios dispuestos a ofrecer consejos y ayuda.
+AgriSage es una nueva empresa que surge con el propósito de enseñar y capacitar a individuos que tienen un fervor por la hidroponía y la creación de granjas en casa. Ofrecemos una experiencia educativa completa que incluye cursos en línea, recursos prácticos y una comunidad activa de entusiastas. Tanto para principiantes como para expertos, nuestra plataforma proporciona las herramientas necesarias para explorar el fascinante mundo de la agricultura en interiores. A través de contenido didáctico de primera calidad y orientación personalizada, estamos cambiando la manera en que las personas cultivan, fomentando la sostenibilidad y la autosuficiencia tanto en entornos urbanos como rurales.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 <!-- poner las rutas de las imagenes de assets en src -->
 | Miembros del equipo                                                                                                                     | Codigo Estudiante | Carrera | Conocimientos / Habilidades                                                   |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|-------------------------------------------------------------------------------| 
-| Nicolas Sebastian Esteban Garcia  <img src="./assets/members-profile/nicolas-profile.jpg" alt="Imagen del compañero" style="width:80%"> | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton. Comunicación asertiva y facil adaptación          |
-| Djalma Santos Dioses Molina <img src="" alt="Imagen del compañero" style="width:80%">                                                   | U201921405        |Ingenieria de software| HTML, CSS, JS, C++, C#, SQL, Phyton. Responsable.                             |
-| Esteban Garcia, Nicolas Sebastian <img src="" alt="Imagen del compañero" style="width:80%">                                             | U202217485        |Ingenieria de software| C++, JS, HTML, CSS, Phyton                                                    |
-| Príncipe Godoy, Johan 	<img src="./assets/members-profile/johan-profile.jpg" alt="Imagen del compañero" style="width:80%">             | U202014511        |Ingenieria de software| C++, JS, HTML, CSS, Phyton, SQL, MongoDB. Trabajo en equipo y responsabilidad |
-| Burga Loarte Anaely <br />	<img src="./assets/members-profile/1.jpg" alt="Imagen del compañero" style="width:50%; height:60%">                                                          | U202118264        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
-| Torrejon Navarro Braulio Rodrigo	<img src="./assets/members-profile/22.jpg" alt="Imagen del compañero" style="width:80%">                                                          | U201711828        |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
-| Alexander Paolo Justo Yauricasa <img src="" alt="Imagen del compañero" style="width:80%">                                                | U201921405        |Ingenieria de software| Phyton, HTML, JS, C++, C#, SQL. Facil adaptación y responsable                   |
+|  |         |Ingenieria de software|          |
+|  |         |Ingenieria de software|          |
+| Alexander Paolo Justo Yauricasa	<img src="" alt="Imagen del compañero" style="width:80%"> | U20191C054 |Ingenieria de software| C++, C#, JS, HTML, CSS, Phyton | 
+|  |         |Ingenieria de software|          |
+|  |         |Ingenieria de software|          |
+
+
 
 ## 1.2. Solution Profile
 
