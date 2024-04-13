@@ -1,4 +1,4 @@
-  <img src="images/UpcLogo.png" alt="Logo de UPC" width="100%">
+<img src="images/UpcLogo.png" alt="Logo de UPC" width="100%">
 </p>
 
 # Universidad Peruana de Ciencias Aplicadas
@@ -26,6 +26,7 @@ Producto:
 | Alexander Paolo Justo Yauricasa  | U20191C054 |
 | Mancilla Ordaya, Eduardo Vicente | U202018894 |
 |   Cisneros Tafur, Diego Rafael   | U20221A715 |
+</div>
 
  <hr>
 
