@@ -260,21 +260,21 @@ AgriSage es una startup que nace con la finalidad de brindar conocimientos y hab
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            NOMBRE Y APELLIDO
+            Diego Rodrigo Pumahualcca Garcia
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        CARRERA
+        Ingenieria de Software
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        COMPLETAR
+        Mi nombre es Diego Pumahualcca y tengo 19 años. Estoy cursando la carrera de Ingeniería de Software en la UPC. Elegi la carrera, porque me interese por la creacion de paginas web y el diseño web. Con el paso del tiempo me gusto hacer los diagramas de clases, contexto, contenedores, componentes, etc.
         </td>
     </tr>
     <tr align="center">
