@@ -298,7 +298,7 @@ AgriSage es una startup que nace con la finalidad de brindar conocimientos y hab
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        COMPLETAR
+        Mi  nombre es Alexander Paolo Justo Yauricasa y tengo 21 años. Estoy cursando el 6to ciclo de la carrera de Ingeneria de Software en la UPC. Acualmente, busco alcansar un puesto laboran como data science. Ademas, mis aficiones es ver peliculas, los videojuegos y viajar.
         </td>
     </tr>
 </table>
