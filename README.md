@@ -820,6 +820,7 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 <img src="images/ContextDiagram.png" alt="Context Diagram">
 
 ### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
+<img src="images/ContainerDiagram.png" alt="Container Diagram">
 
 
 ### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
