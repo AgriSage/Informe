@@ -199,17 +199,39 @@ AgriSage es una nueva empresa que surge con el propósito de enseñar y capacita
 
 ### 1.2.1 Antecedentes y problemática
 
-Durante el año 2023, se realizó una investigación exhaustiva sobre los índices de salud mental, evidenciando una compleja interacción de factores que afectan el bienestar emocional de la población. Estudios como el llevado a cabo por Johnson et al. (2023) subrayaron la importancia de considerar no solo las diferencias de género, sino también otros aspectos como la edad, el entorno socioeconómico y la historia de trauma en la manifestación de trastornos emocionales. Se encontró que las mujeres tenían una mayor prevalencia de trastornos de ansiedad y depresión, lo que se asociaba con factores como la carga de responsabilidades familiares y sociales, así como el estrés crónico. Por otro lado, los hombres mostraban una mayor propensión hacia trastornos relacionados con la ira y la impulsividad, aunque estas tendencias podrían estar influenciadas por normas de género y roles sociales preestablecidos.
+Nuestra plataforma web lleva el nombre de "AgriSage", reflejando los cultivos utilizados por nuestros usuarios en sus proyectos domésticos. Estos usuarios crecerán junto a nosotros, ampliando constantemente sus conocimientos y habilidades en agricultura. Nuestra propuesta es innovadora y única: brindamos a los usuarios la oportunidad de desarrollar proyectos hidropónicos en sus hogares, desde niveles básicos hasta convertirse en expertos en la materia. La aplicación será fácil de usar para cualquier persona, con una interfaz intuitiva y sencilla. Generaremos ingresos a través de anuncios relacionados con la agricultura, como suministros, equipos y productos. Además, los expertos podrán ofrecer cursos premium a los principiantes, beneficiando a ambas partes y a nuestro equipo. En resumen, AgriSage proporcionará un entorno completo, permitiendo a los usuarios adquirir suministros y mejorar en sus proyectos domésticos.
 
-Además, investigaciones como el Informe Global sobre la Salud Mental (2023) destacaron la importancia de abordar los determinantes sociales de la salud mental, como la discriminación, la marginalización y la falta de acceso a recursos básicos. Estos factores, junto con la estigmatización asociada a los trastornos emocionales, representan barreras significativas para la búsqueda de ayuda y tratamiento. En consecuencia, se requieren intervenciones integrales que no solo se centren en el diagnóstico y tratamiento clínico, sino también en la promoción de entornos sociales y comunitarios que fomenten el apoyo mutuo, la inclusión y la resiliencia emocional.
+* What?
 
-Investigacion (5w, 2h tbn)
+Nuestros usuarios enfrentan dificultades debido a la carencia de comprensión sobre cómo establecer y mantener una granja en su hogar a lo largo del tiempo.
+
+
+* Where?
+
+El problema radica en la escasez de información disponible en varios medios, y lo que se encuentra resulta difícil de comprender.
+
+* When?
+
+El problema radica en la escasez de información disponible en varios medios, y lo que se encuentra resulta difícil de comprender.
+
+* Why?
+
+Normalmente, los usuarios tienen dificultades para encontrar la información requerida sobre hidroponía y granjas domésticas, lo que los lleva a recurrir a la búsqueda en Internet o a preguntar a familiares o amigos en busca de la información más completa posible.
+
+* How?
+
+Para los principiantes, encontrar los pasos necesarios para comenzar una granja en casa puede ser sumamente desafiante. Es precisamente esta dificultad la que motiva la creación de nuestra aplicación, la cual está diseñada para brindar apoyo a todos aquellos entusiastas que deseen convertir su pasión por la hidroponía en realidad y alcanzar sus objetivos.
+
+* How much?
+
+El problema surge de la escasez de información disponible sobre hidroponía en el ámbito doméstico, y la información que se encuentra puede resultar difícil de comprender para aquellos que son nuevos en el tema. Además, la información disponible en páginas web a menudo está desorganizada, lo que añade más obstáculos para los usuarios.
+
 
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-Texto
+La hidroponía cuenta con una gran cantidad de seguidores, al mismo tiempo que hay personas interesadas en aventurarse en esta práctica y en la creación de granjas en sus hogares. Según El Comercio (2019), la hidroponía se perfila como el futuro de la agricultura sostenible, ya que requiere un 90% menos de agua que los métodos agrícolas convencionales y es adaptable a espacios reducidos, lo que permite una mayor eficiencia en la nutrición y el crecimiento de los cultivos, acelerando su desarrollo. Sin embargo, quienes se adentran en la hidroponía a menudo encuentran obstáculos para acceder a la información y los recursos necesarios. La falta de una plataforma educativa integral y práctica dificulta la curva de aprendizaje, y la ausencia de interacción significativa con una comunidad activa de aficionados puede hacer que este proceso se sienta solitario. Es por ello que, como startup, nos planteamos resolver la siguiente pregunta: ¿Cómo podemos aplicar nuestra experiencia tecnológica para ofrecer un servicio innovador que brinde la información necesaria a los principiantes en hidroponía?
 
 #### 1.2.2.2. Lean UX Assumptions.
 
