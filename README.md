@@ -279,19 +279,19 @@ AgriSage es una startup que nace con la finalidad de brindar conocimientos y hab
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src=" " alt=" "  style="margin-bottom: 5px;" width="800"/>
+            <img src="./images/AlexanderJusto.jpg " alt="AlexanderJusto"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            NOMBRE Y APELLIDO
+            Alexander Paolo Justo Yauricasa
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        CARRERA
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
