@@ -639,6 +639,23 @@ Los Mapas de Empatía son fundamentales para el proyecto AgriSage, ya que facili
 
 ## [**3.1. To-Be Scenario Mapping.**](#to-be-scenario-mapping)
 
+**To-Be Scenario Mapping del segmento: Personas que deseen iniciar en la hidroponía**
+
+<div align="center">
+
+  <img src="images/ToBeMapping1.png">
+
+</div>
+
+**To-Be Scenario Mapping del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
+
+<div align="center">
+
+  <img src="images/ToBeMapping2.png">
+
+</div>
+
+
 ## [**3.2.User Stories.**](#user-stories)
 
 ## [**3.3. Impact Mapping.**](#impact-mapping)
