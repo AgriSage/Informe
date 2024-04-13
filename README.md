@@ -480,6 +480,19 @@ Innovación continua y mejora de productos:
 AgriSage se comprometerá a mantenerse a la vanguardia de la innovación en hidroponía y agricultura en interiores, no solo en términos de educación y recursos, sino también en la oferta de productos y servicios. Se realizarán actualizaciones regulares en la tienda en línea de AgriSage para agregar nuevos productos, mejorar la selección existente y adaptarse a las necesidades cambiantes de los usuarios. Se buscará colaborar con fabricantes y proveedores de renombre para ofrecer productos de alta calidad y tecnología avanzada que mejoren la experiencia de cultivo en interiores de los usuarios. Esta estrategia garantizará que AgriSage continúe siendo relevante y atractivo para su base de usuarios, promoviendo así el crecimiento y la fidelización del cliente.
 
 ## [**2.2. Entrevistas.**](#entrevistas)
+**Segmento 1**  
+Nombre: Camila Conde
+Edad: 21 años
+Ocupación: Ingeniería de Software  
+![Imagen de entrevista](image.jpg)  
+{texto mucho}
+
+**Segmento 2**  
+Nombre: _____
+Edad: _ años
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)
+{texto}
 
 ### [**2.2.1. Diseño de entrevistas.**](#diseño-de-entrevistas)
 
