@@ -817,10 +817,13 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
+<img src="images/ContextDiagram.png" alt="Context Diagram"
 
 ### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
 
+
 ### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
+
 
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
 
