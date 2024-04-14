@@ -830,6 +830,8 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
+Nuestro diagrama de contexto muestra las relaciones principales de “”. Este se relaciona primeramente con sus dos tipos de usuarios (Cliente y Asesor) y tres sistemas externos a la aplicación web. Sistema de Cursos para agregar y actualizar cursos (Teachable), Sistema de pago para gestionar los pagos de cursos u otros servicios (Paypal) y Sistema de Contenido para administrar el contenido de cursos y recursos (Joomla)
+
 <img src="images/ContextDiagram.png" alt="Context Diagram">
 
 ### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
