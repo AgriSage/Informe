@@ -79,10 +79,10 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 # Student Outcome
 
-| Criterio Especifico                                                                                                                                                                                       | Acciones Realizadas                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.     | **Luis Anampa**<br>TB1:<br><br>**Diego Pumahualcca**<br>TB1:<br><br>**Alexander Justo**<br>TB1:<br><br>**Eduardo Mancilla**<br>TB1: Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras.<br><br>**Diego Cisnero**<br>TB1:<br> | La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.                             |
-| Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería. | **Luis Anampa**<br>TB1:<br><br>**Diego Pumahualcca**<br>TB1:<br>**Alexander Justo**<br>TB1: <br><br>**Eduardo Mancilla**<br>TB1: Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales.<br><br>**Diego Cisnero**<br>TB1:<br>    | La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo. |
+| Criterio Especifico                                                                                                                                                                                       | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                 | Conclusiones                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.     | **Luis Anampa**<br>TB1:<br><br>**Diego Pumahualcca**<br>TB1:<br><br>**Alexander Justo**<br>TB1:<br><br>**Eduardo Mancilla**<br>TB1: Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras.<br><br>**Diego Cisnero**<br>TB1:<br>                                                     | La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.                             |
+| Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería. | **Luis Anampa**<br>TB1:<br><br>**Diego Pumahualcca**<br>TB1:<br>**Alexander Justo**<br>TB1: <br><br>**Eduardo Mancilla**<br>TB1: Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales.<br><br>**Diego Cisnero**<br>TB1:<br> | La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo. |
 
 # Contenido
 
@@ -534,17 +534,15 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 **Acerca de la entrevista:** Estudiante de la UPC
 
-**- Link:** 
+**- Link:**
 
+**- Instante en el que inicia:**
 
-**- Instante en el que inicia:** 
-
-**- Duración:** 
+**- Duración:**
 
 **Resumen:**
 
 En esta ocasión, se conversó con Dayana Rojas, una estudiante de Comunicación y Marketing que se encuentra incursionando en el mundo de la hidroponía. Dayana expresa su interés en aprender cómo comenzar adecuadamente en este nuevo pasatiempo ya que esta entusiasmada en poder tener sus propios vegetales en casa. Tiene constantes dudas en lo que respecta a los materiales y productos que debería utilizar. Además, busca una plataforma que le proporcione orientación intuitiva sobre la hidroponía, ya sea a través de tutoriales o consejos prácticos.
-
 
 **Segmento 2**  
 Nombre: Salvador Chamorro
@@ -707,67 +705,63 @@ Los Mapas de Empatía son fundamentales para el proyecto AgriSage, ya que facili
 
 ## [**3.2.User Stories.**](#user-stories)
 
-| Epic ID  | Titulo de Épica | Descripción de la épica | 
-|:---|:-----|:-----|
-|EP001|Definición de funcionalidades de la aplicación web|Como usuario deseo que la página ofrezca información acerca de distintos temas sobre la agricultura, principalmente la hidroponía. Como ayuda para mis plantaciones mediante esta técnica.|
-|EP002|Opciones relacionadas a la cuenta del usuario|Como usuario deseo poder crear una cuenta en la página así como editarla y agregar información relevante.|
-|EP003|Opciones relacionadas a la cuenta del experto.|Como experto deseo poder crearme una cuenta asi como poder publicar artículos y cursos de temas de donde me especializo, además de poder potenciar mi cuenta una suscripción..|
-|EP004|Definición de estructura del landing page |Como usuario deseo disponer de un landing page con información pertinente para conocer mejor acerca de la aplicación web |
-|EP005|Definición de estructura del Front-End |Como usuario deseo disponer de una pagina funcional donde pueda registrarme y utilizar los distintos servicios que esta ofrece |
+| Epic ID | Titulo de Épica                                    | Descripción de la épica                                                                                                                                                                    |
+| :------ | :------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| EP001   | Definición de funcionalidades de la aplicación web | Como usuario deseo que la página ofrezca información acerca de distintos temas sobre la agricultura, principalmente la hidroponía. Como ayuda para mis plantaciones mediante esta técnica. |
+| EP002   | Opciones relacionadas a la cuenta del usuario      | Como usuario deseo poder crear una cuenta en la página así como editarla y agregar información relevante.                                                                                  |
+| EP003   | Opciones relacionadas a la cuenta del experto.     | Como experto deseo poder crearme una cuenta asi como poder publicar artículos y cursos de temas de donde me especializo, además de poder potenciar mi cuenta una suscripción..             |
+| EP004   | Definición de estructura del landing page          | Como usuario deseo disponer de un landing page con información pertinente para conocer mejor acerca de la aplicación web                                                                   |
+| EP005   | Definición de estructura del Front-End             | Como usuario deseo disponer de una pagina funcional donde pueda registrarme y utilizar los distintos servicios que esta ofrece                                                             |
 
-| Epic / Story ID | Título | Descripción |Criterios de Aceptación |Relacionado con (Epic ID)|
-|:---------|:---------|:--------|:--------|:------|
-|**US01**|Registro de usuarios|Como usuario, deseo registrarme en la plataforma para acceder a todas sus funciones y contenido.|**Escenario 1: Creación de cuenta** <br>**Dado** que soy un nuevo usuario **Cuando** accedo a la página de registro **Entonces** puedo crear una cuenta ingresando mis datos. <br> **Escenario 2: Verificación de cuenta** <br> **Dado** que he completado el registro **Cuando** ingreso mi correo electrónico para verificar mi cuenta **Entonces** recibo un correo de confirmación y puedo acceder a mi cuenta.|EP001|
-|**US02**|Publicación de contenido|Como experto, deseo poder publicar artículos y cursos relacionados con mi área de conocimiento.|**Escenario 1: Creación de artículos**<br> **Dado** que soy un experto registrado **Cuando** accedo a mi perfil de experto **Entonces** puedo crear y publicar artículos para que otros usuarios los vean.<br> **Escenario 2: Creación de cursos**<br> **Dado** que soy un experto registrado **Cuando** accedo a mi perfil de experto **Entonces** puedo crear y publicar cursos para que otros usuarios los adquieran.|EP002|
-|**US03**|Exploración de contenido|Como usuario, deseo explorar y visualizar el contenido disponible en la plataforma.|**Escenario 1: Explorar artículos**<br> **Dado** que soy un usuario registrado **Cuando** accedo a la sección de artículos **Entonces** puedo ver una lista de artículos disponibles.<br> **Escenario 2: Explorar cursos**<br> **Dado** que soy un usuario registrado **Cuando** accedo a la sección de cursos **Entonces** puedo ver una lista de cursos disponibles para adquirir.|EP001|
-|**US04**|Visualización de contenido destacado|Como usuario, deseo poder visualizar los artículos y cursos mejor valorados por otros usuarios.|**Escenario 1: Ver artículos y cursos destacados**<br> **Dado** que soy un usuario registrado **Cuando** accedo a la sección de destacados **Entonces** puedo ver una lista de artículos y cursos con mejores calificaciones.|EP001|
-|**US05**|Interacción con contenido|Como usuario, deseo poder dejar comentarios y valoraciones en los artículos y cursos.|**Escenario 1: Comentar en artículos y cursos**<br> **Dado** que soy un usuario registrado **Cuando** accedo a un artículo o curso **Entonces** puedo dejar un comentario y una valoración sobre mi experiencia.|EP001|
-|**US06**|Visualización de planes y precios|Como usuario, deseo poder ver los diferentes planes y precios disponibles en la plataforma.|**Escenario 1: Ver planes y precios**<br> **Dado** que soy un usuario registrado **Cuando** accedo a la sección de planes **Entonces** puedo ver una lista de los planes disponibles junto con sus precios.|EP001|
-|**US07**|Exploración de referencias|Como usuario, deseo poder acceder a referencias y testimonios de otros usuarios sobre la plataforma.|**Escenario 1: Explorar referencias**<br> **Dado** que soy un usuario registrado **Cuando** accedo a la sección de referencias **Entonces** puedo ver testimonios y opiniones de otros usuarios.|EP003|
-|**US08**|Visualización del Landing pages |Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página.|**Escenario 1: El usuario visualiza la sección landing page.<br>** **Dado** que el invitado del sector de usuario se encuentra en el landing page **Cuando** ingrese a nuestra landing page **Entonces** verá toda la información que ofrece nuestro producto.<br> **Escenario 2: El usuario no puede visualizar la sección landing page<br>** **Dado** el invitado del sector de usuario se encuentra en el landing page  **Cuando** ingrese a nuestra landing page y no pueda visualizarlo por algun error interno  **Entonces** no pdra ver toda la información que ofrece nuestro producto.|EP004|
-|**US09**|Visualización de los servicios que ofrecen en el landing page |Como invitado deseo visualizar los beneficios de la página, así como los servicios que esta ofrece.|**Escenario 1: El invitado visualiza la sección de servicios<br>** **Dado** que el invitado se encuentra en el landing page  **Cuando** llega hasta la sección de servicios **Entonces** podrá informarse acerca de todos los servicios que ofrecerá nuestra página <br> **Escenario 2: El invitado no puede visualizar la sección de servicios<br>** **Dado** que el invitado se encuentra en el landing page  **Cuando** llega hasta la sección de servicios y no puede visualizarlo por un error interno **Entonces** no podrá informarse acerca de todos los servicios que ofrecerá nuestra página|EP004|
-|**US10**|Visualización de los cursos en la pagina web |Como usuario quero visualizar los cursos que se encuentran disponibles en la pagina web|**Escenario 1: El usuario visualiza los cursos disponibles.<br>** **Dado** que el usuario se encuentra en la vista home   **Cuando** hace click en la vista Cursos en el navbar **Entonces** sera redirigido a la ventana Cursos donde podra visualizar todos los cursos disponibles <br> **Escenario 2:  El usuario no puede visualizar los cursos disponibles.<br>** **Dado** que el usuario se encuentra en la vista home **Cuando** hace click en la vista Cursos en el navbar y no puede visualizar los cursos disponibles **Entonces** no sera redirigido a la ventana Cursos donde podra visualizar todos los cursos disponibles|EP005|
-|**US11**| Vista Home |Como usuario de GreenGrow, deseo una vista "Home" atractiva y funcional que muestre información relevante sobre hidroponía y me permita navegar fácilmente por la aplicación.|**Escenario 1: Se visualiza correctamente la vista Home. <br>** **Dado** que soy un usuario registrado en GreenGrow y he iniciado sesión en mi cuenta, **Cuando** accedo a la página de inicio ("Home") de la aplicación, **Entonces** se me muestra una página principal con un diseño atractivo y bien estructurado. |EP001|
-|**US12**|Sección de ventas|Como usuario, quiero poder acceder a una sección de ventas donde pueda visualizar los productos disponibles y sus precios.|**Escenario 1: Acceso a la sección de ventas**<br> **Dado** que soy un usuario registrado en AgriSage **Cuando** accedo a la sección de ventas desde el menú de navegación **Entonces** se me muestra una lista de productos disponibles para la compra junto con sus precios. <br> **Escenario 2: Visualización de detalles del producto**<br> **Dado** que estoy en la sección de ventas **Cuando** selecciono un producto específico **Entonces** se me muestra una página con detalles adicionales sobre el producto, incluyendo descripción, características y precio.|EP001|
-|**US13**|Gestión de Artículos|Como experto, deseo poder gestionar mis artículos publicados para mantenerlos actualizados y de calidad.|**Escenario 1: Edición de artículos existentes**<br> **Dado** que soy un experto registrado **Cuando** accedo a mi perfil de experto **Entonces** puedo editar mis artículos existentes para corregir errores o actualizar la información. <br> **Escenario 2: Eliminación de artículos**<br> **Dado** que soy un experto registrado **Cuando** accedo a mi perfil de experto **Entonces** puedo eliminar mis artículos publicados si ya no son relevantes o deseo retirarlos de la plataforma.|EP003|
-|**US14**|Interacción con Comentarios|Como experto, deseo poder interactuar con los comentarios dejados en mis artículos para responder preguntas o agradecer retroalimentación.|**Escenario 1: Respuesta a comentarios**<br> **Dado** que soy un experto registrado **Cuando** un usuario deja un comentario en uno de mis artículos **Entonces** puedo responder al comentario para proporcionar más información o agradecer el feedback recibido. <br> **Escenario 2: Gestión de comentarios inapropiados**<br> **Dado** que soy un experto registrado **Cuando** detecto un comentario inapropiado en uno de mis artículos **Entonces** puedo reportar el comentario para que sea revisado por el equipo de moderación de la plataforma.|EP003|
-|**US15**|Seguimiento de Estadísticas|Como experto, deseo tener acceso a estadísticas sobre el rendimiento de mis artículos, como el número de visitas, interacciones y calificaciones, para mejorar mi contenido.|**Escenario 1: Visualización de estadísticas generales**<br> **Dado** que soy un experto registrado **Cuando** accedo a mi perfil de experto **Entonces** puedo ver estadísticas generales sobre el rendimiento de mis artículos, como el número de visitas totales y el promedio de calificación. <br> **Escenario 2: Análisis de tendencias**<br> **Dado** que soy un experto registrado **Cuando** accedo a las estadísticas detalladas de un artículo específico **Entonces** puedo analizar las tendencias de visitas y interacciones a lo largo del tiempo para identificar áreas de mejora en mi contenido.|EP003|
-
-
+| Epic / Story ID | Título                                                        | Descripción                                                                                                                                                                   | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Relacionado con (Epic ID) |
+| :-------------- | :------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------ |
+| **US01**        | Registro de usuarios                                          | Como usuario, deseo registrarme en la plataforma para acceder a todas sus funciones y contenido.                                                                              | **Escenario 1: Creación de cuenta** <br>**Dado** que soy un nuevo usuario **Cuando** accedo a la página de registro **Entonces** puedo crear una cuenta ingresando mis datos. <br> **Escenario 2: Verificación de cuenta** <br> **Dado** que he completado el registro **Cuando** ingreso mi correo electrónico para verificar mi cuenta **Entonces** recibo un correo de confirmación y puedo acceder a mi cuenta.                                                                                                                                                                                                                  | EP001                     |
+| **US02**        | Publicación de contenido                                      | Como experto, deseo poder publicar artículos y cursos relacionados con mi área de conocimiento.                                                                               | **Escenario 1: Creación de artículos**<br> **Dado** que soy un experto registrado **Cuando** accedo a mi perfil de experto **Entonces** puedo crear y publicar artículos para que otros usuarios los vean.<br> **Escenario 2: Creación de cursos**<br> **Dado** que soy un experto registrado **Cuando** accedo a mi perfil de experto **Entonces** puedo crear y publicar cursos para que otros usuarios los adquieran.                                                                                                                                                                                                             | EP002                     |
+| **US03**        | Exploración de contenido                                      | Como usuario, deseo explorar y visualizar el contenido disponible en la plataforma.                                                                                           | **Escenario 1: Explorar artículos**<br> **Dado** que soy un usuario registrado **Cuando** accedo a la sección de artículos **Entonces** puedo ver una lista de artículos disponibles.<br> **Escenario 2: Explorar cursos**<br> **Dado** que soy un usuario registrado **Cuando** accedo a la sección de cursos **Entonces** puedo ver una lista de cursos disponibles para adquirir.                                                                                                                                                                                                                                                 | EP001                     |
+| **US04**        | Visualización de contenido destacado                          | Como usuario, deseo poder visualizar los artículos y cursos mejor valorados por otros usuarios.                                                                               | **Escenario 1: Ver artículos y cursos destacados**<br> **Dado** que soy un usuario registrado **Cuando** accedo a la sección de destacados **Entonces** puedo ver una lista de artículos y cursos con mejores calificaciones.                                                                                                                                                                                                                                                                                                                                                                                                        | EP001                     |
+| **US05**        | Interacción con contenido                                     | Como usuario, deseo poder dejar comentarios y valoraciones en los artículos y cursos.                                                                                         | **Escenario 1: Comentar en artículos y cursos**<br> **Dado** que soy un usuario registrado **Cuando** accedo a un artículo o curso **Entonces** puedo dejar un comentario y una valoración sobre mi experiencia.                                                                                                                                                                                                                                                                                                                                                                                                                     | EP001                     |
+| **US06**        | Visualización de planes y precios                             | Como usuario, deseo poder ver los diferentes planes y precios disponibles en la plataforma.                                                                                   | **Escenario 1: Ver planes y precios**<br> **Dado** que soy un usuario registrado **Cuando** accedo a la sección de planes **Entonces** puedo ver una lista de los planes disponibles junto con sus precios.                                                                                                                                                                                                                                                                                                                                                                                                                          | EP001                     |
+| **US07**        | Exploración de referencias                                    | Como usuario, deseo poder acceder a referencias y testimonios de otros usuarios sobre la plataforma.                                                                          | **Escenario 1: Explorar referencias**<br> **Dado** que soy un usuario registrado **Cuando** accedo a la sección de referencias **Entonces** puedo ver testimonios y opiniones de otros usuarios.                                                                                                                                                                                                                                                                                                                                                                                                                                     | EP003                     |
+| **US08**        | Visualización del Landing pages                               | Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página.                                                                  | **Escenario 1: El usuario visualiza la sección landing page.<br>** **Dado** que el invitado del sector de usuario se encuentra en el landing page **Cuando** ingrese a nuestra landing page **Entonces** verá toda la información que ofrece nuestro producto.<br> **Escenario 2: El usuario no puede visualizar la sección landing page<br>** **Dado** el invitado del sector de usuario se encuentra en el landing page **Cuando** ingrese a nuestra landing page y no pueda visualizarlo por algun error interno **Entonces** no pdra ver toda la información que ofrece nuestro producto.                                        | EP004                     |
+| **US09**        | Visualización de los servicios que ofrecen en el landing page | Como invitado deseo visualizar los beneficios de la página, así como los servicios que esta ofrece.                                                                           | **Escenario 1: El invitado visualiza la sección de servicios<br>** **Dado** que el invitado se encuentra en el landing page **Cuando** llega hasta la sección de servicios **Entonces** podrá informarse acerca de todos los servicios que ofrecerá nuestra página <br> **Escenario 2: El invitado no puede visualizar la sección de servicios<br>** **Dado** que el invitado se encuentra en el landing page **Cuando** llega hasta la sección de servicios y no puede visualizarlo por un error interno **Entonces** no podrá informarse acerca de todos los servicios que ofrecerá nuestra página                                 | EP004                     |
+| **US10**        | Visualización de los cursos en la pagina web                  | Como usuario quero visualizar los cursos que se encuentran disponibles en la pagina web                                                                                       | **Escenario 1: El usuario visualiza los cursos disponibles.<br>** **Dado** que el usuario se encuentra en la vista home **Cuando** hace click en la vista Cursos en el navbar **Entonces** sera redirigido a la ventana Cursos donde podra visualizar todos los cursos disponibles <br> **Escenario 2: El usuario no puede visualizar los cursos disponibles.<br>** **Dado** que el usuario se encuentra en la vista home **Cuando** hace click en la vista Cursos en el navbar y no puede visualizar los cursos disponibles **Entonces** no sera redirigido a la ventana Cursos donde podra visualizar todos los cursos disponibles | EP005                     |
+| **US11**        | Vista Home                                                    | Como usuario de GreenGrow, deseo una vista "Home" atractiva y funcional que muestre información relevante sobre hidroponía y me permita navegar fácilmente por la aplicación. | **Escenario 1: Se visualiza correctamente la vista Home. <br>** **Dado** que soy un usuario registrado en GreenGrow y he iniciado sesión en mi cuenta, **Cuando** accedo a la página de inicio ("Home") de la aplicación, **Entonces** se me muestra una página principal con un diseño atractivo y bien estructurado.                                                                                                                                                                                                                                                                                                               | EP001                     |
+| **US12**        | Sección de ventas                                             | Como usuario, quiero poder acceder a una sección de ventas donde pueda visualizar los productos disponibles y sus precios.                                                    | **Escenario 1: Acceso a la sección de ventas**<br> **Dado** que soy un usuario registrado en AgriSage **Cuando** accedo a la sección de ventas desde el menú de navegación **Entonces** se me muestra una lista de productos disponibles para la compra junto con sus precios. <br> **Escenario 2: Visualización de detalles del producto**<br> **Dado** que estoy en la sección de ventas **Cuando** selecciono un producto específico **Entonces** se me muestra una página con detalles adicionales sobre el producto, incluyendo descripción, características y precio.                                                          | EP001                     |
+| **US13**        | Gestión de Artículos                                          | Como experto, deseo poder gestionar mis artículos publicados para mantenerlos actualizados y de calidad.                                                                      | **Escenario 1: Edición de artículos existentes**<br> **Dado** que soy un experto registrado **Cuando** accedo a mi perfil de experto **Entonces** puedo editar mis artículos existentes para corregir errores o actualizar la información. <br> **Escenario 2: Eliminación de artículos**<br> **Dado** que soy un experto registrado **Cuando** accedo a mi perfil de experto **Entonces** puedo eliminar mis artículos publicados si ya no son relevantes o deseo retirarlos de la plataforma.                                                                                                                                      | EP003                     |
+| **US14**        | Interacción con Comentarios                                   | Como experto, deseo poder interactuar con los comentarios dejados en mis artículos para responder preguntas o agradecer retroalimentación.                                    | **Escenario 1: Respuesta a comentarios**<br> **Dado** que soy un experto registrado **Cuando** un usuario deja un comentario en uno de mis artículos **Entonces** puedo responder al comentario para proporcionar más información o agradecer el feedback recibido. <br> **Escenario 2: Gestión de comentarios inapropiados**<br> **Dado** que soy un experto registrado **Cuando** detecto un comentario inapropiado en uno de mis artículos **Entonces** puedo reportar el comentario para que sea revisado por el equipo de moderación de la plataforma.                                                                          | EP003                     |
+| **US15**        | Seguimiento de Estadísticas                                   | Como experto, deseo tener acceso a estadísticas sobre el rendimiento de mis artículos, como el número de visitas, interacciones y calificaciones, para mejorar mi contenido.  | **Escenario 1: Visualización de estadísticas generales**<br> **Dado** que soy un experto registrado **Cuando** accedo a mi perfil de experto **Entonces** puedo ver estadísticas generales sobre el rendimiento de mis artículos, como el número de visitas totales y el promedio de calificación. <br> **Escenario 2: Análisis de tendencias**<br> **Dado** que soy un experto registrado **Cuando** accedo a las estadísticas detalladas de un artículo específico **Entonces** puedo analizar las tendencias de visitas y interacciones a lo largo del tiempo para identificar áreas de mejora en mi contenido.                   | EP003                     |
 
 ## [**3.3. Impact Mapping.**](#impact-mapping)
 
-*Segmento Personas que deseen iniciar en la hidroponía***
+\*Segmento Personas que deseen iniciar en la hidroponía\*\*\*
 
 ![Impact Mapping](images/ImpactMapO1.png)
 
-*Segmento Expertos que desean brindar sus conocimientos a los principiantes*
+_Segmento Expertos que desean brindar sus conocimientos a los principiantes_
 
 ![Impact Mapping](images/ImpactMapO2.png)
 
 ## [**3.4. Product Backlog.**](#product-backlog)
 
-| # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
-|:-------:|:--------------|:-------|:------------|:-----------------------------------|
-|01| **US01**       | Registro de usuarios | Como usuario, deseo registrarme en la plataforma para acceder a todas sus funciones y contenido. |3|
-|02| **US02**       | Publicación de contenido | Como experto, deseo poder publicar artículos y cursos relacionados con mi área de conocimiento. |5|
-|03| **US03**       | Exploración de contenido | Como usuario, deseo explorar y visualizar el contenido disponible en la plataforma. |3|
-|04| **US04**       | Visualización de contenido destacado | Como usuario, deseo poder visualizar los artículos y cursos mejor valorados por otros usuarios. |5|
-|05| **US05**       | Interacción con contenido | Como usuario, deseo poder dejar comentarios y valoraciones en los artículos y cursos. |5|
-|06| **US06**       | Visualización de planes y precios | Como usuario, deseo poder ver los diferentes planes y precios disponibles en la plataforma. |3|
-|07| **US07**       | Exploración de referencias | Como usuario, deseo poder acceder a referencias y testimonios de otros usuarios sobre la plataforma. |3|
-|08| **US08**       | Visualización del Landing pages | Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página. |3|
-|09| **US09**       | Visualización de los servicios que ofrecen en el landing page | Como invitado deseo visualizar los beneficios de la página, así como los servicios que esta ofrece. |3|
-|10| **US10**       | Visualización de los cursos en la página web | Como usuario quiero visualizar los cursos que se encuentran disponibles en la página web. |5|
-|11| **US11**       | Vista Home | Como usuario de AgriSage, deseo una vista "Home" atractiva y funcional que muestre información relevante sobre hidroponía y me permita navegar fácilmente por la aplicación. |3|
-|12| **US12**       | Sección de ventas | Como usuario, quiero poder acceder a una sección de ventas donde pueda visualizar los productos disponibles y sus precios. |3|
-|13| **US13**       | Gestión de Artículos | Como experto, deseo poder gestionar mis artículos publicados para mantenerlos actualizados y de calidad. |3|
-|14| **US14**       | Interacción con Comentarios | Como experto, deseo poder interactuar con los comentarios dejados en mis artículos para responder preguntas o agradecer retroalimentación. |3|
-|15 | **US15**       | Seguimiento de Estadísticas | Como experto, deseo tener acceso a estadísticas sobre el rendimiento de mis artículos, como el número de visitas, interacciones y calificaciones, para mejorar mi contenido. |3|
+| # Orden | User Story Id | Título                                                        | Descripción                                                                                                                                                                  | Story Points (1 / 2 / 3 / 5 / 8) |
+| :-----: | :------------ | :------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------- |
+|   01    | **US01**      | Registro de usuarios                                          | Como usuario, deseo registrarme en la plataforma para acceder a todas sus funciones y contenido.                                                                             | 3                                |
+|   02    | **US02**      | Publicación de contenido                                      | Como experto, deseo poder publicar artículos y cursos relacionados con mi área de conocimiento.                                                                              | 5                                |
+|   03    | **US03**      | Exploración de contenido                                      | Como usuario, deseo explorar y visualizar el contenido disponible en la plataforma.                                                                                          | 3                                |
+|   04    | **US04**      | Visualización de contenido destacado                          | Como usuario, deseo poder visualizar los artículos y cursos mejor valorados por otros usuarios.                                                                              | 5                                |
+|   05    | **US05**      | Interacción con contenido                                     | Como usuario, deseo poder dejar comentarios y valoraciones en los artículos y cursos.                                                                                        | 5                                |
+|   06    | **US06**      | Visualización de planes y precios                             | Como usuario, deseo poder ver los diferentes planes y precios disponibles en la plataforma.                                                                                  | 3                                |
+|   07    | **US07**      | Exploración de referencias                                    | Como usuario, deseo poder acceder a referencias y testimonios de otros usuarios sobre la plataforma.                                                                         | 3                                |
+|   08    | **US08**      | Visualización del Landing pages                               | Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página.                                                                 | 3                                |
+|   09    | **US09**      | Visualización de los servicios que ofrecen en el landing page | Como invitado deseo visualizar los beneficios de la página, así como los servicios que esta ofrece.                                                                          | 3                                |
+|   10    | **US10**      | Visualización de los cursos en la página web                  | Como usuario quiero visualizar los cursos que se encuentran disponibles en la página web.                                                                                    | 5                                |
+|   11    | **US11**      | Vista Home                                                    | Como usuario de AgriSage, deseo una vista "Home" atractiva y funcional que muestre información relevante sobre hidroponía y me permita navegar fácilmente por la aplicación. | 3                                |
+|   12    | **US12**      | Sección de ventas                                             | Como usuario, quiero poder acceder a una sección de ventas donde pueda visualizar los productos disponibles y sus precios.                                                   | 3                                |
+|   13    | **US13**      | Gestión de Artículos                                          | Como experto, deseo poder gestionar mis artículos publicados para mantenerlos actualizados y de calidad.                                                                     | 3                                |
+|   14    | **US14**      | Interacción con Comentarios                                   | Como experto, deseo poder interactuar con los comentarios dejados en mis artículos para responder preguntas o agradecer retroalimentación.                                   | 3                                |
+|   15    | **US15**      | Seguimiento de Estadísticas                                   | Como experto, deseo tener acceso a estadísticas sobre el rendimiento de mis artículos, como el número de visitas, interacciones y calificaciones, para mejorar mi contenido. | 3                                |
 
 **TOTAL USER STORY POINTS : 53**
-
-
 
 # [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
 
@@ -933,11 +927,54 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 
 ### [**4.4.1. Web Applications Wireframes.**](#web-applications-wireframes)
 
+<img src="images/wire - Inicio de sesión.png" alt="Inicio de sesión">
+
+<img src="images/wire - Registro.png" alt="Registro">
+
+<img src="images/wire - Inicio.png" alt="Inicio">
+
+<img src="images/wire - Cursos.png" alt="Cursos">
+
+<img src="images/wire - Tienda.png" alt="Tienda">
+
+<img src="images/wire - Carrito de compras.png" alt="Carrito de compras">
+
+<img src="images/wire - Card Payment Flow.jpg" alt="Card Payment Flow">
+
+<img src="images/wire - Perfil.png" alt="Perfil">
+
 ### [**4.4.2. Web Applications Wireflow Diagrams.**](#web-applications-wireflow-diagrams)
+
+<img src="images/wireflow - 1.png" alt="Wireflow">
+El usuario ingresa a la página de inicio y puede navegar por las diferentes secciones de la aplicación, como cursos, guías y recursos. Puede ver los detalles de un curso o guía, agregarlo al carrito de compras y realizar el pago. También puede acceder a su perfil para ver su historial de compras y actualizar su información personal.
+
+<img src="images/wireflow - 2.png" alt="Wireflow">
+El usuario puede navegar por las diferentes secciones de la aplicación, como cursos, guías y recursos. Puede ver los detalles de un curso o guía, agregarlo al carrito de compras y realizar el pago. También puede acceder a su perfil para ver su historial de compras y actualizar su información personal.
+
+<img src="images/wireflow - 3.png" alt="Wireflow"> El usario puedo ingresar a su carrito de compras luego puede proceder a hacer el pago de los productos seleccionados.
+
+<img src="images/wireflow - 4.png" alt="Wireflow"> El usuario va a la pasarela de pagos con los productos selecionados a pagar.
+
+<img src="images/wireflow - 5.png" alt="Wireflow"> El usuario puede ver su perfil y editar su información personal desde cualquier punto de la aplicación.
 
 ### [**4.4.3. Web Applications Mock-ups.**](#web-applications-mock-ups)
 
+<div align="center">
+  <img src="images/mockup - Inicio de sesión.png">
+  <img src="images/mockup - Registro.png">
+  <img src="images/mockup - Inicio.png">
+  <img src="images/mockup - Cursos.png">
+  <img src="images/mockup - Tienda.png">
+  <img src="images/mockup - Carrito de compras.png">
+  <img src="images/mockup - Card Payment Flow.jpg">
+  <img src="images/mockup - Perfil.png">
+</div>
+
 ### [**4.4.4. Web Applications User Flow Diagrams.**](#web-applications-user-flow-diagrams)
+
+<img src="images/mockup - wireflow 1.png" alt="Wireflow">
+
+[Link para probar el wireflow](https://www.figma.com/proto/bezkX2UkmUPdeVykSlzBgt/AgriSage?type=design&node-id=36-224&t=aVTs5pgrKPCVhbnI-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=36%3A224&show-proto-sidebar=1&mode=design)
 
 ## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping)
 
@@ -1158,7 +1195,7 @@ Se muestra los componentes. Se encuentra la seguridad para la cuenta del usuario
 
 **Software Testing**
 
-1. Gherkin:  El lenguaje Gherkin es un lenguaje de dominio específico utilizado para escribir pruebas de aceptación en un formato legible por humanos. Se utiliza junto con herramientas de prueba de comportamiento, como Cucumber, para automatizar pruebas funcionales. https://cucumber.io/docs/gherkin/
+1. Gherkin: El lenguaje Gherkin es un lenguaje de dominio específico utilizado para escribir pruebas de aceptación en un formato legible por humanos. Se utiliza junto con herramientas de prueba de comportamiento, como Cucumber, para automatizar pruebas funcionales. https://cucumber.io/docs/gherkin/
 
 **Software Development**
 
@@ -1253,36 +1290,35 @@ Para nuestra implementación, se ha decidido utilizar Gitflow, el cual es un flu
 
 #### [**5.2.1.1. Sprint Planning 1.**](#sprint-planning-1)
 
-| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                    |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sprint Planning Background       |
-| Date                             | 06/04/2024                                                                                                                                      |
-| Time                             | 17:00 horas                                                                                                                                          |
-| Location                         | Reunión realizada mediante Google Meet                                                                                                              |
-| Prepared By                      | Mancilla Ordaya, Eduardo Vicente                                                                                                               |
-| Attendees (to planning meeting) | Luis Angel Anampa Lavado/Pumahualcca Garcia, Diego Rodrigo/Mancilla Ordaya, Eduardo Vicente/Justo Yauricasa,Alexander Paolo/Cisneros Tafur, Diego Rafael	|
-| Sprint n - 1 Review              | Se creará la organización de AgriSage en Github y el repositorio de la organización. Además, se implementará el single page landing page.    |
-| Sprint n – 1 Retrospective       | La implementación para el landing se ha realizado mediante html y css. |
-| **Sprint Goal & User Stories**   |
-| Sprint 1 Goal                    | Realizar y desplegar el Landing Page                                                                                                            |
-| Sprint 1 Velocity                | 5                                                                                                                                              |
-| Sum of Story Points              | 21                                                                                                                                              |
+| Sprint 1                        | Implementación de funcionalidades y diseño de la aplicación.                                                                                             |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background      |
+| Date                            | 06/04/2024                                                                                                                                               |
+| Time                            | 17:00 horas                                                                                                                                              |
+| Location                        | Reunión realizada mediante Google Meet                                                                                                                   |
+| Prepared By                     | Mancilla Ordaya, Eduardo Vicente                                                                                                                         |
+| Attendees (to planning meeting) | Luis Angel Anampa Lavado/Pumahualcca Garcia, Diego Rodrigo/Mancilla Ordaya, Eduardo Vicente/Justo Yauricasa,Alexander Paolo/Cisneros Tafur, Diego Rafael |
+| Sprint n - 1 Review             | Se creará la organización de AgriSage en Github y el repositorio de la organización. Además, se implementará el single page landing page.                |
+| Sprint n – 1 Retrospective      | La implementación para el landing se ha realizado mediante html y css.                                                                                   |
+| **Sprint Goal & User Stories**  |
+| Sprint 1 Goal                   | Realizar y desplegar el Landing Page                                                                                                                     |
+| Sprint 1 Velocity               | 5                                                                                                                                                        |
+| Sum of Story Points             | 21                                                                                                                                                       |
 
 #### [**5.2.1.2. Sprint Backlog 1.**](#sprint-backlog-1)
 
-| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
-| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
-| GW01 | Apartado del Header    | G01 | Header  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                  | Luis Angel    | Done                                   |
-| GW02 | Apartado del Footer    | G02 | Footer  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2                  | Diego Rafael  | Done                                   |
-| GW03 | Seccion Planes         | G03 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.           | 3                  | Diego Rodrigo   | Done                                 |
-| GW04 | Seccion Compra    | G04 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.    | 2                  | Alexander Paolo  | Done                                   |
-| GW05 | Seccion Conoce Mas           | G05 | (Desarrollado en HTML y CSS)        | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.    | 3                  | Eduardo Vicente   | Done                              |
+| id   | Title               | Id  | Title                                | Description                                                                                                 | Estimations(Hours) | Assigned To     | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ------------------- | --- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ------------------ | --------------- | -------------------------------------- |
+| GW01 | Apartado del Header | G01 | Header (Desarrollado en HTML y CSS). | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.    | 3                  | Luis Angel      | Done                                   |
+| GW02 | Apartado del Footer | G02 | Footer (Desarrollado en HTML y CSS). | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive. | 2                  | Diego Rafael    | Done                                   |
+| GW03 | Seccion Planes      | G03 | (Desarrollado en HTML y CSS)         | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.              | 3                  | Diego Rodrigo   | Done                                   |
+| GW04 | Seccion Compra      | G04 | (Desarrollado en HTML y CSS)         | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.              | 2                  | Alexander Paolo | Done                                   |
+| GW05 | Seccion Conoce Mas  | G05 | (Desarrollado en HTML y CSS)         | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.              | 3                  | Eduardo Vicente | Done                                   |
 
 <div align="center">
 
   <img src="https://i.imgur.com/NVZ0474.png">
 
-  
 </div>
 
 Link del trello: https://trello.com/invite/b/dhXlXIgt/ATTI3dff621b068b43e17a21546f4c3da4b22B6EFA58/sprint1-agrisage
@@ -1303,7 +1339,7 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página.
 
-El link de nuestra Landing Page es el siguiente: 
+El link de nuestra Landing Page es el siguiente:
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
@@ -1321,11 +1357,12 @@ El link de nuestra Landing Page es el siguiente:
 
 - A través del análisis de competidores y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para la toma de decisiones informadas en el desarrollo de nuestro producto.<br><br>
 
-
 # [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
 # [**Anexos**](#anexos)
 
 ### Entrevistas:
+
+#### Link Figma: https://www.figma.com/file/bezkX2UkmUPdeVykSlzBgt/AgriSage?type=design&node-id=36%3A224&mode=design&t=v8FaCefprRcoSFI9-1
 
 #### Salvador Chamorro: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA
