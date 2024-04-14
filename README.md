@@ -972,6 +972,10 @@ El usuario puede navegar por las diferentes secciones de la aplicación, como cu
 
 ### [**4.4.4. Web Applications User Flow Diagrams.**](#web-applications-user-flow-diagrams)
 
+<img src="images/mockup - wireflow 1.png" alt="Wireflow">
+
+[Link para probar el wireflow](https://www.figma.com/proto/bezkX2UkmUPdeVykSlzBgt/AgriSage?type=design&node-id=36-224&t=aVTs5pgrKPCVhbnI-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=36%3A224&show-proto-sidebar=1&mode=design)
+
 ## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping)
 
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
