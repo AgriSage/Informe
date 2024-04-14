@@ -742,37 +742,55 @@ Para nuestra implementación, se ha decidido utilizar Gitflow, el cual es un flu
 | Sprint 1 Velocity                | 5                                                                                                                                              |
 | Sum of Story Points              | 21                                                                                                                                              |
 
-#### 5.2.1.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog 1.
 
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
 | GW01 | Apartado del Header    | G01 | Header  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                  | Luis Angel    | Done                                   |
 | GW02 | Apartado del Footer    | G02 | Footer  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2                  | Diego Rafael  | Done                                   |
-| GW03 | Seccion Planes         | G03 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección Hero. Debe ser responsive.           | 3                  | Diego Rodrigo   | Done                                 |
-| GW04 | Seccion Compra    | G04 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la barra de navegación. Debe ser responsive.    | 2                  | Rodrigo Pozo  | Done                                   |
-| GW05 | Seccion Conoce Mas           | G05 | Sección "Testimonios"(Desarrollado en HTML y CSS)        | Desarrollo e implementación de los estilos que corresponden a la sección Testimonios. Debe ser responsive.    | 3                  | José Arenas   | Done                              |
+| GW03 | Seccion Planes         | G03 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.           | 3                  | Diego Rodrigo   | Done                                 |
+| GW04 | Seccion Compra    | G04 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.    | 2                  | Alexander Paolo  | Done                                   |
+| GW05 | Seccion Conoce Mas           | G05 | (Desarrollado en HTML y CSS)        | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.    | 3                  | Eduardo Vicente   | Done                              |
+
+<div align="center">
+
+  <img src="https://i.imgur.com/NVZ0474.png">
+
+  
+</div>
+
+Link del trello: https://trello.com/invite/b/dhXlXIgt/ATTI3dff621b068b43e17a21546f4c3da4b22B6EFA58/sprint1-agrisage
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
 
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
 ![Sprint review Testing suite Evidence](image.jpg)
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
 ![Sprint review Execution Evidence](image.jpg)
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 ![Sprint review Services Documentation Evidence](image.jpg)
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 ![Sprint review Software Deployment Evidence](image.jpg)
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página.
+
+El link de nuestra Landing Page es el siguiente: 
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
