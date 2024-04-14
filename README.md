@@ -485,7 +485,8 @@ AgriSage se comprometerá a mantenerse a la vanguardia de la innovación en hidr
 Nombre: Camila Conde
 Edad: 21 años
 Ocupación: Ingeniería de Software  
-![Imagen de entrevista](image.jpg)  
+
+<img src="./images/Entrevista1.jpg">
 {texto mucho}
 
 **Segmento 2**  
