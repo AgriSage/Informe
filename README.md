@@ -1515,10 +1515,13 @@ en Github </p>
 
 # [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
+<p>MDN Web Docs. (s.f.). HTML: Hypertext Markup Language. Recuperado de https://developer.mozilla.org/en-US/docs/Web/HTML</p>
+</br>
+<p>MDN Web Docs. (s.f.). CSS: Cascading Style Sheets. Recuperado de https://developer.mozilla.org/en-US/docs/Web/CSS</p>
 # [**Anexos**](#anexos)
 
 ### Entrevistas:
 
 #### Link Figma: https://www.figma.com/file/bezkX2UkmUPdeVykSlzBgt/AgriSage?type=design&node-id=36%3A224&mode=design&t=v8FaCefprRcoSFI9-1
 
-#### Salvador Chamorro: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA
+#### link de las entrevistas: https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
