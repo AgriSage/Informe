@@ -55,7 +55,7 @@
 **Registro de Versiones del Informe**
 |Versión|Fecha|Autor|Descripción de modificación|
 |-------|-----|-----|---------------------------|
-|V0.1|31/03/2024||Creación del repositorio|
+|V0.1|31/03/2024|s |Creación del repositorio|
 |V0.2|02/04/2024|||
 |V0.3|03/04/2024|||
 |V0.4|09/04/2024|||
@@ -71,11 +71,11 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 | Integrante        | Actvidades Asignadas |
 | ----------------- | -------------------- |
-| Luis Anampa       |                      |
-| Diego Pumahualcca |                      |
-| Alexander Justo   |                      |
-| Eduardo Mancilla  |                      |
-| Diego Cisneros    |                      |
+| Luis Anampa       |Capitulo 3|
+| Diego Pumahualcca |Capitulo 2|
+| Alexander Justo   |Capitulo 1|
+| Eduardo Mancilla  |Capitulo 4 y 5|
+| Diego Cisneros    |Capitulo  4|
 
 # Student Outcome
 
