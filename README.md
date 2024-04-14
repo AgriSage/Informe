@@ -307,11 +307,11 @@ AgriSage es una startup que nace con la finalidad de brindar conocimientos y hab
 
 - **Nombre del Producto:** <br><br>
 
- Nuestro sitio web se llama "AgriSage" porque representa los cultivos utilizados por nuestros usuarios en sus proyectos domésticos. El nombre refleja cómo estos usuarios crecerán con nosotros al adquirir conocimientos continuamente y mejorar sus habilidades en agricultura. <br><br>
+Nuestro sitio web se llama "AgriSage" porque representa los cultivos utilizados por nuestros usuarios en sus proyectos domésticos. El nombre refleja cómo estos usuarios crecerán con nosotros al adquirir conocimientos continuamente y mejorar sus habilidades en agricultura. <br><br>
 
 - **Descripción del Producto:** <br><br>
 
- Nuestra propuesta es un servicio vanguardista y original. Brindamos a nuestros usuarios la oportunidad de crear sus propios proyectos domésticos de hidroponía, desde un nivel principiante hasta alcanzar un dominio experto en el tema. Nuestro servicio será intuitivo, sencillo y accesible para cualquier persona que utilice la aplicación. <br><br>
+Nuestra propuesta es un servicio vanguardista y original. Brindamos a nuestros usuarios la oportunidad de crear sus propios proyectos domésticos de hidroponía, desde un nivel principiante hasta alcanzar un dominio experto en el tema. Nuestro servicio será intuitivo, sencillo y accesible para cualquier persona que utilice la aplicación. <br><br>
 
 - **Monetización:** <br><br>
 
@@ -322,7 +322,7 @@ Nuestra aplicación se enorgullece de ofrecer una amplia gama de cursos especial
 
 - **What?** <br><br>
 
-    Nuestros usuarios enfrentan el desafío de la falta de conocimiento sobre cómo establecer y mantener una granja en casa a lo largo del tiempo..<br><br>
+  Nuestros usuarios enfrentan el desafío de la falta de conocimiento sobre cómo establecer y mantener una granja en casa a lo largo del tiempo..<br><br>
 
 - **When?** <br><br>
 
@@ -375,7 +375,7 @@ Los usuarios interesados en la aplicación son aquellos que buscan obtener toda 
 - **¿Qué problema tiene nuestro producto? ¿Cómo se resuelve?**
 
   Nuestro producto aborda el problema de la dificultad para encontrar información sobre hidroponía en el hogar y cómo iniciar un proyecto propio. Esto se soluciona al proporcionar una plataforma que conecta a principiantes con expertos que puedan guiarlos en la realización de sus proyectos. Esto crea la oportunidad de formar una comunidad donde los usuarios puedan compartir experiencias, consejos, tutoriales y más.
-  
+
 - **¿Cuándo y cómo es usado nuestro producto?**
 
   Nuestro producto se adapta a los usuarios, permitiéndoles utilizarlo en las fechas que prefieran y cuando consideren conveniente iniciar adecuadamente su proyecto planificado. Al mismo tiempo, los expertos también pueden decidir cuándo compartir sus conocimientos, ofreciendo cursos de calidad para los principiantes cuando les resulte más conveniente.
@@ -811,6 +811,10 @@ El spacing mantiene:
 <img src="images/spacing.png">
 
 ### [**4.1.2. Web Style Guidelines.**](#web-style-guidelines)
+
+<img src="images/Web-Style-Guidelines-colors.png">
+<img src="images/Web-Style-Guidelines-icons.png">
+<img src="images/Web-Style-Guidelines-buttons.png">
 
 ## [**4.2. Information Architecture.**](#information-architecture)
 
