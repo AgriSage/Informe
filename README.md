@@ -1169,17 +1169,57 @@ Para nuestra implementación, se ha decidido utilizar Gitflow, el cual es un flu
 
 #### [**5.2.1.1. Sprint Planning 1.**](#sprint-planning-1)
 
+| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 06/04/2024                                                                                                                                      |
+| Time                             | 17:00 horas                                                                                                                                          |
+| Location                         | Reunión realizada mediante Google Meet                                                                                                              |
+| Prepared By                      | Mancilla Ordaya, Eduardo Vicente                                                                                                               |
+| Attendees (to planning meeting) | Luis Angel Anampa Lavado/Pumahualcca Garcia, Diego Rodrigo/Mancilla Ordaya, Eduardo Vicente/Justo Yauricasa,Alexander Paolo/Cisneros Tafur, Diego Rafael	|
+| Sprint n - 1 Review              | Se creará la organización de AgriSage en Github y el repositorio de la organización. Además, se implementará el single page landing page.    |
+| Sprint n – 1 Retrospective       | La implementación para el landing se ha realizado mediante html y css. |
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Goal                    | Realizar y desplegar el Landing Page                                                                                                            |
+| Sprint 1 Velocity                | 5                                                                                                                                              |
+| Sum of Story Points              | 21                                                                                                                                              |
+
 #### [**5.2.1.2. Sprint Backlog 1.**](#sprint-backlog-1)
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| GW01 | Apartado del Header    | G01 | Header  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                  | Luis Angel    | Done                                   |
+| GW02 | Apartado del Footer    | G02 | Footer  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2                  | Diego Rafael  | Done                                   |
+| GW03 | Seccion Planes         | G03 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.           | 3                  | Diego Rodrigo   | Done                                 |
+| GW04 | Seccion Compra    | G04 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.    | 2                  | Alexander Paolo  | Done                                   |
+| GW05 | Seccion Conoce Mas           | G05 | (Desarrollado en HTML y CSS)        | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.    | 3                  | Eduardo Vicente   | Done                              |
+
+<div align="center">
+
+  <img src="https://i.imgur.com/NVZ0474.png">
+
+  
+</div>
+
+Link del trello: https://trello.com/invite/b/dhXlXIgt/ATTI3dff621b068b43e17a21546f4c3da4b22B6EFA58/sprint1-agrisage
 
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
+Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.
+
 #### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
 #### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
+
 #### [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
+
+Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página.
+
+El link de nuestra Landing Page es el siguiente: 
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
