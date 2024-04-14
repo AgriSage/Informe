@@ -733,6 +733,14 @@ Los Mapas de Empatía son fundamentales para el proyecto AgriSage, ya que facili
 
 ## [**3.3. Impact Mapping.**](#impact-mapping)
 
+*Segmento Personas que deseen iniciar en la hidroponía***
+
+![Impact Mapping](images/ImpactMapO1.png)
+
+*Segmento Expertos que desean brindar sus conocimientos a los principiantes*
+
+![Impact Mapping](images/ImpactMapO2.png)
+
 ## [**3.4. Product Backlog.**](#product-backlog)
 
 # [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
