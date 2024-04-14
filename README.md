@@ -857,6 +857,170 @@ Se muestra los componentes. Se encuentra la seguridad para la cuenta del usuario
 <img src="images/ClassDiagram.png" alt="Class Diagram">
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
+<table>
+
+  <tr>
+    <td colspan="1"><p>N</p></td>
+    <td colspan="1">Entidad</td>
+    <td colspan="1">Nombre de Tributos</td>
+    <td colspan="1">Definicion</td>
+    <td colspan="1">Tipo de Datos</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="4">1</td>
+    <td colspan="1" rowspan="4">Usuario</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Usuario<br>(Numero de Usuarios)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">nombre</td>
+    <td colspan="1" valign="top">Nombre del Usuario</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">email</td>
+    <td colspan="1" valign="top">Email del Usuario</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">contraseña</td>
+    <td colspan="1" valign="top">Contraseña del Usuario</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="3">2</td>
+    <td colspan="1" rowspan="3">Cliente</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Cliente<br>(Identificador)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">cursos</td>
+    <td colspan="1" valign="top">Lista de cursos del Cliente</td>
+    <td colspan="1" valign="top">List<.Curso></td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">recursos</td>
+    <td colspan="1" valign="top">Lista de recursos del Cliente</td>
+    <td colspan="1" valign="top">List<.Recurso></td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="2">3</td>
+    <td colspan="1" rowspan="2">Asesor</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Asesor<br>(Identificador)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">especialidad</td>
+    <td colspan="1" valign="top">Especialidad de Asesor</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="3">4</td>
+    <td colspan="1" rowspan="3">Comunidad</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Comunidad<br>(Identificador)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">nombre</td>
+    <td colspan="1" valign="top">Nombre de la Comunidad</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">descripcion</td>
+    <td colspan="1" valign="top">Breve informacion de la Comunidad</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="4">5</td>
+    <td colspan="1" rowspan="4">Curso</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Curso<br>(Clave de Curso)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">descripcion</td>
+    <td colspan="1" valign="top">Breve informacion del Curso</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">nivel</td>
+    <td colspan="1" valign="top">Grado de Curso</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">costo</td>
+    <td colspan="1" valign="top">Costo de Curso</td>
+    <td colspan="1" valign="top">float</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="4">6</td>
+    <td colspan="1" rowspan="4">Recurso</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Recurso<br>(Clave de Recurso)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">titulo</td>
+    <td colspan="1" valign="top">Titulo del Recurso</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">descripcion</td>
+    <td colspan="1" valign="top">Breve informacion del Recurso</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">url</td>
+    <td colspan="1" valign="top">Enlace del Recurso</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" rowspan="3">7</td>
+    <td colspan="1" rowspan="3">ReunionVirtual</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Reunion<br>(url de Reunion)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">fecha</td>
+    <td colspan="1" valign="top">Fecha de Reunion</td>
+    <td colspan="1" valign="top">date</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">duracion</td>
+    <td colspan="1" valign="top">Tiempo de Reunion</td>
+    <td colspan="1" valign="top">int</td>
+  </tr> 
+
+  <tr>
+    <td colspan="1" rowspan="3">8</td>
+    <td colspan="1" rowspan="3">Leccion</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Codigo de Plan<br>(Identificador por Cliente)</td>
+    <td colspan="1" valign="top">int</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">titulo</td>
+    <td colspan="1" valign="top">Titulo de la Leccion</td>
+    <td colspan="1" valign="top">string</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">content</td>
+    <td colspan="1" valign="top">Contenido</td>
+    <td colspan="1" valign="top">string</td>
+  </tr> 
+
+</table>
 
 ## [**4.8. Database Design.**](#database-design)
 
