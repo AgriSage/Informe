@@ -675,6 +675,31 @@ En esta ocasión se entrevistó a Steffi una profesional de la carrera de Diseñ
 
 ## [**2.3. Needfinding.**](#needfinding)
 
+Presentamos las siguientes necesidades principales que hemos analizado en base a nuestros usuarios:
+
+**Segmento #1: Personas que deseen iniciar en la hidroponía**
+
+- Una información más detallada de la hidroponia y tutorias.
+
+- Una aplicación intuitiva que sea fácil de manejar.
+  
+- Flexibilidad de horarios
+
+- Experiencia de parte de los Tutores.
+
+- La capacidad de comunicarse directamente con el Tutor para posibles dudas.
+
+**Segmento #2: Expertos que desean brindar sus conocimientos a los principiantes**
+
+- La seguridad y confiabilidad en la aplicacion.
+
+- Flexibilidad de horarios
+
+- Facilidad de coordinacion
+
+- La capacidad de poder responder las dudas de los usuarios.
+
+
 ### [**2.3.1. User Personas.**](#user-personas)
 
 Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia de aprendizaje altamente enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo: desde brindar recursos claros y accesibles a principiantes, hasta ofrecer herramientas para que los expertos compartan su conocimiento.
