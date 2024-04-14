@@ -1483,6 +1483,11 @@ El link de nuestra Landing Page es el siguiente:
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
+<p align = "justify">A continuación se presentan capturas de los insights del repositorio del landing page
+en Github </p>
+
+<img align="center" src="images/evidencia.PNG" alt="evidence" width="90%">
+
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
 **TB1:**
