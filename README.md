@@ -747,6 +747,28 @@ Los Mapas de Empatía son fundamentales para el proyecto AgriSage, ya que facili
 
 ## [**3.4. Product Backlog.**](#product-backlog)
 
+| # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+|:-------:|:--------------|:-------|:------------|:-----------------------------------|
+|01| **US01**       | Registro de usuarios | Como usuario, deseo registrarme en la plataforma para acceder a todas sus funciones y contenido. |3|
+|02| **US02**       | Publicación de contenido | Como experto, deseo poder publicar artículos y cursos relacionados con mi área de conocimiento. |5|
+|03| **US03**       | Exploración de contenido | Como usuario, deseo explorar y visualizar el contenido disponible en la plataforma. |3|
+|04| **US04**       | Visualización de contenido destacado | Como usuario, deseo poder visualizar los artículos y cursos mejor valorados por otros usuarios. |5|
+|05| **US05**       | Interacción con contenido | Como usuario, deseo poder dejar comentarios y valoraciones en los artículos y cursos. |5|
+|06| **US06**       | Visualización de planes y precios | Como usuario, deseo poder ver los diferentes planes y precios disponibles en la plataforma. |3|
+|07| **US07**       | Exploración de referencias | Como usuario, deseo poder acceder a referencias y testimonios de otros usuarios sobre la plataforma. |3|
+|08| **US08**       | Visualización del Landing pages | Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página. |3|
+|09| **US09**       | Visualización de los servicios que ofrecen en el landing page | Como invitado deseo visualizar los beneficios de la página, así como los servicios que esta ofrece. |3|
+|10| **US10**       | Visualización de los cursos en la página web | Como usuario quiero visualizar los cursos que se encuentran disponibles en la página web. |5|
+|11| **US11**       | Vista Home | Como usuario de AgriSage, deseo una vista "Home" atractiva y funcional que muestre información relevante sobre hidroponía y me permita navegar fácilmente por la aplicación. |3|
+|12| **US12**       | Sección de ventas | Como usuario, quiero poder acceder a una sección de ventas donde pueda visualizar los productos disponibles y sus precios. |3|
+|13| **US13**       | Gestión de Artículos | Como experto, deseo poder gestionar mis artículos publicados para mantenerlos actualizados y de calidad. |3|
+|14| **US14**       | Interacción con Comentarios | Como experto, deseo poder interactuar con los comentarios dejados en mis artículos para responder preguntas o agradecer retroalimentación. |3|
+|15 | **US15**       | Seguimiento de Estadísticas | Como experto, deseo tener acceso a estadísticas sobre el rendimiento de mis artículos, como el número de visitas, interacciones y calificaciones, para mejorar mi contenido. |3|
+
+**TOTAL USER STORY POINTS : 53**
+
+
+
 # [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
 
 ## [**4.1. Style Guidelines.**](#style-guidelines)
