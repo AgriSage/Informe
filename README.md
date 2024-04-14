@@ -481,21 +481,6 @@ AgriSage se comprometerá a mantenerse a la vanguardia de la innovación en hidr
 
 ## [**2.2. Entrevistas.**](#entrevistas)
 
-**Segmento 1**  
-Nombre: Camila Conde
-Edad: 21 años
-Ocupación: Ingeniería de Software  
-
-<img src="./images/Entrevista1.jpg">
-{texto mucho}
-
-**Segmento 2**  
-Nombre: **\_**
-Edad: \_ años
-Ocupación: **\_**  
-![Imagen de entrevista](image.jpg)
-{texto}
-
 ### [**2.2.1. Diseño de entrevistas.**](#diseño-de-entrevistas)
 
 En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos. Esta información se usará en el desarrollo de nuestra solución.
@@ -534,7 +519,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 10. ¿Cuáles son tus principales objetivos y frustraciones en relación con la enseñanza o asesoramiento en hidroponía?
 
 ### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
-
+**Segmento 1**  
 Nombre: Salvador Chamorro
 Edad: 23 años
 Ocupación: Ingeniería Ambiental  
@@ -542,6 +527,15 @@ Ocupación: Ingeniería Ambiental
 [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
 
 El entrevistado señala que su personalidad es adecuada para impartir clases de hidroponia, ya que es una persona paciente y con habilidades de comunicación. Además señala que la mayor dificultad que pueden tener las personas nuevas en este mundo es la falta de información y la dificultad para encontrarla. Asimismo también expresó que hay una dificultad para encontrar materiales y equipos necesarios para la hidroponia.
+
+**Segmento 2**  
+Nombre: Camila Conde
+Edad: 21 años
+Ocupación: Ingeniería de Software  
+<img src="./images/Entrevista1.jpg">
+
+{texto mucho}
+
 
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
