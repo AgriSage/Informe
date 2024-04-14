@@ -1363,4 +1363,6 @@ El link de nuestra Landing Page es el siguiente:
 
 ### Entrevistas:
 
+#### Link Figma: https://www.figma.com/file/bezkX2UkmUPdeVykSlzBgt/AgriSage?type=design&node-id=36%3A224&mode=design&t=v8FaCefprRcoSFI9-1
+
 #### Salvador Chamorro: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA
