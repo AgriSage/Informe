@@ -1223,8 +1223,9 @@ El link de nuestra Landing Page es el siguiente:
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
-# [**Conclusion.**](#capítulo-vi-conclusion)
+# [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
+**TB1:**
 
 - Mediante el análisis de competidores, hemos obtenido una visión clara de nuestras fortalezas y debilidades, lo que nos permite ofrecer un producto que se adapte de manera precisa a las necesidades de nuestros usuarios. Este proceso nos ha brindado una ventaja competitiva al identificar oportunidades para mejorar y destacar en el mercado.<br><br>
 
