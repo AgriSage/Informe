@@ -1457,6 +1457,14 @@ Link del trello: https://trello.com/invite/b/dhXlXIgt/ATTI3dff621b068b43e17a2154
 
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| landing-page | feature/develop | 4d34428   | fix: Error | -                   | 14/04/2024         |
+| landing-page | feature/Conocemassection                    | f1c06d7   | Feat: Conocemas Section added     | -                   | 14/04/2024         |
+| landing-page | feature/SubscriptionPlan                           |  70e139d  | feat: Add Subscription Plan                | -                   | 13/04/2024         |
+| landing-page | feature/footer                              | 2551eea   | feat(footer): added footer estructure with images                  | -                   | 14/04/2024         |
+| landing-page | feature/shop                        | a755f08   | feat: added feature shop             | -                   | 14/04/2024         |
+
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
 Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.
