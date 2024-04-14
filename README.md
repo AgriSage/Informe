@@ -945,6 +945,18 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 
 ### [**4.4.2. Web Applications Wireflow Diagrams.**](#web-applications-wireflow-diagrams)
 
+<img src="images/wireflow - 1.png" alt="Wireflow">
+El usuario ingresa a la página de inicio y puede navegar por las diferentes secciones de la aplicación, como cursos, guías y recursos. Puede ver los detalles de un curso o guía, agregarlo al carrito de compras y realizar el pago. También puede acceder a su perfil para ver su historial de compras y actualizar su información personal.
+
+<img src="images/wireflow - 2.png" alt="Wireflow">
+El usuario puede navegar por las diferentes secciones de la aplicación, como cursos, guías y recursos. Puede ver los detalles de un curso o guía, agregarlo al carrito de compras y realizar el pago. También puede acceder a su perfil para ver su historial de compras y actualizar su información personal.
+
+<img src="images/wireflow - 3.png" alt="Wireflow"> El usario puedo ingresar a su carrito de compras luego puede proceder a hacer el pago de los productos seleccionados.
+
+<img src="images/wireflow - 4.png" alt="Wireflow"> El usuario va a la pasarela de pagos con los productos selecionados a pagar.
+
+<img src="images/wireflow - 5.png" alt="Wireflow"> El usuario puede ver su perfil y editar su información personal desde cualquier punto de la aplicación.
+
 ### [**4.4.3. Web Applications Mock-ups.**](#web-applications-mock-ups)
 
 ### [**4.4.4. Web Applications User Flow Diagrams.**](#web-applications-user-flow-diagrams)
