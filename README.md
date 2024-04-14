@@ -402,6 +402,7 @@ La hidroponía es una de las actividades que posee gran cantidad de practicantes
 -
 
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
+
 <img src="./images/CanvasAgriSage.jpg" alt="Canvas">
 
 ## [**1.3. Segmentos objetivo.**](#segmentos-objetivo)
@@ -569,7 +570,6 @@ Ocupación: Ingeniería de Software
 
 En esta ocasión se entrevistó a Camila Conde una estudiante de la carrera de Ingeniería de Software, una novata en el ámbito de la hidroponia. Ella comenta que desea informarse más de la forma correcta de cómo debe ella iniciar para este nuevo hobby, especialmente que los materiales y productos debería usar. Así mismo, ella busca una plataforma que le ayude a mejorar en la hipotonía de una forma intuitiva, ya sea tutoriales o tips, sin embargo la información dada fue errónea o no le ayudaron en sus problemas.
 
-
 **Segmento 2**  
 Nombre: Steffi Vil
 Edad: 26 años
@@ -578,6 +578,7 @@ Ocupación: Diseñadora de interiores
 [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/Ed6v_oH7rFdIh4RtC5mgxIoB0ddMuIzlbtNFZMao6xY3ng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sbnsYb)
 
 En esta ocasión se entrevistó a Steffi una profesional de la carrera de Diseño de Interiores, una experta en el ámbito de la hidroponia. Ella comenta que ha realizado proyectos en su trabajo en los que empezo a interesarse por la Hidroponía, lo cual la ha llevado a ser lo que es ahora en este ambito. Ella esta dispuesta a impartir sus conocimientos e incluso, ya los imparte a dia de hoy al realizar sus proyectos de trabajo.
+
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
 **Segmento 1: Personas que deseen iniciar en la hidroponía**
@@ -590,7 +591,6 @@ En esta ocasión se entrevistó a Steffi una profesional de la carrera de Diseñ
 
 1. Los entrevistados reconocen la dificultad de las personas nuevas en la hidroponía para encontrar información y materiales necesarios, lo que sugiere la importancia de una plataforma que centralice recursos educativos y opciones de compra de suministros.
 2. Sugiere que sus personalidades son adecuadas para impartir clases de hidroponía debido a su paciencia y habilidades de comunicación, lo que indica una oportunidad para AgriSage de ofrecer servicios de tutoría o mentoría impartidos por expertos en hidroponía.
-
 
 ## [**2.3. Needfinding.**](#needfinding)
 
@@ -998,7 +998,7 @@ El usuario puede navegar por las diferentes secciones de la aplicación, como cu
 
 [Link para probar el wireflow](https://www.figma.com/proto/bezkX2UkmUPdeVykSlzBgt/AgriSage?type=design&node-id=36-224&t=aVTs5pgrKPCVhbnI-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=36%3A224&show-proto-sidebar=1&mode=design)
 
-## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping)
+<!-- ## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping) -->
 
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 
