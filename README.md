@@ -480,6 +480,7 @@ Innovación continua y mejora de productos:
 AgriSage se comprometerá a mantenerse a la vanguardia de la innovación en hidroponía y agricultura en interiores, no solo en términos de educación y recursos, sino también en la oferta de productos y servicios. Se realizarán actualizaciones regulares en la tienda en línea de AgriSage para agregar nuevos productos, mejorar la selección existente y adaptarse a las necesidades cambiantes de los usuarios. Se buscará colaborar con fabricantes y proveedores de renombre para ofrecer productos de alta calidad y tecnología avanzada que mejoren la experiencia de cultivo en interiores de los usuarios. Esta estrategia garantizará que AgriSage continúe siendo relevante y atractivo para su base de usuarios, promoviendo así el crecimiento y la fidelización del cliente.
 
 ## [**2.2. Entrevistas.**](#entrevistas)
+
 **Segmento 1**  
 Nombre: Camila Conde
 Edad: 21 años
@@ -488,9 +489,9 @@ Ocupación: Ingeniería de Software
 {texto mucho}
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
+Nombre: **\_**
+Edad: \_ años
+Ocupación: **\_**  
 ![Imagen de entrevista](image.jpg)
 {texto}
 
@@ -532,6 +533,14 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 10. ¿Cuáles son tus principales objetivos y frustraciones en relación con la enseñanza o asesoramiento en hidroponía?
 
 ### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
+
+Nombre: Salvador Chamorro
+Edad: 23 años
+Ocupación: Ingeniería Ambiental  
+![Imagen de entrevista](images/imagen-entrevista-salvador.png)
+[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
+
+El entrevistado señala que su personalidad es adecuada para impartir clases de hidroponia, ya que es una persona paciente y con habilidades de comunicación. Además señala que la mayor dificultad que pueden tener las personas nuevas en este mundo es la falta de información y la dificultad para encontrarla. Asimismo también expresó que hay una dificultad para encontrar materiales y equipos necesarios para la hidroponia.
 
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
@@ -667,7 +676,6 @@ Los Mapas de Empatía son fundamentales para el proyecto AgriSage, ya que facili
   <img src="images/ToBeMapping2.png">
 
 </div>
-
 
 ## [**3.2.User Stories.**](#user-stories)
 
@@ -830,16 +838,19 @@ Se utilizará un diseño de cuadrícula para organizar los elementos de la pági
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
+
 Nuestro diagrama de contexto muestra las relaciones principales de “”. Este se relaciona primeramente con sus dos tipos de usuarios (Cliente y Asesor) y tres sistemas externos a la aplicación web. Sistema de Cursos para agregar y actualizar cursos (Teachable), Sistema de pago para gestionar los pagos de cursos u otros servicios (Paypal) y Sistema de Contenido para administrar el contenido de cursos y recursos (Joomla)
 
 <img src="images/ContextDiagram.png" alt="Context Diagram">
 
 ### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
+
 En el diagrama de contenedores, se observan la aplicación web, la landing page y la aplicación móvil. Cada una de estas realiza solicitudes a la API de la aplicación.
 
 <img src="images/ContainerDiagram.png" alt="Container Diagram">
 
 ### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
+
 Se muestra los componentes. Se encuentra la seguridad para la cuenta del usuario, la agregacion de cursos, gestion de pago y la administracion de contenidos (Security Service, Courses Component, Pay Component y Content Component)
 
 <img src="images/ComponentDiagram.png" alt="Components Diagram">
@@ -847,6 +858,7 @@ Se muestra los componentes. Se encuentra la seguridad para la cuenta del usuario
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
 
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
+
 <img src="images/ClassDiagram.png" alt="Class Diagram">
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
@@ -854,6 +866,7 @@ Se muestra los componentes. Se encuentra la seguridad para la cuenta del usuario
 ## [**4.8. Database Design.**](#database-design)
 
 ### [**4.8.1. Database Diagram.**](#database-diagram)
+
 <img src="images/DataBaseDiagram.png" alt="DataBase Diagram">
 
 # [**Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
@@ -891,3 +904,9 @@ Se muestra los componentes. Se encuentra la seguridad para la cuenta del usuario
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
 # [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
+
+# [**Anexos**](#anexos)
+
+### Entrevistas:
+
+#### Salvador Chamorro: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA
