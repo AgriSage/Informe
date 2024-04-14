@@ -1470,6 +1470,13 @@ Link del trello: https://trello.com/invite/b/dhXlXIgt/ATTI3dff621b068b43e17a2154
 Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.
 
 #### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
+<div align="center">
+  <img src="images/landing-mockup-1.png">
+  <img src="images/landing-mockup-2.png">
+  <img src="images/landing-mockup-3.png">
+  <img src="images/landing-mockup-4.png">
+  <img src="images/landing-mockup-5.png">
+</div>
 
 #### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 
