@@ -532,7 +532,7 @@ Nombre: Angel Chonate
 Edad: 19 años
 Ocupación: Ingenieria Industrial
 ![Imagen de entrevista](images/EntrevistaImagen.png)
-[Link de la entrevista]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/EQDDWPQyt2lGo3kvj-b7AM8BiCtCJ8HelGiKubRnnFwWAQ?e=h3uUrd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+[Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202219266_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219266%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo2307523513%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&mode=View)
 
 **Segmento 2**  
 Nombre: Camila Conde
