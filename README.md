@@ -1411,10 +1411,10 @@ Para nuestra implementación, se ha decidido utilizar Gitflow, el cual es un flu
 - Paso uno: Asegurarnos de que el repositorio de GitHub contenga todos los archivos necesarios para el sitio web.
 
 - Paso dos: Ir a la configuración del repositorio en GitHub y habilitar GitHub Pages, seleccionando la rama principal (main) y la carpeta desde la que se desea publicar el sitio web.
-  <img align="center" src="" alt="Configuracion Github Actions" width="90%">
+  ![Entrevista 1](images/pages.jpeg)
 
 - Paso tres: Verificar que se haya desplegado correctamente en la plataforma de Github Pages.
-  <img align="center" src=" " alt="Despliegue en Github Pages" width="90%">
+
 
 ## [**5.2. Landing Page, Services \& Applications Implementation.**](#landing-page-services--applications-implementation)
 
@@ -1487,6 +1487,10 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página.
 
 El link de nuestra Landing Page es el siguiente:
+
+
+https://agrisage.github.io/Landing/
+
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
