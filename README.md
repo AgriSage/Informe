@@ -520,6 +520,32 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
 
+**Segmento objetivo #1:** Personas que deseen iniciar en la hidroponía.
+
+![Entrevista 1](images/EntrevistaDayana.jpg)
+
+**Entrevistado N°1:** Dayana Melina Rojas Sosa
+
+**- Sexo:** Femenino
+
+**- Edad:** 19 años
+
+**- Ubicación en la que vive:** Lima Ate
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**- Link:** 
+
+
+**- Instante en el que inicia:** 
+
+**- Duración:** 
+
+**Resumen:**
+
+En esta ocasión, se conversó con Dayana Rojas, una estudiante de Comunicación y Marketing que se encuentra incursionando en el mundo de la hidroponía. Dayana expresa su interés en aprender cómo comenzar adecuadamente en este nuevo pasatiempo ya que esta entusiasmada en poder tener sus propios vegetales en casa. Tiene constantes dudas en lo que respecta a los materiales y productos que debería utilizar. Además, busca una plataforma que le proporcione orientación intuitiva sobre la hidroponía, ya sea a través de tutoriales o consejos prácticos.
+
+
 **Segmento 2**  
 Nombre: Salvador Chamorro
 Edad: 23 años
