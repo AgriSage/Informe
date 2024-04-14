@@ -579,6 +579,18 @@ Ocupación: Diseñadora de interiores
 En esta ocasión se entrevistó a Steffi una profesional de la carrera de Diseño de Interiores, una experta en el ámbito de la hidroponia. Ella comenta que ha realizado proyectos en su trabajo en los que empezo a interesarse por la Hidroponía, lo cual la ha llevado a ser lo que es ahora en este ambito. Ella esta dispuesta a impartir sus conocimientos e incluso, ya los imparte a dia de hoy al realizar sus proyectos de trabajo.
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
+**Segmento 1: Personas que deseen iniciar en la hidroponía**
+
+1. Los Entrevistados tienen un fuerte interés en aprender cómo comenzar en el mundo de la hidroponía para cultivar vegetales en casa, lo que sugiere una oportunidad para AgriSage de proporcionar contenido educativo introductorio y orientación para principiantes.
+2. Los entrevistados expresan tener constantes dudas sobre los materiales y productos necesarios para la hidroponía, lo que indica la necesidad de una plataforma que ofrezca información clara y detallada sobre los suministros y equipos requeridos para iniciar.
+3. Buscan una plataforma que proporcione orientación intuitiva a través de tutoriales o consejos prácticos, lo que resalta la importancia de una experiencia de usuario fácil de usar y recursos educativos accesibles para usuarios principiantes.
+
+**Segmento 2: Expertos que desean brindar sus conocimientos a los principiantes**
+
+1. Los entrevistados reconocen la dificultad de las personas nuevas en la hidroponía para encontrar información y materiales necesarios, lo que sugiere la importancia de una plataforma que centralice recursos educativos y opciones de compra de suministros.
+2. Sugiere que sus personalidades son adecuadas para impartir clases de hidroponía debido a su paciencia y habilidades de comunicación, lo que indica una oportunidad para AgriSage de ofrecer servicios de tutoría o mentoría impartidos por expertos en hidroponía.
+
+
 ## [**2.3. Needfinding.**](#needfinding)
 
 ### [**2.3.1. User Personas.**](#user-personas)
