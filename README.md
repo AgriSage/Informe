@@ -959,6 +959,17 @@ El usuario puede navegar por las diferentes secciones de la aplicación, como cu
 
 ### [**4.4.3. Web Applications Mock-ups.**](#web-applications-mock-ups)
 
+<div align="center">
+  <img src="images/mockup - Inicio de sesión.png">
+  <img src="images/mockup - Registro.png">
+  <img src="images/mockup - Inicio.png">
+  <img src="images/mockup - Cursos.png">
+  <img src="images/mockup - Tienda.png">
+  <img src="images/mockup - Carrito de compras.png">
+  <img src="images/mockup - Card Payment Flow.jpg">
+  <img src="images/mockup - Perfil.png">
+</div>
+
 ### [**4.4.4. Web Applications User Flow Diagrams.**](#web-applications-user-flow-diagrams)
 
 ## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping)
