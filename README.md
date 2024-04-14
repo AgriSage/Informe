@@ -835,6 +835,8 @@ Nuestro diagrama de contexto muestra las relaciones principales de “”. Este 
 <img src="images/ContextDiagram.png" alt="Context Diagram">
 
 ### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
+En el diagrama de contenedores, se observan la aplicación web, la landing page y la aplicación móvil. Cada una de estas realiza solicitudes a la API de la aplicación.
+
 <img src="images/ContainerDiagram.png" alt="Container Diagram">
 
 ### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
