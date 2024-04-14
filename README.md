@@ -535,7 +535,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 **Acerca de la entrevista:** Estudiante de la UPC
 
-**- Link:**
+**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
 
 **- Instante en el que inicia:**
 
@@ -545,38 +545,120 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 En esta ocasión, se conversó con Dayana Rojas, una estudiante de Comunicación y Marketing que se encuentra incursionando en el mundo de la hidroponía. Dayana expresa su interés en aprender cómo comenzar adecuadamente en este nuevo pasatiempo ya que esta entusiasmada en poder tener sus propios vegetales en casa. Tiene constantes dudas en lo que respecta a los materiales y productos que debería utilizar. Además, busca una plataforma que le proporcione orientación intuitiva sobre la hidroponía, ya sea a través de tutoriales o consejos prácticos.
 
-**Segmento 2**  
-Nombre: Salvador Chamorro
-Edad: 23 años
-Ocupación: Ingeniería Ambiental  
+![Entrevista 2](images/Entrevista02.png)
+
+**Entrevistado N°2:** Cristian Araujo
+
+**- Sexo:** Masculino
+
+**- Edad:** 19 años
+
+**- Ubicación en la que vive:** Lima San Juan de Lurigancho
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
+
+**- Instante en el que inicia:**
+
+**- Duración:**
+
+**Resumen:**
+
+En esta ocasión, se conversó con Christian , una estudiante de Ingenieria Ambientas y esta muy interesado en indagar en este mundo de la hidroponia , nos comenta que no tiene experiencia previa con plantas o jardineria , pero esta indagando por su propia cuenta por sitios como google , youtuve , facebook ,etc. Esto lo motiva a seguir , aunque nos comenta que tiene dificultades con el tema del espacio en su casa , que tipo de herramientas utilizar , no sabe como empezar , y si en realidad lo ara bien.
+
+![Entrevista 3](images/Entrevista03.png)
+
+**Entrevistado N°3:** Jhunio Giusseppe Taquiri
+
+**- Sexo:** Maculino
+
+**- Edad:** 21 años
+
+**- Ubicación en la que vive:** Lima Surco
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
+
+**- Instante en el que inicia:**
+
+**- Duración:**
+
+**Resumen:**
+
+En esta ocasión, se conversó con Giusseppe , me comenta que es una persona curiosa y creativa que busca explorar en el mundo de la hidroponia y que constantemente al buscar informacion , no esta completamente seguro que la infomracion sea la correcta , el consulta a blogs , redes sociales , etc. El quiere una aplicacion de acuerdo a sus necesidades como AgriSage. 
+
+
+**Segmento 2: **Expertos en hidroponía que puedan brindar conocimientos  
+
 ![Imagen de entrevista](images/imagen-entrevista-salvador.png)
-[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
+
+**Entrevistado N°3:** Salvador Chamorro
+
+**- Sexo:** Maculino
+
+**- Edad:** 23 años
+
+**- Ubicación en la que vive:** Lima Surco
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
+
+**- Instante en el que inicia:**
+
+**- Duración:**
+
+**Resumen:**
 
 El entrevistado señala que su personalidad es adecuada para impartir clases de hidroponia, ya que es una persona paciente y con habilidades de comunicación. Además señala que la mayor dificultad que pueden tener las personas nuevas en este mundo es la falta de información y la dificultad para encontrarla. Asimismo también expresó que hay una dificultad para encontrar materiales y equipos necesarios para la hidroponia.
 
-Nombre: Angel Chonate
-Edad: 19 años
-Ocupación: Ingenieria Industrial
-![Imagen de entrevista]()
-[Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202219266_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219266%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo2307523513%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&mode=View)
-
-**Segmento 2**  
-Nombre: Camila Conde
-Edad: 21 años
-Ocupación: Ingeniería de Software  
 <img src="./images/Entrevista1.jpg">
-[Link de la entrevista](https://drive.google.com/file/d/1pZ0GUkhESpRCnpj80o0e3dy9w3zMW8nI/view?usp=sharing)
+
+**Entrevistado N°3:** Camila Conde
+
+**- Sexo:** Femenino
+
+**- Edad:** 21 años
+
+**- Ubicación en la que vive:** Lima Surco
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
+
+**- Instante en el que inicia:**
+
+**- Duración:**
+
+**Resumen:**
 
 En esta ocasión se entrevistó a Camila Conde una estudiante de la carrera de Ingeniería de Software, una novata en el ámbito de la hidroponia. Ella comenta que desea informarse más de la forma correcta de cómo debe ella iniciar para este nuevo hobby, especialmente que los materiales y productos debería usar. Así mismo, ella busca una plataforma que le ayude a mejorar en la hipotonía de una forma intuitiva, ya sea tutoriales o tips, sin embargo la información dada fue errónea o no le ayudaron en sus problemas.
 
-**Segmento 2**  
-Nombre: Steffi Vil
-Edad: 26 años
-Ocupación: Diseñadora de interiores
 <img src="https://i.imgur.com/d8Nsk58.png">
-[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/Ed6v_oH7rFdIh4RtC5mgxIoB0ddMuIzlbtNFZMao6xY3ng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sbnsYb)
+
+**Entrevistado N°3:** Steffi Vil
+
+**- Sexo:** Femenino
+
+**- Edad:** 26 años
+
+**- Ubicación en la que vive:** Lima Surco
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
+
+**- Instante en el que inicia:**
+
+**- Duración:**
+
+**Resumen:**
 
 En esta ocasión se entrevistó a Steffi una profesional de la carrera de Diseño de Interiores, una experta en el ámbito de la hidroponia. Ella comenta que ha realizado proyectos en su trabajo en los que empezo a interesarse por la Hidroponía, lo cual la ha llevado a ser lo que es ahora en este ambito. Ella esta dispuesta a impartir sus conocimientos e incluso, ya los imparte a dia de hoy al realizar sus proyectos de trabajo.
+
+
 
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
