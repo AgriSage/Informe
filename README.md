@@ -533,8 +533,9 @@ Nombre: Camila Conde
 Edad: 21 años
 Ocupación: Ingeniería de Software  
 <img src="./images/Entrevista1.jpg">
+[Link de la entrevista](https://drive.google.com/file/d/1pZ0GUkhESpRCnpj80o0e3dy9w3zMW8nI/view?usp=sharing)
 
-{texto mucho}
+En esta ocasión se entrevistó a Camila Conde una estudiante de la carrera de Ingeniería de Software, una novata en el ámbito de la hidroponia. Ella comenta que desea informarse más de la forma correcta de cómo debe ella iniciar para este nuevo hobby, especialmente que los materiales y productos debería usar. Así mismo, ella busca una plataforma que le ayude a mejorar en la hipotonía de una forma intuitiva, ya sea tutoriales o tips, sin embargo la información dada fue errónea o no le ayudaron en sus problemas. 
 
 
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
