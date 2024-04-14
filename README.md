@@ -1223,7 +1223,19 @@ El link de nuestra Landing Page es el siguiente:
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
-# [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
+# [**Conclusion.**](#capítulo-vi-conclusion)
+
+
+- Mediante el análisis de competidores, hemos obtenido una visión clara de nuestras fortalezas y debilidades, lo que nos permite ofrecer un producto que se adapte de manera precisa a las necesidades de nuestros usuarios. Este proceso nos ha brindado una ventaja competitiva al identificar oportunidades para mejorar y destacar en el mercado.<br><br>
+
+- Para el desarrollo de nuestra aplicación, hemos empleado una amplia gama de herramientas, como user personas, empathy maps, user journey maps, análisis as-is y to-be, product backlog, así como la creación de diagramas y diseños de base de datos, entre otras. Esta exhaustiva metodología de trabajo garantiza que nuestra aplicación esté diseñada de manera óptima y alineada con las expectativas de nuestros usuarios.<br><br>
+
+- Las entrevistas con los usuarios desempeñaron un papel fundamental en nuestra investigación. Estas conversaciones directas nos proporcionaron una comprensión profunda de las verdaderas necesidades de nuestros usuarios, lo que nos permitió abordarlas de manera efectiva a través de nuestra propuesta. Las voces de los usuarios han sido el motor impulsor de nuestro proceso de desarrollo.<br><br>
+
+- La primera entrega del proyecto no solo nos permitió presentar soluciones iniciales, sino que también nos brindó la oportunidad de explorar diversas alternativas para abordar nuestra problemática. Fue un momento de reflexión en el que buscamos satisfacer las necesidades de nuestros segmentos objetivo de manera innovadora y efectiva.<br><br>
+
+- A través del análisis de competidores y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para la toma de decisiones informadas en el desarrollo de nuestro producto.<br><br>
+
 
 # [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
