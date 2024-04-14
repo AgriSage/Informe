@@ -307,58 +307,58 @@ AgriSage es una startup que nace con la finalidad de brindar conocimientos y hab
 
 - **Nombre del Producto:** <br><br>
 
-  Nuestra aplicación web recibe el nombre de “AgriSage”, ya que hacemos referencia a los cultivos que serán empleados por nuestros usuarios en la creación de sus proyectos caseros, quienes a su vez irán creciendo con nosotros, al adquirir conocimientos constantemente y mejorar sus habilidades en el sector agrícola. <br><br>
+ Nuestro sitio web se llama "AgriSage" porque representa los cultivos utilizados por nuestros usuarios en sus proyectos domésticos. El nombre refleja cómo estos usuarios crecerán con nosotros al adquirir conocimientos continuamente y mejorar sus habilidades en agricultura. <br><br>
 
 - **Descripción del Producto:** <br><br>
 
-  Nuestra propuesta es un servicio novedoso e innovador, ofrecemos a nuestros usuarios la posibilidad de desarrollar sus propios proyectos domésticos basados en hidroponía, empezando con un nivel de principiantes hasta lograr convertirse en todos unos expertos en el tema. Nuestro servicio será intuitivo, sencillo y fácil de utilizar para cualquier persona que haga uso de la aplicación. <br><br>
+ Nuestra propuesta es un servicio vanguardista y original. Brindamos a nuestros usuarios la oportunidad de crear sus propios proyectos domésticos de hidroponía, desde un nivel principiante hasta alcanzar un dominio experto en el tema. Nuestro servicio será intuitivo, sencillo y accesible para cualquier persona que utilice la aplicación. <br><br>
 
 - **Monetización:** <br><br>
 
-Nuestra aplicación se enorgullece de ofrecer una extensa variedad de cursos especializados en hidroponía para satisfacer las necesidades de aprendizaje de nuestros usuarios. Desde técnicas básicas hasta avanzadas, nuestra plataforma ofrece una selección curada de cursos diseñados por expertos en la industria. Con un enfoque en la calidad del contenido y la accesibilidad, los usuarios pueden adquirir cursos individualmente para profundizar en áreas específicas de interés. Además, mediante la monetización exclusiva de la venta de cursos y productos especializados par introducirnos en el mundo de la hidroponía. Cada curso y cada producto estará cuidadosamente elaborado para proporcionar conocimientos prácticos y habilidades aplicables, lo que permite a los usuarios avanzar en su viaje hacia la maestría en la hidroponía con nuestro respaldo y apoyo continuo.
+Nuestra aplicación se enorgullece de ofrecer una amplia gama de cursos especializados en hidroponía para satisfacer las necesidades de aprendizaje de nuestros usuarios. Desde conceptos básicos hasta técnicas avanzadas, nuestra plataforma presenta una cuidadosa selección de cursos elaborados por expertos en la industria. Nos centramos en la calidad del contenido y la accesibilidad, permitiendo a los usuarios adquirir cursos individualmente para explorar áreas específicas de interés. Además, nos introducimos en el mundo de la hidroponía mediante la monetización exclusiva de la venta de cursos y productos especializados. Cada curso y producto se elabora meticulosamente para ofrecer conocimientos prácticos y habilidades aplicables, facilitando que los usuarios avancen en su camino hacia la maestría en la hidroponía con nuestro continuo respaldo y apoyo.
 <br><br>
 
 ### [**1.2.1. Antecedentes y Problemática.**](#antecedentes-y-problemática)
 
 - **What?** <br><br>
 
-  El problema de nuestros usuarios es la falta de conocimiento acerca de la creación de una granja en casa, así como su mantención a lo largo del tiempo.<br><br>
+    Nuestros usuarios enfrentan el desafío de la falta de conocimiento sobre cómo establecer y mantener una granja en casa a lo largo del tiempo..<br><br>
 
 - **When?** <br><br>
 
-  El problema descrito se presenta cada vez que nuestros usuarios buscan información acerca de hidroponía, impidiendo que puedan tener su propias granjas domésticas. <br><br>
+  El problema surge cada vez que nuestros usuarios buscan información sobre hidroponía, lo que les impide establecer sus propias granjas domésticas. <br><br>
 
 - **Where?** <br><br>
 
-  El problema se encuentra en la poca información que se puede llegar a recopilar en distintos medios, y lo poco que se consigue resulta ser dificultoso de entender. <br><br>
+  El problema radica en la escasez de información disponible en diversos medios, y lo poco que se encuentra suele ser difícil de entender. <br><br>
 
 - **Why?** <br><br>
 
-  Usualmente los usuarios no logran encontrar la información necesaria sobre hidroponía y granjas domésticas, por lo que deben buscar por medio de internet, preguntar a familia o amigos para encontrar la mayor información posible.<br><br>
+  Normalmente, los usuarios tienen dificultades para encontrar la información necesaria sobre hidroponía y granjas domésticas. Por lo tanto, recurren a buscar en Internet o preguntar a familiares y amigos para obtener la mayor cantidad de información posible.<br><br>
 
 - **How?** <br><br>
 
-  Resulta muy complicado para los principiantes poder encontrar los pasos necesarios para iniciar una granja en casa. Debido a esta problemática, surge nuestra aplicación, la cual servirá de apoyo a todos aquellos entusiastas a poner en práctica su pasión por la hidroponía y lograr su objetivo. <br><br>
+  Para los principiantes, encontrar los pasos necesarios para iniciar una granja en casa puede resultar muy complicado. Para abordar este problema, hemos desarrollado nuestra aplicación, que servirá de apoyo a todos aquellos entusiastas que deseen poner en práctica su pasión por la hidroponía y alcanzar sus objetivos. <br><br>
 
 - **How much?** <br><br>
 
-  La problemática se origina debido a que existe poca información que podemos encontrar sobre hidroponía en el hogar, y la que se encuentra puede resultar complicada para las personas nuevas en el tema. Además, la información proporcionada en páginas web llega a presentarse de forma desordenada, lo que genera más obstáculos para los usuarios. <br><br>
+  La problemática surge debido a la escasez de información disponible sobre hidroponía en el hogar, y la que está disponible puede resultar complicada para personas nuevas en el tema. Además, la información proporcionada en páginas web a menudo está desorganizada, lo que genera más obstáculos para los usuarios. <br><br>
 
 ### [**1.2.2. Lean UX Process.**](#lean-ux-process)
 
 #### [**1.2.2.1. Lean UX Problem Statements.**](#lean-ux-problem-statements)
 
-La hidroponía es una de las actividades que posee gran cantidad de practicantes, a la vez que existen personas que desean aventurarse en la hidroponía y la creación de granjas en casa. De acuerdo a El Comercio (2019), la hidroponía es el futuro de la agricultura sostenible, debido a que necesita 90% menos agua que los métodos de agricultura convencionales. Además, afirman que es un modelo que se adapta a espacios pequeños, permitiendo así una mayor eficiencia en la regulación de la nutrición y el crecimiento de cultivos se da con mayor rapidez. Aunque, a menudo, las personas que incursionan en la hidroponía se enfrentan a barreras que dificultan su acceso a la información y los recursos necesarios. La falta de una plataforma educativa integral y práctica hace que la curva de aprendizaje sea empinada y desafiante. Además, la falta de interacción significativa con una comunidad activa de personas con ideas afines puede hacer que este proceso se sienta aislado. Es por este motivo que, como startup, abordaremos la resolución de la siguiente cuestión: ¿Cómo podemos aplicar nuestro conocimiento tecnológico para ofrecer un servicio novedoso que pueda ofrecer la información necesaria para los principiantes en la hidroponía?
+La hidroponía cuenta con una gran cantidad de practicantes, y hay un creciente interés en aventurarse en esta actividad y crear granjas en casa. Según El Comercio (2019), la hidroponía se perfila como el futuro de la agricultura sostenible, ya que requiere un 90% menos de agua que los métodos agrícolas convencionales y es adaptable a espacios reducidos, lo que permite una mayor eficiencia en la nutrición y el crecimiento de los cultivos. Sin embargo, quienes se adentran en la hidroponía a menudo enfrentan obstáculos para acceder a la información y los recursos necesarios. La falta de una plataforma educativa integral y práctica dificulta el proceso de aprendizaje, mientras que la ausencia de interacción con una comunidad activa de personas con ideas similares puede generar una sensación de aislamiento. Es por ello que, como startup, nos planteamos resolver la siguiente pregunta: ¿Cómo podemos aplicar nuestro conocimiento tecnológico para ofrecer un servicio innovador que proporcione la información necesaria a los principiantes en hidroponía?
 
 #### [**1.2.2.2. Lean UX Assumptions.**](#lean-ux-assumptions)
 
 **Business outcomes:**
 
-- Los usuarios de la aplicación están interesados en iniciar un proyecto doméstico de hidroponía.
-- Los usuarios desean obtener guías ofrecidas por expertos calificados en el tema.
-- Los usuarios desean una interfaz de aplicación intuitiva, responsive y fácil de usar para la búsqueda y visualización de los cursos.
-- Los usuarios buscan funciones adicionales, como que se incluya servicios de equipamiento, nutrientes, y demás implementos.
-- Los usuarios deben poder ver y analizar las opciones de forma clara y precisa.
+- Los usuarios de la aplicación tienen interés en iniciar proyectos domésticos de hidroponía.
+- Los usuarios desean acceder a guías proporcionadas por expertos cualificados en el tema.
+- Los usuarios prefieren una interfaz de aplicación intuitiva, adaptable y fácil de usar para buscar y visualizar cursos.
+- Los usuarios buscan funciones adicionales, como la inclusión de servicios de equipamiento, nutrientes y otros implementos necesarios.
+- Los usuarios necesitan poder ver y analizar las opciones de manera clara y precisa.
 - La aplicación debe ser compatible con múltiples navegadores modernos.
 - Los usuarios están dispuestos a pagar por funciones premium o servicios adicionales en la aplicación.
 
@@ -366,40 +366,39 @@ La hidroponía es una de las actividades que posee gran cantidad de practicantes
 
 - **¿Quién es el usuario?**
 
-  Los usuarios interesados en la aplicación son aquellos que buscan toda la información necesaria para iniciar un proyecto propio sobre hidroponía casera y agricultura, además de buscar cursos y guías de expertos en las cuales puedan basarse y realizar de mejor manera su plan agrícola. Nuestros usuarios son: personas mayores de edad que deseen iniciar en la hidroponía, y expertos que desean brindar sus conocimientos a los principiantes.
+Los usuarios interesados en la aplicación son aquellos que buscan obtener toda la información necesaria para iniciar un proyecto propio de hidroponía casera y agricultura, además de buscar cursos y guías proporcionadas por expertos en las que puedan basarse para llevar a cabo su plan agrícola de manera efectiva. Nuestros usuarios son personas mayores de edad que desean iniciarse en la hidroponía, así como expertos que desean compartir sus conocimientos con los principiantes.
 
 - **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
-  Nuestra aplicación es aplicable tanto como un pasatiempo inicial, hasta convertirse en un proyecto y trabajo continuo que conlleva mayor inversión de tiempo.
+  Nuestra aplicación es aplicable tanto como un pasatiempo inicial como para convertirse en un proyecto y trabajo continuo que requiere una mayor inversión de tiempo.
 
 - **¿Qué problema tiene nuestro producto? ¿Cómo se resuelve?**
 
-  El problema que aborda nuestro producto es la dificultad de encontrar información acerca de hidroponía en casa y cómo iniciar tu propio proyecto. Se resuelve al proporcionar una plataforma que pueda conectar principiantes y expertos que puedan guiarlos a realizar su proyecto. Esto brinda la posibilidad de formar una comunidad en la cual puedan compartir experiencias, consejos, tutoriales y demás.
-
+  Nuestro producto aborda el problema de la dificultad para encontrar información sobre hidroponía en el hogar y cómo iniciar un proyecto propio. Esto se soluciona al proporcionar una plataforma que conecta a principiantes con expertos que puedan guiarlos en la realización de sus proyectos. Esto crea la oportunidad de formar una comunidad donde los usuarios puedan compartir experiencias, consejos, tutoriales y más.
+  
 - **¿Cuándo y cómo es usado nuestro producto?**
 
-  Nuestro producto se adecua a los usuarios, por lo que puede ser utilizado en las fechas que ellos prefieran, y cuando consideren que sea conveniente iniciar adecuadamente el proyecto que planean. Al mismo tiempo, los expertos también pueden decidir en qué momento compartir sus conocimientos, realizando buenos cursos para los principiantes.
+  Nuestro producto se adapta a los usuarios, permitiéndoles utilizarlo en las fechas que prefieran y cuando consideren conveniente iniciar adecuadamente su proyecto planificado. Al mismo tiempo, los expertos también pueden decidir cuándo compartir sus conocimientos, ofreciendo cursos de calidad para los principiantes cuando les resulte más conveniente.
 
 - **¿Qué características son importantes?**
 
-  La característica más importante es la posibilidad de crear comunidades, dentro de las cuales se pueden compartir diversas características entre los usuarios.
+  La característica más destacada es la capacidad de crear comunidades donde los usuarios puedan compartir diversas experiencias y características entre sí.
 
 - **¿Cómo debe verse nuestro producto y comportarse?**
 
-  Nuestro producto debe cumplir con su propósito sin presentar errores en su funcionamiento. El producto debe tener un uso sencillo, eficiente y ágil.
+  Nuestro producto debe cumplir con su propósito sin presentar errores en su funcionamiento. Debe ser fácil de usar, eficiente y ágil en su desempeño..
 
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
 
-- Creemos que nuestra aplicación será de gran utilidad para las personas principiantes en el tema de hidroponía casera. Sabremos que tuvimos éxito cuando las reseñas positivas realizadas por los usuarios sean mayores al 80%.
+- Creemos que nuestra aplicación será de gran utilidad para personas principiantes en hidroponía casera. Sabremos que tuvimos éxito cuando las reseñas positivas de los usuarios superen el 80%.
 
-- Creemos que los expertos en el tema podrán contribuir de manera significativa para el aprendizaje de los principiantes. Sabremos que tuvimos éxito cuando los cursos ofrecidos tengan inscritos más del 70% de usuarios.
+- Creemos que los expertos podrán contribuir significativamente al aprendizaje de los principiantes. Sabremos que tuvimos éxito cuando más del 70% de los usuarios estén inscritos en los cursos ofrecidos.
 
-- Creemos que nuestra aplicación será utilizada por personas mayores de 18 años, siendo este nuestro segmento objetivo. Sabremos que tuvimos éxito cuando el promedio de edad de los usuarios coincida con nuestro objetivo.
+- Creemos que nuestra aplicación será utilizada principalmente por personas mayores de 18 años, que es nuestro segmento objetivo. Sabremos que tuvimos éxito cuando el promedio de edad de los usuarios coincida con nuestro objetivo.
 
-- Creemos que nuestra aplicación será sencilla e intuitiva de usar para nuestros usuarios. Sabremos que tuvimos éxito cuando en las encuestas los usuarios satisfechos sean más del 80%.
+- Creemos que nuestra aplicación será fácil e intuitiva de usar para nuestros usuarios. Sabremos que tuvimos éxito cuando más del 80% de los usuarios encuestados estén satisfechos con la experiencia.
 
-- Creemos que las comunidades serán una buena característica en la cual los usuarios puedan compartir sus experiencias y consejos entre sus proyectos. Sabremos que tuvimos éxito cuando la mayoría de los usuarios haga uso de esta característica.
--
+- Creemos que las comunidades serán una característica valiosa donde los usuarios puedan compartir experiencias y consejos entre proyectos. Sabremos que tuvimos éxito cuando la mayoría de los usuarios hagan uso de esta función.
 
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
 
