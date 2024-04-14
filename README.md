@@ -519,7 +519,8 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 10. ¿Cuáles son tus principales objetivos y frustraciones en relación con la enseñanza o asesoramiento en hidroponía?
 
 ### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
-**Segmento 1**  
+
+**Segmento 2**  
 Nombre: Salvador Chamorro
 Edad: 23 años
 Ocupación: Ingeniería Ambiental  
@@ -531,8 +532,8 @@ El entrevistado señala que su personalidad es adecuada para impartir clases de 
 Nombre: Angel Chonate
 Edad: 19 años
 Ocupación: Ingenieria Industrial
-![Imagen de entrevista] ()
-[Link de la entrevista] (https://upcedupe-my.sharepoint.com/personal/u202219266_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219266%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo2307523513%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&mode=View)
+![Imagen de entrevista]()
+[Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202219266_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219266%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo2307523513%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&mode=View)
 
 **Segmento 2**  
 Nombre: Camila Conde
@@ -541,8 +542,7 @@ Ocupación: Ingeniería de Software
 <img src="./images/Entrevista1.jpg">
 [Link de la entrevista](https://drive.google.com/file/d/1pZ0GUkhESpRCnpj80o0e3dy9w3zMW8nI/view?usp=sharing)
 
-En esta ocasión se entrevistó a Camila Conde una estudiante de la carrera de Ingeniería de Software, una novata en el ámbito de la hidroponia. Ella comenta que desea informarse más de la forma correcta de cómo debe ella iniciar para este nuevo hobby, especialmente que los materiales y productos debería usar. Así mismo, ella busca una plataforma que le ayude a mejorar en la hipotonía de una forma intuitiva, ya sea tutoriales o tips, sin embargo la información dada fue errónea o no le ayudaron en sus problemas. 
-
+En esta ocasión se entrevistó a Camila Conde una estudiante de la carrera de Ingeniería de Software, una novata en el ámbito de la hidroponia. Ella comenta que desea informarse más de la forma correcta de cómo debe ella iniciar para este nuevo hobby, especialmente que los materiales y productos debería usar. Así mismo, ella busca una plataforma que le ayude a mejorar en la hipotonía de una forma intuitiva, ya sea tutoriales o tips, sin embargo la información dada fue errónea o no le ayudaron en sus problemas.
 
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
@@ -690,6 +690,26 @@ Los Mapas de Empatía son fundamentales para el proyecto AgriSage, ya que facili
 ## [**4.1. Style Guidelines.**](#style-guidelines)
 
 ### [**4.1.1. General Style Guidelines.**](#general-style-guidelines)
+
+El logotipo de AgriSage es un elemento clave en la identidad visual de la marca, ya que representa la esencia y los valores de la plataforma. El diseño del logotipo se basa en la combinación de elementos gráficos y tipográficos que reflejan la naturaleza innovadora, educativa y sostenible de AgriSage. El logotipo se compone de un icono distintivo que representa una planta en crecimiento, simbolizando el proceso de aprendizaje y crecimiento continuo que promueve la plataforma.
+
+<img src="images/logo-agrisage.png">
+
+### Typography:
+
+La tipografía utilizada en la aplicación es **Poppins**. Esta fuente se eligió por su legibilidad y versatilidad, lo que la hace ideal para su uso en interfaces digitales. La fuente Poppins es moderna, limpia y fácil de leer, lo que garantiza una experiencia de usuario agradable y efectiva.
+
+<img src="images/poppins.jpg">
+
+### Spacing
+
+El spacing mantiene:
+
+- Margen entre texto: 16px
+- Margen entre elementos: 24px
+- Margen entre secciones: 72px
+
+<img src="images/spacing.png">
 
 ### [**4.1.2. Web Style Guidelines.**](#web-style-guidelines)
 
@@ -864,6 +884,7 @@ Se muestra los componentes. Se encuentra la seguridad para la cuenta del usuario
 <img src="images/ClassDiagram.png" alt="Class Diagram">
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
+
 <table>
 
   <tr>
@@ -1007,7 +1028,7 @@ Se muestra los componentes. Se encuentra la seguridad para la cuenta del usuario
     <td colspan="1" valign="top">duracion</td>
     <td colspan="1" valign="top">Tiempo de Reunion</td>
     <td colspan="1" valign="top">int</td>
-  </tr> 
+  </tr>
 
   <tr>
     <td colspan="1" rowspan="3">8</td>
@@ -1025,7 +1046,7 @@ Se muestra los componentes. Se encuentra la seguridad para la cuenta del usuario
     <td colspan="1" valign="top">content</td>
     <td colspan="1" valign="top">Contenido</td>
     <td colspan="1" valign="top">string</td>
-  </tr> 
+  </tr>
 
 </table>
 
