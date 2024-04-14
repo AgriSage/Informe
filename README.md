@@ -402,8 +402,7 @@ La hidroponía es una de las actividades que posee gran cantidad de practicantes
 -
 
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
-
-<img src:"./images/CanvasAgriSage.jpg">
+<img src="./images/CanvasAgriSage.jpg" alt="Canvas">
 
 ## [**1.3. Segmentos objetivo.**](#segmentos-objetivo)
 
