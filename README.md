@@ -618,37 +618,143 @@ Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, is
 
 ### 5.1.1. Software Development Environment Configuration.
 
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+**Requirements Management**
+
+1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos detrabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuariopertenecientes al sprint a desarrollar. Ruta de referencia https://trello.com/es
+2. Google docs: Google Docs es una suite de aplicaciones de procesamiento de texto, hojas de cálculo y presentaciones en línea. Aunque no es específicamente una herramienta de gestión de requisitos, se puede utilizar para documentar y colaborar en la definición y seguimiento de requisitos de proyectos. docs.google.com
+
+**Product UX/UI Design**
+
+1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En elcaso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.Ruta de referencia https://www.figma.com
+2. UXPressia: UXPressia es una herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de clientes y otros elementos relacionados con el diseño de UX. Ayuda a visualizar y comprender la experiencia del usuario en un producto o servicio. https://uxpressia.com
+
+**Software Testing**
+
+1. Gherkin:  El lenguaje Gherkin es un lenguaje de dominio específico utilizado para escribir pruebas de aceptación en un formato legible por humanos. Se utiliza junto con herramientas de prueba de comportamiento, como Cucumber, para automatizar pruebas funcionales. https://cucumber.io/docs/gherkin/
+
+**Software Development**
+
+1. WebStorm: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos dedominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltipleslenguajes de programación, disponibilidades en múltiples sistemas operativos, entre otros beneficios. Ruta de referencia https://www.jetbrains.com/webstorm/
+2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Seráempleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. Ruta de referencia https://www.w3schools.com/html/html5_syntax.asp
+3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la manocon HTML. Ruta de referencia https://google.github.io/styleguide/htmlcssguide.html
+4. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz deusuario dentro de la aplicación. Ruta de referencia https://developer.mozilla.org/es/docs/Web/JavaScript
+5. Vue.js: Es un framework progresivo de JavaScript para el desarrollo de interfaces de usuario interactivas en el lado del cliente (frontend). Ruta de referencia https://vuejs.org/.
+
+**Software Deployment**
+
+1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Seutilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederána través de la línea de comandos en sus sistemas locales. Ruta de referencia https://git-scm.com/
+
+**Software Documentation and Project Management**
+
+1. Github: GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores. Ruta de referencia https://github.com/
 
 ### 5.1.2. Source Code Management.
 
-El gitjab donde tengamos el proyecto
+Para mantener el orden al desarrollar una solución y evitar conflictos o superposiciones de información, los proyectos se trabajaron en un organización de GitHub y dentro de esta se encuentran los diferentes repositorios para cada proyecto cuyos enlaces de los repositorios son los siguientes:
+
+**Liks del repositorio de GitHub**:
+
+- Link de la organización: https://github.com/AgriSage
+- Link de la landing page: https://github.com/AgriSage/Landing
+- Link del informe: https://github.com/AgriSage/Informe
+- Link del front end: https://github.com/AgriSage/Frontend
+- Link del back end: https://github.com/AgriSage/Backend
+
+Estrucutra de las ramas:
+
+- **Main Branch:** Esta rama es la principal de la aplicación. Donde se encontrarán las versiones más estables del desarrollo. Solo se admiten cambios que hayan sido probados en otras ramas.
+- **Develop Branch:** Esta rama es donde se realizarán los avances del proyecto y desarollo.
+- **Feature Branch:** Esta rama es donde se implementarán nuevas características de la aplicación, para luego ser enviada a la rama de desarrollo.
+- **Release Branch:** Esta rama es una instancia de la rama Develop, para posteriormente ser enviada a la rama Main.
+- **Hotfix Branch:** Estas ramas son creadas con la finalidad de corregir errores puntuales que puedan estar perjudicando al usuario en su experiencia de uso de la aplicación.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+A continuación, se darán a conocer las convenciones, formatos, estilos y entre otras propiedades de los lenguajes trabajados en la presente solución las cuales son: HTML, JavaScript/TypeScript, CSS:
+
+- **HTML:** Hemos considerado las siguientes como las más importantes:
+
+  - **Declarar siempre el tipo documento:** Es decir, colocar siempre la etiqueta <!DOCTYPE  html> en la primera línea del código.
+
+  - **Utilizar el nombre de las etiquetas y sus atributos en minúscula:** Por un tema de estética y orden del código para que este se vea más limpio y sea más fácil de escribir.
+
+  - **Cerrar todas las etiquetas:** Esto evita futuros problemas o errores de sintaxis.
+
+  - **Especificar siempre los atributos alt, width y height para las imágenes:** Es importante en caso de que la imagen no se pueda mostrar por algún motivo y también ayuda con el tema de la accesibilidad de los usuarios.
+
+- **CSS:** Hemos considerado las siguientes recomendaciones como las más destacadas:
+
+  - **Nombre de clases:** Se recomienda usar nombres generales para las clases, no deben ser específicas por la razón de que deben comportarse como padres.
+
+  - **Usar nombres de clase cortos:** Se recomienda utilizar nombres de clase que sean cortos y descriptivos, para transmitir la idea de lo que representa de manera concisa.
+
+  - **Usar delimitadores de nombres de clase adecuados:** Se debe de separar las palabras en los nombres de clase con solo guiones.
+
+- **JavaScript:** Se consideró importante seguir una guía de buenas prácticas para un mejor desarrollo del código, para este caso se eligió la guía de la wiki “JavaScript best practices“ del World Wide Web (W3C). Lo cual se destaca lo siguiente:
+
+  - **Usar nombres cortos y fáciles de leer:** Es recomendable nombrar adecuadamente las variables, clases, funciones y otros elementos para que sea más sencillo de leer y comprender.
+
+  - **Comentar y documentar lo necesario:** Se recomienda comentar líneas de código que son complejos de entender a simple vista explicando o dejando mensajes para que otros programadores lo entiendan.
+
+  - **Usar notaciones sencillas de entender:** Javascript cuenta con diversas notaciones y operadores para crear o modificar ciertas estructuras de datos como objetos, arrays, selectivas, etc.
+
+- **Gherkin:** Se consideró conveniente usar la guía y convenciones que se mencionan en “Gherkin Conventions for Readable Specifications” para una correcta realización de las pruebas. A continuación, se mencionan los puntos que consideramos más importantes para nuestro trabajo:
+
+  - **Los bloques “Give-When-Then” deben ser diferenciados:** Se recomienda usar una correcta indentación de esos bloques para identificar mejor las secciones de la prueba y también añadiendo la keyword “And” para añadir otra línea en los pasos y otro bloque.
+
+Para nuestra implementación, se ha decidido utilizar Gitflow, el cual es un flujo de trabajo de Git que define un modelo de ramificación estricto diseñado en torno a la publicación del proyecto. Esto proporciona un marco sólido para la gestión de versiones, lo que permite a los equipos de desarrollo, como el nuestro, trabajar de forma independiente en características, correcciones de errores y otras tareas sin afectar a otros miembros del equipo. Al hacer uso de Gitflow, podemos aumentar la velocidad de entrega de código, disminuir los errores humanos en la mezcla de las ramas, eliminar la dependencia de funcionalidades al momento de entregar código para ser puesto en producción, entre otros beneficios.
+ 
+
 
 ### 5.1.4. Software Deployment Configuration.
 
-Configuraciones de donde y como deployeamos el proyecto
+<p align="justify">
+  Para la implementación de la aplicación AgriSage, se utilizará la plataforma de Github Pages y Github Actions para la implementación y despliegue de la aplicación.
+  Donde en cada cambio que se realice en nuestra rama pricipal (main), se desplegará automáticamente en la plataforma de Github Pages.
+</p>
+
+- Paso uno: Asegurarnos de que el repositorio de GitHub contenga todos los archivos necesarios para el sitio web.
+
+- Paso dos: Ir a la configuración del repositorio en GitHub y habilitar GitHub Pages, seleccionando la rama principal (main) y la carpeta desde la que se desea publicar el sitio web.
+  <img align="center" src="" alt="Configuracion Github Actions" width="90%">
+
+- Paso tres: Verificar que se haya desplegado correctamente en la plataforma de Github Pages.
+  <img align="center" src=" " alt="Despliegue en Github Pages" width="90%">
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint n
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning n.
 
-Explicar como vamos a plannear el sprint?
+| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 06/04/2024                                                                                                                                      |
+| Time                             | 17:00 horas                                                                                                                                          |
+| Location                         | Reunión realizada mediante Google Meet                                                                                                              |
+| Prepared By                      | Mancilla Ordaya, Eduardo Vicente                                                                                                               |
+| Attendees (to planning meeting) | Luis Angel Anampa Lavado/Pumahualcca Garcia, Diego Rodrigo/Mancilla Ordaya, Eduardo Vicente/Justo Yauricasa,Alexander Paolo/Cisneros Tafur, Diego Rafael	|
+| Sprint n - 1 Review              | Se creará la organización de AgriSage en Github y el repositorio de la organización. Además, se implementará el single page landing page.    |
+| Sprint n – 1 Retrospective       | La implementación para el landing se ha realizado mediante html y css. |
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Goal                    | Realizar y desplegar el Landing Page                                                                                                            |
+| Sprint 1 Velocity                | 5                                                                                                                                              |
+| Sum of Story Points              | 21                                                                                                                                              |
 
-#### 5.2.X.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog n.
 
-![SprintBacklog n](image.jpg) Nica hago la tabla
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| GW01 | Apartado del Header    | G01 | Header  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                  | Luis Angel    | Done                                   |
+| GW02 | Apartado del Footer    | G02 | Footer  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2                  | Diego Rafael  | Done                                   |
+| GW03 | Seccion Planes         | G03 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección Hero. Debe ser responsive.           | 3                  | Diego Rodrigo   | Done                                 |
+| GW04 | Seccion Compra    | G04 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la barra de navegación. Debe ser responsive.    | 2                  | Rodrigo Pozo  | Done                                   |
+| GW05 | Seccion Conoce Mas           | G05 | Sección "Testimonios"(Desarrollado en HTML y CSS)        | Desarrollo e implementación de los estilos que corresponden a la sección Testimonios. Debe ser responsive.    | 3                  | José Arenas   | Done                              |
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
-![Sprint review development Evidence](image.jpg)
+
 
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
 
