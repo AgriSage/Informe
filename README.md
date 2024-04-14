@@ -55,11 +55,11 @@
 **Registro de Versiones del Informe**
 |Versión|Fecha|Autor|Descripción de modificación|
 |-------|-----|-----|---------------------------|
-|V0.1|31/03/2024|s |Creación del repositorio|
-|V0.2|02/04/2024|||
-|V0.3|03/04/2024|||
-|V0.4|09/04/2024|||
-|V1.0|10/04/2024|||
+|V0.1|31/03/2024|Diego Cisneros  |Creación del repositorio y Finalización del capitulo 4 |
+|V0.2|02/04/2024|Alexander Justo|Finalización del capitulo 1|
+|V0.3|03/04/2024|Diego Pumahualcca|Finalización del capitulo 2|
+|V0.4|09/04/2024|Luis Anampa |Finalización del capitulo 3|
+|V1.0|10/04/2024|Eduardo Mancilla|Finalización del capitulo 5|
 
 # **Project Report Collaboration Insights**
 
