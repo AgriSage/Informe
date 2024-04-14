@@ -528,6 +528,12 @@ Ocupación: Ingeniería Ambiental
 
 El entrevistado señala que su personalidad es adecuada para impartir clases de hidroponia, ya que es una persona paciente y con habilidades de comunicación. Además señala que la mayor dificultad que pueden tener las personas nuevas en este mundo es la falta de información y la dificultad para encontrarla. Asimismo también expresó que hay una dificultad para encontrar materiales y equipos necesarios para la hidroponia.
 
+Nombre: Angel Chonate
+Edad: 19 años
+Ocupación: Ingenieria Industrial
+![Imagen de entrevista] ()
+[Link de la entrevista] (https://upcedupe-my.sharepoint.com/personal/u202219266_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219266%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo2307523513%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&mode=View)
+
 **Segmento 2**  
 Nombre: Camila Conde
 Edad: 21 años
