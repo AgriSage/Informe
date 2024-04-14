@@ -55,7 +55,7 @@
 **Registro de Versiones del Informe**
 |Versión|Fecha|Autor|Descripción de modificación|
 |-------|-----|-----|---------------------------|
-|V0.1|31/03/2024|Diego Cisneros  |Creación del repositorio y Finalización del capitulo 4 |
+|V0.1|31/03/2024|Diego Cisneros |Creación del repositorio y Finalización del capitulo 4 |
 |V0.2|02/04/2024|Alexander Justo|Finalización del capitulo 1|
 |V0.3|03/04/2024|Diego Pumahualcca|Finalización del capitulo 2|
 |V0.4|09/04/2024|Luis Anampa |Finalización del capitulo 3|
@@ -71,17 +71,17 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 | Integrante        | Actvidades Asignadas |
 | ----------------- | -------------------- |
-| Luis Anampa       |Capitulo 3|
-| Diego Pumahualcca |Capitulo 2|
-| Alexander Justo   |Capitulo 1|
-| Eduardo Mancilla  |Capitulo 4 y 5|
-| Diego Cisneros    |Capitulo  4|
+| Luis Anampa       | Capitulo 3           |
+| Diego Pumahualcca | Capitulo 2           |
+| Alexander Justo   | Capitulo 1           |
+| Eduardo Mancilla  | Capitulo 4 y 5       |
+| Diego Cisneros    | Capitulo 4           |
 
 # Student Outcome
 
-| Criterio Especifico                                                                                                                                                                                       | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                 | Conclusiones                                                                                                                                                                                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.     | **Luis Anampa**<br>TB1: Se ha trabajado correctamente en equipo mediante reuniones en linea , tambien nos organizamos de manera eficiente para poder repartirnos y hacer un trabajo colaborativo en grupo<br><br>**Diego Pumahualcca**Se realizó una investigación para entender la problemática en cuestión y poder distinguir los grupos concretos a los que nos dirigimos, con el objetivo de comprender sus necesidades y ofrecerles un producto que las satisfaga.<br>TB1:<br><br>**Alexander Justo**<br>TB1: Se llevó a cabo un estudio con el fin de comprender la situación que estamos tratando y así poder identificar a los grupos específicos a los que nos dirigimos, para entender sus necesidades y proporcionarles un producto que las satisfaga.<br><br>**Eduardo Mancilla**<br>TB1: Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras.<br><br>**Diego Cisnero**<br>TB1: Se hizo un análisis para poder llevar a cabo este proyecto , y se colaboro activamente con todos los mienbros del equipo <br>                                                     | La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.                             |
+| Criterio Especifico                                                                                                                                                                                       | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.     | **Luis Anampa**<br>TB1: Se ha trabajado correctamente en equipo mediante reuniones en linea , tambien nos organizamos de manera eficiente para poder repartirnos y hacer un trabajo colaborativo en grupo<br><br>**Diego Pumahualcca**Se realizó una investigación para entender la problemática en cuestión y poder distinguir los grupos concretos a los que nos dirigimos, con el objetivo de comprender sus necesidades y ofrecerles un producto que las satisfaga.<br>TB1:<br><br>**Alexander Justo**<br>TB1: Se llevó a cabo un estudio con el fin de comprender la situación que estamos tratando y así poder identificar a los grupos específicos a los que nos dirigimos, para entender sus necesidades y proporcionarles un producto que las satisfaga.<br><br>**Eduardo Mancilla**<br>TB1: Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras.<br><br>**Diego Cisneros**<br>TB1: Se hizo un análisis para poder llevar a cabo este proyecto , y se colaboro activamente con todos los mienbros del equipo <br>                                                                                                                                                 | La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.                             |
 | Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería. | **Luis Anampa**<br>TB1: Se analizo las user story , las necesidades de los usuarios , hemos calificado a las user story con el product backlog, nuestra comunicacion como grupo ha sido crucial para poder terminar nuestro primer entregable<br><br>**Diego Pumahualcca**<br>TB1:Se llevó a cabo un análisis con el propósito de comprender el contexto que estamos abordando y así poder identificar a los grupos particulares a los que nos dirigimos, con la intención de comprender sus necesidades y ofrecerles un producto que las satisfaga.<br>**Alexander Justo**<br>TB1: Se elaboró un informe que abarcaba varios aspectos fundamentales para el desarrollo del proyecto, que iban desde un análisis de la problemática hasta la creación de algunos prototipos de solución. <br><br>**Eduardo Mancilla**<br>TB1: Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales.<br><br>**Diego Cisnero**<br>TB1:Se hizo un análisis para poder llevar a cabo este proyecto , y se colaboro activamente con todos los mienbros del equipo , ademas una investigacion con todos los mienbros de nuestro equipo<br> | La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo. |
 
 # Contenido
@@ -587,10 +587,9 @@ En esta ocasión, se conversó con Christian , una estudiante de Ingenieria Ambi
 
 **Resumen:**
 
-En esta ocasión, se conversó con Giusseppe , me comenta que es una persona curiosa y creativa que busca explorar en el mundo de la hidroponia y que constantemente al buscar informacion , no esta completamente seguro que la infomracion sea la correcta , el consulta a blogs , redes sociales , etc. El quiere una aplicacion de acuerdo a sus necesidades como AgriSage. 
+En esta ocasión, se conversó con Giusseppe , me comenta que es una persona curiosa y creativa que busca explorar en el mundo de la hidroponia y que constantemente al buscar informacion , no esta completamente seguro que la infomracion sea la correcta , el consulta a blogs , redes sociales , etc. El quiere una aplicacion de acuerdo a sus necesidades como AgriSage.
 
-
-**Segmento 2: **Expertos en hidroponía que puedan brindar conocimientos  
+**Segmento 2: **Expertos en hidroponía que puedan brindar conocimientos
 
 ![Imagen de entrevista](images/imagen-entrevista-salvador.png)
 
@@ -658,8 +657,6 @@ En esta ocasión se entrevistó a Camila Conde una estudiante de la carrera de I
 
 En esta ocasión se entrevistó a Steffi una profesional de la carrera de Diseño de Interiores, una experta en el ámbito de la hidroponia. Ella comenta que ha realizado proyectos en su trabajo en los que empezo a interesarse por la Hidroponía, lo cual la ha llevado a ser lo que es ahora en este ambito. Ella esta dispuesta a impartir sus conocimientos e incluso, ya los imparte a dia de hoy al realizar sus proyectos de trabajo.
 
-
-
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
 **Segmento 1: Personas que deseen iniciar en la hidroponía**
@@ -682,7 +679,6 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 - Una información más detallada de la hidroponia y tutorias.
 
 - Una aplicación intuitiva que sea fácil de manejar.
-  
 - Flexibilidad de horarios
 
 - Experiencia de parte de los Tutores.
@@ -698,7 +694,6 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 - Facilidad de coordinacion
 
 - La capacidad de poder responder las dudas de los usuarios.
-
 
 ### [**2.3.1. User Personas.**](#user-personas)
 
@@ -1415,7 +1410,6 @@ Para nuestra implementación, se ha decidido utilizar Gitflow, el cual es un flu
 
 - Paso tres: Verificar que se haya desplegado correctamente en la plataforma de Github Pages.
 
-
 ## [**5.2. Landing Page, Services \& Applications Implementation.**](#landing-page-services--applications-implementation)
 
 ### [**5.2.1. Sprint 1.**](#sprint-1)
@@ -1457,19 +1451,20 @@ Link del trello: https://trello.com/invite/b/dhXlXIgt/ATTI3dff621b068b43e17a2154
 
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
-| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
-| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| landing-page | feature/develop | 4d34428   | fix: Error | -                   | 14/04/2024         |
-| landing-page | feature/Conocemassection                    | f1c06d7   | Feat: Conocemas Section added     | -                   | 14/04/2024         |
-| landing-page | feature/SubscriptionPlan                           |  70e139d  | feat: Add Subscription Plan                | -                   | 13/04/2024         |
-| landing-page | feature/footer                              | 2551eea   | feat(footer): added footer estructure with images                  | -                   | 14/04/2024         |
-| landing-page | feature/shop                        | a755f08   | feat: added feature shop             | -                   | 14/04/2024         |
+| Repository   | Branch                   | Commit Id | Commit Message                                    | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------ | --------- | ------------------------------------------------- | ------------------- | ------------------ |
+| landing-page | feature/develop          | 4d34428   | fix: Error                                        | -                   | 14/04/2024         |
+| landing-page | feature/Conocemassection | f1c06d7   | Feat: Conocemas Section added                     | -                   | 14/04/2024         |
+| landing-page | feature/SubscriptionPlan | 70e139d   | feat: Add Subscription Plan                       | -                   | 13/04/2024         |
+| landing-page | feature/footer           | 2551eea   | feat(footer): added footer estructure with images | -                   | 14/04/2024         |
+| landing-page | feature/shop             | a755f08   | feat: added feature shop                          | -                   | 14/04/2024         |
 
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
 Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.
 
 #### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
+
 <div align="center">
   <img src="images/landing-mockup-1.png">
   <img src="images/landing-mockup-2.png">
@@ -1488,9 +1483,7 @@ Para realizar el despliegue automático de nuestra Landing Page, utilizamos la h
 
 El link de nuestra Landing Page es el siguiente:
 
-
 https://agrisage.github.io/Landing/
-
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
