@@ -840,6 +840,8 @@ En el diagrama de contenedores, se observan la aplicación web, la landing page 
 <img src="images/ContainerDiagram.png" alt="Container Diagram">
 
 ### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
+Se muestra los componentes. Se encuentra la seguridad para la cuenta del usuario, la agregacion de cursos, gestion de pago y la administracion de contenidos (Security Service, Courses Component, Pay Component y Content Component)
+
 <img src="images/ComponentDiagram.png" alt="Components Diagram">
 
 ## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
