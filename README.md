@@ -591,7 +591,7 @@ En esta ocasión, se conversó con Giusseppe , me comenta que es una persona cur
 
 ![Entrevista 4](images/EntrevistaImagen.png)
 
-**Entrevistado N°3:** Fabian Chonate Angel Diego
+**Entrevistado N°4:** Fabian Chonate Angel Diego
 
 **- Sexo:** Maculino
 
