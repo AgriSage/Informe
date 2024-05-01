@@ -589,7 +589,29 @@ En esta ocasión, se conversó con Christian , una estudiante de Ingenieria Ambi
 
 En esta ocasión, se conversó con Giusseppe , me comenta que es una persona curiosa y creativa que busca explorar en el mundo de la hidroponia y que constantemente al buscar informacion , no esta completamente seguro que la infomracion sea la correcta , el consulta a blogs , redes sociales , etc. El quiere una aplicacion de acuerdo a sus necesidades como AgriSage.
 
-**Segmento 2: **Expertos en hidroponía que puedan brindar conocimientos
+![Entrevista 4](images/EntrevistaImagen.png)
+
+**Entrevistado N°3:** Fabian Chonate Angel Diego
+
+**- Sexo:** Maculino
+
+**- Edad:** 19 años
+
+**- Ubicación en la que vive:** Lima Villa el Salvador
+
+**Acerca de la entrevista:** Estudiante de la UTP
+
+**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/EQDDWPQyt2lGo3kvj-b7AM8BiCtCJ8HelGiKubRnnFwWAQ?e=Shb1Lt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**- Instante en el que inicia:**
+
+**- Duración:**
+
+**Resumen:**
+
+En esta ocasión se entrevistó a Angel Fabian un estudiante de la carrera de Ingeniería de Industrial, un novato en la hidroponia. Y nos dice que para iniciar con éxito en la práctica de la hidroponía, para el es crucial contar tanto con conocimientos teóricos como con recursos prácticos. Tambien nos dice que es importante tener informacion de la variedad de nutrientes necesarios para un crecimiento saludable de las plantas.
+
+**Segmento 2:** Expertos en hidroponía que puedan brindar conocimientos
 
 ![Imagen de entrevista](images/imagen-entrevista-salvador.png)
 
