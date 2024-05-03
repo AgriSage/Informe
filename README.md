@@ -1717,9 +1717,10 @@ Link de la app desplegada:
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-<img src="" alt="images/insights1.PNG" width="100%">
-<img src="" alt="images/insights2.PNG" width="100%">
-<img src="" alt="images/insights3.PNG" width="100%">
+<img src="images/insights1.PNG" alt="insight" width="100%">
+
+<img src="images/insights2.PNG" alt="insight" width="100%">
+<img src="images/insights3.PNG" alt="insight" width="100%">
 
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
