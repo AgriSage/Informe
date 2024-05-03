@@ -60,6 +60,11 @@
 |V0.3|03/04/2024|Diego Pumahualcca|Finalización del capitulo 2|
 |V0.4|09/04/2024|Luis Anampa |Finalización del capitulo 3|
 |V1.0|10/04/2024|Eduardo Mancilla|Finalización del capitulo 5|
+|V1.1|31/03/2024|Diego Cisneros | |
+|V1.2|02/04/2024|Alexander Justo||
+|V1.3|03/04/2024|Diego Pumahualcca||
+|V1.4|09/04/2024|Luis Anampa |Mejoras del Informe|
+|V2.0|10/04/2024|Eduardo Mancilla||
 
 # **Project Report Collaboration Insights**
 
