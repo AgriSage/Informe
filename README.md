@@ -64,7 +64,7 @@
 |V1.2|02/04/2024|Alexander Justo||
 |V1.3|03/04/2024|Diego Pumahualcca||
 |V1.4|09/04/2024|Luis Anampa |Mejoras del Informe|
-|V2.0|10/04/2024|Eduardo Mancilla||
+|V2.0|10/04/2024|Eduardo Mancilla| Sprint 2 y correcion en entrevistas|
 
 # **Project Report Collaboration Insights**
 
@@ -1784,4 +1784,6 @@ Link de la app desplegada:
 
 #### link de las entrevistas: https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
-### Lin de exposicion: 
+### Link de exposicion:  https://drive.google.com/file/d/1AJts5_QttR93hZgBbHsgd8Zhn9PlHGP1/view?usp=sharing
+
+### Link de la web desplegada: https://upc202401si730sw52.web.app/home
