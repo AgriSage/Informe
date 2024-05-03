@@ -60,11 +60,11 @@
 |V0.3|03/04/2024|Diego Pumahualcca|Finalización del capitulo 2|
 |V0.4|09/04/2024|Luis Anampa |Finalización del capitulo 3|
 |V1.0|10/04/2024|Eduardo Mancilla|Finalización del capitulo 5|
-|V1.1|31/03/2024|Diego Cisneros | |
-|V1.2|02/04/2024|Alexander Justo||
-|V1.3|03/04/2024|Diego Pumahualcca||
-|V1.4|09/04/2024|Luis Anampa |Mejoras del Informe|
-|V2.0|10/04/2024|Eduardo Mancilla| Sprint 2 y correcion en entrevistas|
+|V1.1|31/03/2024|Diego Cisneros | Sprint 2 y Mejoras del Informe |
+|V1.2|03/05/2024|Alexander Justo| Sprint 2 y correcion en entrevistas|
+|V1.3|03/05/2024|Diego Pumahualcca| Sprint 2 y Mejoras del Informe|
+|V1.4|03/05/2024|Luis Anampa |Sprint 2 yMejoras del Informe|
+|V2.0|03/05/2024|Eduardo Mancilla| Sprint 2 y correcion en entrevistas|
 
 # **Project Report Collaboration Insights**
 
