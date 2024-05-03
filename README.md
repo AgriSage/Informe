@@ -77,6 +77,16 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 | Eduardo Mancilla  | Capitulo 4 y 5       |
 | Diego Cisneros    | Capitulo 4           |
 
+<br><br>
+- **TP1:** Para esta entrega, realizamos como equipo las actividades correspondientes al Sprint 2:
+  
+URL Project Report (Github): https://github.com/AgriSage/Informe
+<br>
+
+<br>
+<hr>
+<br><br>
+
 # Student Outcome
 
 | Criterio Especifico                                                                                                                                                                                       | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                                                                                                                                    |
@@ -163,6 +173,14 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+    - [**5.2.2. Sprint 2**](#522-sprint-2)
+          - [**5.2.2.1. Sprint Planning 2**](#5221-sprint-planning-2)
+          - [**5.2.2.3. Development Evidence for Sprint Review**](#5223-development-evidence-for-sprint-review)
+          - [**5.2.2.4. Testing Suite Evidence for Sprint Review**](#5224-testing-suite-evidence-for-sprint-review)
+          - [**5.2.2.5. Execution Evidence for Sprint Review**](#5225-execution-evidence-for-sprint-review)
+          - [**5.2.2.6. Services Documentation Evidence for Sprint Review**](#5226-services-documentation-evidence-for-sprint-review)
+          - [**5.2.2.7. Software Deployment Evidence for Sprint Review**](#5227-software-deployment-evidence-for-sprint-review)
+          - [**5.2.2.8. Team Collaboration Insights during Sprint**](#5228-team-collaboration-insights-during-sprint)
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
@@ -1458,11 +1476,11 @@ Para nuestra implementación, se ha decidido utilizar Gitflow, el cual es un flu
 
 | id   | Title               | Id  | Title                                | Description                                                                                                 | Estimations(Hours) | Assigned To     | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ------------------- | --- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ------------------ | --------------- | -------------------------------------- |
-| GW01 | Apartado del Header | G01 | Header (Desarrollado en HTML y CSS). | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.    | 3                  | Luis Angel      | Done                                   |
-| GW02 | Apartado del Footer | G02 | Footer (Desarrollado en HTML y CSS). | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive. | 2                  | Diego Rafael    | Done                                   |
-| GW03 | Seccion Planes      | G03 | (Desarrollado en HTML y CSS)         | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.              | 3                  | Diego Rodrigo   | Done                                   |
-| GW04 | Seccion Compra      | G04 | (Desarrollado en HTML y CSS)         | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.              | 2                  | Alexander Paolo | Done                                   |
-| GW05 | Seccion Conoce Mas  | G05 | (Desarrollado en HTML y CSS)         | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.              | 3                  | Eduardo Vicente | Done                                   |
+| HU01 | Apartado del Header | T001 | Header (Desarrollado en HTML y CSS). | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.    | 3                  | Luis Angel      | Done                                   |
+| HU02 | Apartado del Footer | T002 | Footer (Desarrollado en HTML y CSS). | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive. | 2                  | Diego Rafael    | Done                                   |
+| HU03 | Seccion Planes      | T003 | (Desarrollado en HTML y CSS)         | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.              | 3                  | Diego Rodrigo   | Done                                   |
+| HU04 | Seccion Compra      | T004 | (Desarrollado en HTML y CSS)         | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.              | 2                  | Alexander Paolo | Done                                   |
+| HU05 | Seccion Conoce Mas  | T005 | (Desarrollado en HTML y CSS)         | Desarrollo e implementación de los estilos que corresponden a la sección. Debe ser responsive.              | 3                  | Eduardo Vicente | Done                                   |
 
 <div align="center">
 
@@ -1515,6 +1533,195 @@ en Github </p>
 
 <img align="center" src="images/evidencia.PNG" alt="evidence" width="90%">
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+<table>
+  <caption>Sprint #2</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>22/04/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>16:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Mancilla Ordaya, Eduardo</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de Agrisage</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 2 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará el repositorio del aplicativo web. Además, se asignarán las tareas a realizar como las secciones del aplicativo a desarrollar y las correcciones al informe.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 2 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación para el aplicativo web se desarrolló en Vue.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 2 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2
+
+|Sprint#|Sprint 2| | | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|
+|User Story| |Task| | | | | |
+|id|title|id|title|description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
+|HU06|Feature/header|T006|Desarrollo de vista del  header|Desarrollo e implementación de la vista del header con enrutamiento|5 hrs|Eduardo Mancilla|Done|
+|HU07|Feature/footer|T007|Desarrollo de vista del footer|Desarrollo e implementación de la vista del footer|3 hrs|Eduardo Mancilla|Done|
+|HU08|Feature/Registro de usuario|T008|Desarrollo de registro de usuario|Desarrollo e implementación del registro de usuario|2 hrs|Luis|In Process|
+|HU09|Feature/Inicio de sesion|T009|Desarrollo del inicio de sesion|Desarrollo e implementación de la vista de inicio de sesion|2 hrs|Luis|In Process|
+|HU10|Feature/Home|T010|Desarrollo de pantalla de home|Desarrollo e implementación de la vista de home|2 hrs|Alexander|Done|
+|HU11|Feature/Cursos|TO11|Desarrollo de la pantalla de cursos|Desarrollo e implementación de la vista de cursos|3 hrs|Alexander|Done|
+|HU12|Feature/Tienda|T012|Desarrollo de la pantalla de tienda|Desarrollo e implementación de la vista de tienda|4 hrs|Diego Rodrigo|Done|
+|HU13|Feature/Perfil|T013|Desarrollo de la pantalla de perfil|Desarrollo e implementación de la vista de perfil|1 hrs|Diego Rodrigo|Done|
+|HU14|Feature/Carrito de compras|T014|Desarrollo de la vista del carrito de compras|Desarrollo e implementación del carrito de compras|2 hrs|Diego Rafael|Done|
+|HU15|Feature/Cart payment Flow|T015|Desarrollo de la vista del card payment flow|Desarrollo e implementación del card payment flow|3 hrs|Diego Rafael|Done|
+
+En el segundo Sprint, se implementará el aplicativo web de AgriSage. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+<img src="images/trellosprint2.PNG" alt="Trello" width="100%">
+
+Aqui podra encontrar la evidencia de Trelo:
+https://trello.com/invite/b/eBua6tCc/ATTIca1ea16c3082e197571972253bb935c95DF06254/sprint-2-agrisage
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+<p align="justify">A continuación se presentan informacion de los commits del FrontedEnd de nuestro Aplicativo AgriSage, con el uso de Vue</p>
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>feature/Payment-Flow</td>
+    <td>6c0be27bed4fe28d8b744c6264b37d9b52f884a7</td>
+    <td>feat(cart): shopping cart view component</td>
+    <td>29/04/2024</td>
+  </tr>
+   <tr>
+    <td>Frontend</td>
+    <td>feature/header-footer</td>
+    <td>1aa95d70222ba5f06ebd8baffa5e4678f1c76495</td>
+    <td>Feat: Header and footer</td>
+    <td>29/04/2024</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>feature/login-register</td>
+    <td>edd52cda2a17d8eadd189b5bd40d5cc4c31c212f</td>
+    <td>feat: added login-and-register</td>
+    <td>29/04/2024</td>
+  </tr>
+  </table>
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+<p align="justify">En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la interfaz de la aplicación web.</p>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación del frontend de la aplicación web. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+**Paso 1:** desplegarlo localmente usando lite server
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+**Paso 2:** instalar Firebase tools en nuestro proyecto, y loguearse en firebase
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+**Paso 3** realizar el deploy a traves de firebase
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+**Paso 4:** ng deploy
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+Link de la app desplegada: 
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+<img src="" alt="images/insights1.PNG" width="100%">
+<img src="" alt="images/insights2.PNG" width="100%">
+<img src="" alt="images/insights3.PNG" width="100%">
+
+
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
 **TB1:**
@@ -1529,6 +1736,10 @@ en Github </p>
 
 - A través del análisis de competidores y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para la toma de decisiones informadas en el desarrollo de nuestro producto.<br><br>
 
+**TP1:**
+<p align="justify">Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de AgriSage. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
+
+
 # [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
 <p>MDN Web Docs. (s.f.). HTML: Hypertext Markup Language. Recuperado de https://developer.mozilla.org/en-US/docs/Web/HTML</p>
@@ -1542,3 +1753,5 @@ en Github </p>
 #### Link Figma: https://www.figma.com/file/bezkX2UkmUPdeVykSlzBgt/AgriSage?type=design&node-id=36%3A224&mode=design&t=v8FaCefprRcoSFI9-1
 
 #### link de las entrevistas: https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
+### Lin de exposicion: 
