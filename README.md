@@ -1669,7 +1669,19 @@ https://trello.com/invite/b/eBua6tCc/ATTIca1ea16c3082e197571972253bb935c95DF0625
 
 <div align="center">
 
-  <img src="">
+  <img src="images/deploy1.PNG">
+
+</div>
+
+<div align="center">
+
+  <img src="images/deploy4.PNG">
+
+</div>
+
+<div align="center">
+
+  <img src="images/deploy5.PNG">
 
 </div>
 
@@ -1680,11 +1692,11 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-**Paso 1:** desplegarlo localmente usando lite server
+**Paso 1:** desplegarlo localmente 
 
 <div align="center">
 
-  <img src="">
+  <img src="images/deploy1.PNG">
 
 </div>
 
@@ -1692,7 +1704,7 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 <div align="center">
 
-  <img src="">
+  Npm install ‐g firebase‐tools
 
 </div>
 
@@ -1700,7 +1712,7 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 <div align="center">
 
-  <img src="">
+  <img src="images/deploy2.PNG">
 
 </div>
 
@@ -1708,7 +1720,7 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 <div align="center">
 
-  <img src="">
+  <img src="images/deploy3.PNG">
 
 </div>
 
