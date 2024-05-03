@@ -78,7 +78,19 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 | Diego Cisneros    | Capitulo 4           |
 
 <br><br>
-- **TP1:** Para esta entrega, realizamos como equipo las actividades correspondientes al Sprint 2:
+
+_TP_
+
+Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguiente forma
+
+|Integrante|Actvidades Asignadas|
+|----------|----------|
+|Luis Anampa|Correciones del documento <br>Sprint  backlog 2|
+|Diego Pumahualcca |Correciones del documento<br>Sprint review and Collaboration insigths|
+|Alexander Justo  |Correciones del documento<br>Sprint planning 2|
+|Eduardo Mancilla|Correciones al documento<br> execution evidence|
+|Diego Cisneros|Correciones deldocumento<br> develope and deployment evidence|
+
   
 URL Project Report (Github): https://github.com/AgriSage/Informe
 <br>
