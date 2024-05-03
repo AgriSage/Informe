@@ -537,9 +537,9 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 **Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
 
-**- Instante en el que inicia:**
+**- Instante en el que inicia:** 0:31 s
 
-**- Duración:**
+**- Duración:** 33:53 min
 
 **Resumen:**
 
@@ -559,9 +559,9 @@ En esta ocasión, se conversó con Dayana Rojas, una estudiante de Comunicación
 
 **Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
 
-**- Instante en el que inicia:**
+**- Instante en el que inicia:** 5:46 min
 
-**- Duración:**
+**- Duración:** 33:53 min
 
 **Resumen:**
 
@@ -581,9 +581,9 @@ En esta ocasión, se conversó con Christian , una estudiante de Ingenieria Ambi
 
 **Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
 
-**- Instante en el que inicia:**
+**- Instante en el que inicia:** 11:44 min
 
-**- Duración:**
+**- Duración:** 33:53 min
 
 **Resumen:**
 
@@ -627,9 +627,9 @@ En esta ocasión se entrevistó a Angel Fabian un estudiante de la carrera de In
 
 **Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
 
-**- Instante en el que inicia:**
+**- Instante en el que inicia:** 17:00 min
 
-**- Duración:**
+**- Duración:** 33:53 min
 
 **Resumen:**
 
@@ -649,9 +649,9 @@ El entrevistado señala que su personalidad es adecuada para impartir clases de 
 
 **Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
 
-**- Instante en el que inicia:**
+**- Instante en el que inicia:** 22:00 min
 
-**- Duración:**
+**- Duración:** 33:53 min
 
 **Resumen:**
 
@@ -671,13 +671,14 @@ En esta ocasión se entrevistó a Camila Conde una estudiante de la carrera de I
 
 **Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
 
-**- Instante en el que inicia:**
+**- Instante en el que inicia:** 27:00 min
 
-**- Duración:**
+**- Duración:** 33:53 min
 
 **Resumen:**
 
 En esta ocasión se entrevistó a Steffi una profesional de la carrera de Diseño de Interiores, una experta en el ámbito de la hidroponia. Ella comenta que ha realizado proyectos en su trabajo en los que empezo a interesarse por la Hidroponía, lo cual la ha llevado a ser lo que es ahora en este ambito. Ella esta dispuesta a impartir sus conocimientos e incluso, ya los imparte a dia de hoy al realizar sus proyectos de trabajo.
+
 
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
