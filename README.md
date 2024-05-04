@@ -1741,7 +1741,7 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 </div>
 
-Link de la app desplegada: 
+Link de la app desplegada: https://agrisage-sw52.web.app/home
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
