@@ -1784,6 +1784,6 @@ Link de la app desplegada: https://agrisage-sw52.web.app/home
 
 #### link de las entrevistas: https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
-### Link de exposicion:  https://drive.google.com/file/d/1AJts5_QttR93hZgBbHsgd8Zhn9PlHGP1/view?usp=sharing
+### Link de exposicion:  https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi730%2DSW52%2DAgriSage%2Dexpo%2Dtp1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8ce72039%2D282b%2D4a4a%2Dadf6%2Db4dc719d54df
 
-### Link de la web desplegada: https://upc202401si730sw52.web.app/home
+### Link de la web desplegada: [https://upc202401si730sw52.web.app/home](https://agrisage-sw52.web.app)
