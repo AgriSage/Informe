@@ -198,6 +198,20 @@ URL Project Report (Github): https://github.com/AgriSage/Informe
        - [**5.2.2.6. Services Documentation Evidence for Sprint Review**](#5226-services-documentation-evidence-for-sprint-review)
        - [**5.2.2.7. Software Deployment Evidence for Sprint Review**](#5227-software-deployment-evidence-for-sprint-review)
        - [**5.2.2.8. Team Collaboration Insights during Sprint**](#5228-team-collaboration-insights-during-sprint)
+    - [**5.2.3. Sprint 3.**](#521-sprint-3)
+      - [**5.2.3.1. Sprint Planning 3.**](#5211-sprint-planning-3)
+      - [**5.2.3.2. Sprint Backlog 3.**](#5212-sprint-backlog-3)
+      - [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
+      - [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
+      - [**5.2.3.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
+      - [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
+      - [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
+      - [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+ - [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
+    - [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
+    - [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
+    - [**5.3.3.  Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics.)
+- [**5.4. Video About-the-Product.**](#52-Video-About-the-Product. )
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
@@ -1751,6 +1765,20 @@ Link de la app desplegada: https://agrisage-sw52.web.app/home
 <img src="images/insights2.PNG" alt="insight" width="100%">
 <img src="images/insights3.PNG" alt="insight" width="100%">
 
+#### [**5.2.3. Sprint 3.**](#521-sprint-3)
+#### [**5.2.3.1. Sprint Planning 3.**](#5211-sprint-planning-3)
+#### [**5.2.3.2. Sprint Backlog 3.**](#5212-sprint-backlog-3)
+#### [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
+#### [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
+#### [**5.2.3.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
+#### [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
+#### [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
+#### [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
+### [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
+### [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
+### [**5.3.3.  Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics.)
+## [**5.4. Video About-the-Product.**](#52-Video-About-the-Product. )
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
