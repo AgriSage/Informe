@@ -1889,7 +1889,7 @@ Para esta validación se incluirán los siguientes productos:
 
 ![Evidencia](images/deploy3.PNG)
 
-Dentro de esta sección se detallara los bojetivos de usuario especificos que orientan nuestras entrevistas. Estos User goals seran cruciales para garantizar que la plataforma que brindamos cumpl con las exigencias de los usuarios acerca del servicio de carpooling. A continuación se detallara los User goals seleccionados.<br>
+Dentro de esta sección se detallara los bojetivos de usuario especificos que orientan nuestras entrevistas. Estos User goals seran cruciales para garantizar que la plataforma que brindamos cumpl con las exigencias de los usuarios acerca del servicio de AgriSage. A continuación se detallara los User goals seleccionados.<br>
 
 **User Goal: Registro de usuario**<br>
 **User Goal: Visualizar planes de servicio**<br>
