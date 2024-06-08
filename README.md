@@ -1854,6 +1854,15 @@ Link de la app desplegada: https://agrisage-sw52.web.app/home
 
 #### [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
 
+| Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| Back-end |||| -|   (5/06/204)      |
+| Back-end |||| -|(5/06/204)     |
+| Back-end |||| -|(4/06/204)    |
+| Back-end |||| -| (5/06/204)    |
+| Back-end ||| | -|(4/06/204)    |
+| Back-end |||| -|(4/06/204)    |
+
 #### [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
 
 #### [**5.2.3.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
