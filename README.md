@@ -1875,6 +1875,9 @@ Link de la app desplegada: https://agrisage-sw52.web.app/home
 
 ## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
 
+En la parte de la entrevista de validación de nuestro proyecto, nos centramos en el refinamiento.
+Optimización del servicio de AgriSage. Esta fase del proyecto incluyen nuestros segmentos objetivos: Personas que deseen iniciar en la hidroponía y Personas expertas. Lo haremos a través de entrevistas estructuradas.Lo anterior garantiza que el sitio no sólo cumple con los estándares Aunque es técnico, también resuena con la dinámica operativa y las expectativas del usuario al usar la aplicación. A continuación se enumera los objetivos del usuario necesarios para completar la entrevista:
+
 ### [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
 
 ### [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
