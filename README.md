@@ -1878,7 +1878,38 @@ Link de la app desplegada: https://agrisage-sw52.web.app/home
 En la parte de la entrevista de validación de nuestro proyecto, nos centramos en el refinamiento.
 Optimización del servicio de AgriSage. Esta fase del proyecto incluyen nuestros segmentos objetivos: Personas que deseen iniciar en la hidroponía y Personas expertas. Lo haremos a través de entrevistas estructuradas.Lo anterior garantiza que el sitio no sólo cumple con los estándares Aunque es técnico, también resuena con la dinámica operativa y las expectativas del usuario al usar la aplicación. A continuación se enumera los objetivos del usuario necesarios para completar la entrevista:
 
-### [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
+### [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)\
+
+Para esta validación se incluirán los siguientes productos:
+
+# Lading page
+![Evidencia](images/landing-mockup-1.png)
+
+# FrontEnd Web Application
+
+![Evidencia](images/deploy3.PNG)
+
+Dentro de esta sección se detallara los bojetivos de usuario especificos que orientan nuestras entrevistas. Estos User goals seran cruciales para garantizar que la plataforma que brindamos cumpl con las exigencias de los usuarios acerca del servicio de carpooling. A continuación se detallara los User goals seleccionados.<br>
+
+**User Goal: Registro de usuario**<br>
+**User Goal: Visualizar planes de servicio**<br>
+**User Goal: Seleccionar algun curso**<br>
+**User Goal: Visualizar carrito de compras**<br>
+
+# Preguntas a realizar para ambos Segmentos Objetivos
+
+- ¿Qué opinas sobre la facilidad de uso de nuestros productos? 
+
+- ¿Pudiste visualizar la sección de venta de productos? ¿Qué te pareció?
+  
+- ¿Pudiste visualizar el inicio de sesión en nuestra página web? ¿Qué te pareció?
+
+- ¿Pudiste visualizar los planes de servicios para cada tipo de usuario? ¿Qué te pareció?
+
+- ¿Pudiste visualizar la función de carrito de compras? ¿Qué opinas de esta función?
+
+- ¿Podrías sugerir alguna mejora para alguna sección o función de aplicación ?
+
 
 ### [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
 
