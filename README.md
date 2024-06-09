@@ -2082,7 +2082,7 @@ Debido a que la aplicación actualmente solo está implementada con un fake Rest
 Actualizar la aplicación con una Restful API que permita que la Web APP presente información real a los usuarios
 
 <div align="center">
-  <img src="images/heuristicas-1.png"/>
+  <img src="images/deploy1.PNG"/>
 </div>
 
 ##### PROBLEMA #2:
@@ -2094,9 +2094,7 @@ Actualmente, la aplicación solo presenta la opción de creación y actualizaci�
 ###### Recomendación:
 Agregar una opción, preferiblemente en la sección de "configuración", que permita al usuario borrar su cuenta
 
-<div align="center">
-  <img src="images/heuristicas-2.png"/>
-</div>
+
 
 ## [**5.4. Video About-the-Product.**](#52-Video-About-the-Product. )
 
