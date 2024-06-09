@@ -1852,13 +1852,20 @@ Link de la app desplegada: https://agrisage-sw52.web.app/home
 | Back-end |Profiles|157b996|Feat: add profile| -|   (07/06/204)      |
 | Back-end |Payment|8ebccf3|feat(validation): value objects| -|   (06/06/204)      |
 | Back-end |Develop|d80f0b3|feat(iam): added Infrastructure layer with the services like Hashing| -|(4/06/204)    |
-| Back-end |||| -| (5/06/204)    |
-| Back-end ||| | -|(4/06/204)    |
-| Back-end |||| -|(4/06/204)    |
+| Back-end |Shop|0f1dd5b|feat: Add Shop| -| (08/06/204)    |
 
 #### [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
 
+En el transcurso del tercer sprint, se realizaron pruebas de los endpoints con la herramienta de Swagger:
+
+<td><img src="images/testing-sprint3.PNG"></td>
+
+<td><img src="images/testing-sprint3-1.PNG"></td>
+
+
 #### [**5.2.3.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
+
+<td><img src="images/execution-sprint3.PNG"></td>
 
 #### [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
 
@@ -1871,24 +1878,43 @@ Link de la app desplegada: https://agrisage-sw52.web.app/home
   <tr>
     <td>Profile</td>
     <td>/api/v1/profiles</td>
-    <td><img src="/images/"></td>
+    <td><img src="images/documentation-sprint3-2.PNG"></td>
   </tr>
    <tr>
     <td>Payments</td>
     <td>/api/v1/payments</td>
-    <td><img src="/images/"></td>
+    <td><img src="images/documentation-sprint3-1.PNG"></td>
   </tr>
   <tr>
     <td>Courses</td>
     <td>/api/v1/courses</td>
-    <td><img src="/images/"></td>
+    <td></td>
   </tr>
   </table>
 
 
 #### [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
 
+Paso 1:  Agregamos el perfil de la web a nuestro VS para hacer el deploy
+<td><img src="images/deployment-sprint3-1.jpeg"></td>
+<td><img src="images/deployment-sprint3-2.jpeg"></td>
+
+Paso 2: Configuramos el string de conexión a la base de datos y configuramos como independiente el modo de implementación
+<td><img src="images/deployment-sprint3-3.jpeg"></td>
+
+Paso 3: Luego en publicar y rellenamos las creadenciales.
+<td><img src="images/deployment-sprint3-4.jpeg"></td>
+
+Paso 4: Luego esperamos hasta que se suba la aplicación
+<td><img src="images/deployment-sprint3-5.jpeg"></td>
+<td><img src="images/deployment-sprint3-6.jpeg"></td>
+
+
 #### [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+
+<td><img src="images/insights-sprint3-1.PNG"></td>
+<td><img src="images/insights-sprint3-2.PNG"></td>
+<td><img src="images/insights-sprint3-3.PNG"></td>
 
 ## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
 
