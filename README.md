@@ -2142,7 +2142,7 @@ En conclusión, hemos desarrollado el backend de nuestra aplicación utilizando 
 
 #### link de las entrevistas: https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
-### Link de exposicion:  https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi730%2DSW52%2DAgriSage%2Dexpo%2Dtp1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8ce72039%2D282b%2D4a4a%2Dadf6%2Db4dc719d54df
+### Link de exposicion:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EfTYahsM97xAl2_NlQiqY7gBIUFg7zmZejGOF20bMLI3Rg?e=OulmqT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### Link de about the team:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EWiZpOxDUfRLjq189X1smVwBiZJPIshJ6CDrKTDqR7xYdg?e=JsUjOi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
