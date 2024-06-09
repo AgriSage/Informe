@@ -1,5 +1,3 @@
-![image](https://github.com/AgriSage/Informe/assets/130567310/0d15b19f-858c-4647-94a8-52f24b98ea3f)<br />
-
 <div align="center">
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
     
