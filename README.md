@@ -2098,6 +2098,12 @@ Agregar una opción, preferiblemente en la sección de "configuración", que per
 
 ## [**5.4. Video About-the-Product.**](#52-Video-About-the-Product. )
 
+Presentamos nuestro Video About the Product para el Sprint 3, el cual busca promocionar el producto que el Startup AgriSage ha desrrollado.
+
+Video en Microsoft Stream:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX6Z4xQmlbZEtVSWFOi8Kq8BFQawgUvCRp9yPHkbhhz2Yw?e=PKF8NE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
 **TB1:**
