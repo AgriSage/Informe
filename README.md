@@ -62,7 +62,12 @@
 |V1.2|03/05/2024|Alexander Justo| Sprint 2 y correcion en entrevistas|
 |V1.3|03/05/2024|Diego Pumahualcca| Sprint 2 y Mejoras del Informe|
 |V1.4|03/05/2024|Luis Anampa |Sprint 2 yMejoras del Informe|
-|V2.0|03/05/2024|Eduardo Mancilla| Sprint 2 y correcion en entrevistas|
+|V2.0|03/05/2024|Eduardo Mancilla| Sprint 3 y correcion en entrevistas|
+|V2.1|09/06/2024|Diego Cisneros | Sprint 3 y Mejoras del Informe |
+|V2.2|09/06/2024|Alexander Justo| Sprint 3 y Mejoras del Informe|
+|V2.3|09/06/2024|Diego Pumahualcca| Sprint 3 y Mejoras del Informe|
+|V2.4|09/06/2024|Luis Anampa |Sprint 3 y Mejoras del Informe|
+|V3.0|09/06/2024|Eduardo Mancilla| Sprint 3 y Mejoras del Informe|
 
 # **Project Report Collaboration Insights**
 
