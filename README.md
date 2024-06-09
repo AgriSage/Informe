@@ -2039,6 +2039,65 @@ En esta entrevista nos contactamos con Oskar Sosa, un joven estudiante que, desp
 
 ### [**5.3.3.  Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics.)
 
+##### SITE o APP A EVALUAR:
+AgriSage
+
+##### TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+Registro de usuario
+Inicio Sesión de usuario
+Compra de cursos
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+Tienda virtual
+Shopping cart
+
+##### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+| -- |--|
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+##### TABLA RESUMEN:
+
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
+| -- | -- | -- | -- |
+| 1 | No se actualiza la información de los componentes: Tienda virtual y shopping cart | 2 | Credible: No proporciona información actualizada |
+| 2 | No se puede borrar la cuenta de un usuario, solo crearla y actualizarla | 2 | Controllable: No se proporciona todas las funcionlidades que el usuario podría requerir |
+
+##### DESCRIPCIÓN DE PROBLEMAS:
+
+##### PROBLEMA #1:
+No se actualiza la información de los componentes: Tienda virtual y shopping cart
+###### Severidad: 2
+Heurística violada: Credible
+###### Problema:
+Debido a que la aplicación actualmente solo está implementada con un fake Restful API, la información presentada en la aplicación siempre está desactualizada y presenta los mismos componentes cada vez que entras a ella.
+###### Recomendación:
+Actualizar la aplicación con una Restful API que permita que la Web APP presente información real a los usuarios
+
+<div align="center">
+  <img src="images/heuristicas-1.png"/>
+</div>
+
+##### PROBLEMA #2:
+No se puede borrar la cuenta de un usuario, solo crearla y actualizarla
+###### Severidad: 2
+Heurística violada: Controllable
+###### Problema:
+Actualmente, la aplicación solo presenta la opción de creación y actualización de la información de una cuenta de usuario, mas no una de eliminación.
+###### Recomendación:
+Agregar una opción, preferiblemente en la sección de "configuración", que permita al usuario borrar su cuenta
+
+<div align="center">
+  <img src="images/heuristicas-2.png"/>
+</div>
+
 ## [**5.4. Video About-the-Product.**](#52-Video-About-the-Product. )
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
@@ -2058,7 +2117,8 @@ En esta entrevista nos contactamos con Oskar Sosa, un joven estudiante que, desp
 **TP1:**
 <p align="justify">Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de AgriSage. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
 
-
+**TB2:**
+En conclusión, hemos desarrollado el backend de nuestra aplicación utilizando Rider y siguiendo la arquitectura hexagonal, asegurando una estructura robusta y eficiente mediante la implementación de diversos Bounded Contexts. Cada miembro del equipo ha contribuido de manera significativa a diferentes áreas del proyecto, garantizando que todas las secciones sean claras, objetivas y comprensibles para audiencias con diversas especialidades y niveles jerárquicos. Este enfoque colaborativo y detallado nos ha permitido crear un sistema coherente y bien integrado, destacando nuestra capacidad para comunicar resultados complejos de manera efectiva.
 # [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
 <p>MDN Web Docs. (s.f.). HTML: Hypertext Markup Language. Recuperado de https://developer.mozilla.org/en-US/docs/Web/HTML</p>
