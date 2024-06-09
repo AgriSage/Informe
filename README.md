@@ -1932,6 +1932,111 @@ Dentro de esta sección se detallara los bojetivos de usuario especificos que or
 
 ### [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
 
+Video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/ET6aI9mlmwVPhHztV_9gFxQB6hi-f4UzFkDPM43lLJmwZQ?e=ZYnRkd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Realizamos 4 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales
+nuestros entrevistados se dedicaron a navegar por nuestras plataformas web, tanto el
+Landing Page como el Frontend Web Application.
+
+![Evidencia](images/Interviews.png)
+
+## **Entrevistado N°1:** Jhunior Giussepe Taquiro Calderon
+
+**- Sexo:** Masculino
+
+**- Edad:** 20 años
+
+**- Ubicación en la que vive:** Lima Surco
+
+**Acerca de la entrevista:** Estudiante de ingenieria de Software
+
+**- Link:** 
+
+
+**- Instante en el que inicia:** 0:15 s
+
+**- Duración:** 26:34 min
+
+**Resumen:**
+
+
+En esta entrevista nos contactamos con Giusseppe, un chico universitario que, después de haberle mostrado la landing page y la aplicación frontend, en general le pareció intuitiva de usar. Giusseppe destacó que la navegación era sencilla y que la interfaz era amigable para el usuario, lo cual facilitaba encontrar la información y funcionalidades necesarias sin mayor esfuerzo.Encontró interesantes diversas secciones que pudo visualizar, como la de los planes de servicio y la funcionalidad de payment. Estas características le parecieron bien diseñadas y útiles para los usuarios.
+
+
+
+![Entrevista 1](images/InterviewFront1.png)
+
+
+
+
+## **Entrevistado N°2:** Cristhian Jeaker Araujo Canales
+
+**- Sexo:** Masculino
+
+**- Edad:** 20 años
+
+**- Ubicación en la que vive:** Lima San Juan de Lurigancho
+
+**Acerca de la entrevista:** Estudia ciencia de la computacion en la UPC
+
+**- Link:** 
+
+**- Instante en el que inicia:** 7:15 min
+
+**- Duración:**  26:34 min
+
+**Resumen:**
+
+En esta entrevista nos contactamos con Christian Araujo, un joven estudiante que, después de haberle mostrado la landing page y la aplicación frontend, compartió sus impresiones. Christian también encontró que la aplicación era intuitiva de usar, con una navegación clara y accesible. Christian destacó varias secciones interesantes que pudo explorar, como la sección de tienda y la funcionalidad de payment. Le parecieron bien diseñadas y útiles, especialmente para usuarios que buscan un acceso rápido a la información y opciones específicas asi mismo nos dio una mejora que podría ser la implementación de un sistema de valoraciones y comentarios de clientes para los productos.
+
+
+![Entrevista 2](images/InterviewFront2.png)
+
+## **Entrevistado N°3:** Dayana Melina Rojas Sosa
+
+**- Sexo:** Femenino
+
+**- Edad:** 19 años
+
+**- Ubicación en la que vive:** Lima Ate
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**- Link:** 
+
+**- Instante en el que inicia:** 14:15 min
+
+**- Duración:** 26:34 min
+
+**Resumen:**
+En esta entrevista nos contactamos con Melina Rojas, una joven estudiante que, después de haberle mostrado la landing page y la aplicación frontend, compartió sus impresiones. Melina encontró la aplicación intuitiva de usar, con una navegación clara y accesible, lo cual facilitaba su experiencia de usuario. Melina destacó varias secciones interesantes que pudo explorar, como la funcionalidad de registrarte le parecio sencilla  y la sección de mi perfil. Apreciaba la claridad y utilidad de estas funciones. Además, Melina nos proporcionó una mejora importante que considera necesaria para implementar. Una posible mejora podría ser la adición de una sección de preguntas frecuentes (FAQ) para simplificar las dudas de los usuarios
+
+![Entrevista 3](images/InterviewFront3.png)
+
+
+
+
+## **Entrevistado N°4:** Oskar Sosa Soto
+
+**- Sexo:** Masculino
+
+**- Edad:** 19 años
+
+**- Ubicación en la que vive:** Lima Villa Maria del triunfo
+
+**Acerca de la entrevista:** Estudiante de la UPC
+
+**- Link:** 
+**- Instante en el que inicia:** 21:33 min
+
+**- Duración:** 26:34 min
+
+**Resumen:**
+En esta entrevista nos contactamos con Oskar Sosa, un joven estudiante que, después de haberle mostrado la landing page y la aplicación frontend, compartió sus impresiones. Oskar encontró la aplicación intuitiva de usar, con una navegación clara y accesible, lo cual facilitaba su experiencia de usuario. 
+
+![Entrevista 4](images/InterviewFront4.png)
+
+
 ### [**5.3.3.  Evaluaciones según heurísticas.**](#5211-Evaluations-according-to-heuristics.)
 
 ## [**5.4. Video About-the-Product.**](#52-Video-About-the-Product. )
