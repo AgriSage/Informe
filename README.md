@@ -1840,25 +1840,20 @@ Link de la app desplegada: https://agrisage-sw52.web.app/home
 |:----|:----|:----|:----|:----|:----|:----|:----|
 |User Story| |Task| | | | | |
 |id|title|id|title|description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+|HU16 |Bounded context Profiles |TO16|Profile |Desarrollo del bounded context profiles | 6|Luis |Done |
+|HU17 |Bounded context Courses|T017 |Course |Desarrollo del bounded context Courses| 5|Alexander |In Process |
+|HU18 |Bounded context Shop |T018 |Shop |Desarrollo del bounded context Shop|6 |Diego Rodrigo |In Process |
+|HU19 |Bounded context Cart |T019 |Cart | Desarrollo del bounded context Cart| 6|Diego Rafael |In Process |
+|HU20 |Bounded context Payment |T020 |Payment |Desarrollo del bounded context Payment |5 |Eduardo |To Review |
 
 
 #### [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
 
 | Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| Back-end |||| -|   (5/06/204)      |
-| Back-end |||| -|(5/06/204)     |
-| Back-end |||| -|(4/06/204)    |
+| Back-end |Profiles|157b996|Feat: add profile| -|   (07/06/204)      |
+| Back-end |Payment|8ebccf3|feat(validation): value objects| -|   (06/06/204)      |
+| Back-end |Develop|d80f0b3|feat(iam): added Infrastructure layer with the services like Hashing| -|(4/06/204)    |
 | Back-end |||| -| (5/06/204)    |
 | Back-end ||| | -|(4/06/204)    |
 | Back-end |||| -|(4/06/204)    |
@@ -1868,6 +1863,30 @@ Link de la app desplegada: https://agrisage-sw52.web.app/home
 #### [**5.2.3.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
 
 #### [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Entity</th>
+    <th>Endpoint</th>
+    <th>Swagger</th>
+  </tr>
+  <tr>
+    <td>Profile</td>
+    <td>/api/v1/profiles</td>
+    <td><img src="/images/"></td>
+  </tr>
+   <tr>
+    <td>Payments</td>
+    <td>/api/v1/payments</td>
+    <td><img src="/images/"></td>
+  </tr>
+  <tr>
+    <td>Courses</td>
+    <td>/api/v1/courses</td>
+    <td><img src="/images/"></td>
+  </tr>
+  </table>
+
 
 #### [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
 
