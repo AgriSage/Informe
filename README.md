@@ -45,7 +45,7 @@
     </table>
 
   <p align="center">
-    Abril-2024
+    Junio-2024
   </p>
     
 </div>
@@ -68,6 +68,11 @@
 |V2.3|09/06/2024|Diego Pumahualcca| Sprint 3 y Mejoras del Informe|
 |V2.4|09/06/2024|Luis Anampa |Sprint 3 y Mejoras del Informe|
 |V3.0|09/06/2024|Eduardo Mancilla| Sprint 3 y Mejoras del Informe|
+|V3.1|26/06/2024|Diego Cisneros | Sprint 4 y Mejoras del Informe |
+|V3.2|26/06/2024|Alexander Justo| Sprint 4 y Mejoras del Informe|
+|V3.3|26/06/2024|Diego Pumahualcca| Sprint 4 y Mejoras del Informe|
+|V3.4|26/06/2024|Luis Anampa |Sprint 4 y Mejoras del Informe|
+|V4.0|26/06/2024|Eduardo Mancilla| Sprint 3 4 Mejoras del Informe|
 
 # **Project Report Collaboration Insights**
 
