@@ -215,6 +215,15 @@ URL Project Report (Github): https://github.com/AgriSage/Informe
       - [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+    - [**5.2.4. Sprint 4**](#524-sprint-4)
+      - [**5.2.4.1. Sprint Planning 4**](#5241-sprint-planning-4)
+      - [**5.2.4.2. Sprint Backlog 4**](#5242-sprint-backlog-4)
+      - [**5.2.4.3. Development Evidence for Sprint Review**](#5243-development-evidence-for-sprint-review)
+      - [**5.2.4.4. Testing Suite Evidence for Sprint Review**](#5244-testing-suite-evidence-for-sprint-review)
+      - [**5.2.4.5. Execution Evidence for Sprint Review**](#5245-execution-evidence-for-sprint-review)
+      - [**5.2.4.6. Services Documentation Evidence for Sprint Review**](#5246-services-documentation-evidence-for-sprint-review)
+      - [**5.2.4.7. Software Deployment Evidence for Sprint Review**](#5247-software-deployment-evidence-for-sprint-review)
+      - [**5.2.4.8. Team Collaboration Insights during Sprint**](#5238-team-collaboration-insights-during-sprint)
  - [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
     - [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
     - [**5.3.2.  Registro de Entrevistas.**](#5211-Interview-Record.)
@@ -1605,30 +1614,33 @@ en Github </p>
     </tr>
     <tr>
       <td colspan="2">
-        <strong>Sprint n - 2 Review</strong>
+        <strong>Sprint 1 Review</strong>
       </td>
     </tr>
     <tr>
       <td>Resumen</td>
       <td>
-        Se creará el repositorio del aplicativo web. Además, se asignarán las tareas a realizar como las secciones del aplicativo a desarrollar y las correcciones al informe.
+        Hemos alncanzo desarrollar nuestra landing page con todos los mienbros del equipo.
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <strong>Sprint n - 2 Retrospective</strong>
+        <strong>Sprint 1 Retrospective</strong>
       </td>
     </tr>
     <tr>
       <td>Resumen</td>
       <td>
-        La implementación para el aplicativo web se desarrolló en Vue.
+        Hemos tenido un buen trabajo como equipo , hemos decidido en designar y mejorar cada parte de las correcciones en el informe
       </td>
     </tr>
     <tr>
-      <td colspan="2">
-        <strong>Sprint Goal and User Stories</strong>
+      <td >
+    Sprint Goal and User Stories
       </td>
+    <td>
+        Se espera crear el repositorio del aplicativo web. Además, se asignarán las tareas a realizar como las secciones del aplicativo a desarrollar con el framework Vue y asi mismo las correcciones al informe
+    </td>
     </tr>
     <tr>
       <td>Sprint 2 Velocity</td>
@@ -1806,30 +1818,32 @@ Link de la app desplegada: [https://agrisage-sw52.web.app/home](https://agrisage
     </tr>
     <tr>
       <td colspan="2">
-        <strong>Sprint n - 3 Review</strong>
+        <strong>Sprint 2 Review</strong>
       </td>
     </tr>
     <tr>
       <td>Resumen</td>
       <td>
-        Se creará el repositorio del Backend. Además, se asignarán las tareas a realizar como las secciones del aplicativo a desarrollar y las correcciones al informe.
-      </td>
+        Hemos logrado realizar nuestra aplicacion frontend , a la misma vez realizado su despliegue .
     </tr>
     <tr>
       <td colspan="2">
-        <strong>Sprint n - 3 Retrospective</strong>
+        <strong>Sprint 2 Retrospective</strong>
       </td>
     </tr>
     <tr>
       <td>Resumen</td>
       <td>
-        La implementación para el Backend web se desarrolló en Java.
+        Como equipo, hemos realizado las correcciones correspondientes al trabajo parcial.
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
         <strong>Sprint Goal and User Stories</strong>
       </td>
+    <td>
+   Para este sprint hemos asignado las tareas a realizar como las secciones del aplicativo a desarrollar y las correcciones al informe.
+  </td>
     </tr>
     <tr>
       <td>Sprint 2 Velocity</td>
@@ -1925,6 +1939,86 @@ Paso 4: Luego esperamos hasta que se suba la aplicación
 <td><img src="images/insights-sprint3-1.PNG"></td>
 <td><img src="images/insights-sprint3-2.PNG"></td>
 <td><img src="images/insights-sprint3-3.PNG"></td>
+
+### [**5.2.4. Sprint 4**](#524-sprint-4)
+#### [**5.2.4.1. Sprint Planning 4**](#5241-sprint-planning-4)
+
+<table>
+  <caption>Sprint #4</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>24/06/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>18:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord/Meet</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Mancilla Ordaya, Eduardo</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de Agrisage</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint 3 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se realizaran las mejoras especificadas del sprint anterior y se agregaran aquellas caracterirsticas que estuvieron faltantes en la entrega pasada.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint 3 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se hizo las mejoras correspondientes al TB2 .
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Sprint Goal and User Stories.</strong>
+      </td>
+      <td>
+        Lograr la vinculacion del Backend con nuestra aplicacion Frontend.
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 2 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
+#### [**5.2.4.2. Sprint Backlog 4**](#5242-sprint-backlog-4)
+#### [**5.2.4.3. Development Evidence for Sprint Review**](#5243-development-evidence-for-sprint-review)
+#### [**5.2.4.4. Testing Suite Evidence for Sprint Review**](#5244-testing-suite-evidence-for-sprint-review)
+#### [**5.2.4.5. Execution Evidence for Sprint Review**](#5245-execution-evidence-for-sprint-review)
+#### [**5.2.4.6. Services Documentation Evidence for Sprint Review**](#5246-services-documentation-evidence-for-sprint-review)
+#### [**5.2.4.7. Software Deployment Evidence for Sprint Review**](#5247-software-deployment-evidence-for-sprint-review)
+#### [**5.2.4.8. Team Collaboration Insights during Sprint**](#5238-team-collaboration-insights-during-sprint)
 
 ## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
 
