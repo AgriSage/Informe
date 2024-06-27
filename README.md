@@ -2104,11 +2104,16 @@ Link de la app desplegada: [Click Despliegue Aqui](https://agrisage.vercel.app/)
 
 A continuación se presentan capturas de los insights finales del repositorio del informe en GitHub:
 
+<img src="images/Contribuitors_informe.png">
 
 De la misma manera, se incluyen capturas de los insights finales del repositorio del Frontend en GitHub:
 
+<img src="images/Contribuitors_Frontend1.png">
+
 
 Por último, se muestran capturas de los insights finales del repositorio del Backend en GitHub:
+
+<img src="images/Contribuitors_Backend1.png">
 
 
 ## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
