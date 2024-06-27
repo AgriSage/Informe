@@ -2016,8 +2016,26 @@ Link de nuestro backend desplegado: [Click Despliegue Aqui](https://agrisage-bac
 </table>
 
 #### [**5.2.4.2. Sprint Backlog 4**](#5242-sprint-backlog-4)
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| GWS01 | Deployment    | GS01 | Realizar el deployment         |Deploymenta usando Docker     | 5                  | Diego  | Done                                   |
+| GWS02 | Fix Payment    | GS02 | Corregi       | Mejora la vista Artículos y se añade la funcionalidad a categorías.   | 5                  | Eduardo | To Review                                  |                              |
+| GWS04 | User Profile    | GS04 | Desarrollo del Perfil de Usuario                             | Desarrollo e implementación del Perfil de Usuario   | 5                  | Angel  | Done                                   |
+
+
 #### [**5.2.4.3. Development Evidence for Sprint Review**](#5243-development-evidence-for-sprint-review)
+
+| Repository| Branch| Commit Id| Commit Message| Commit Message Body| Committed on (Date)|
+|----|----|----|----|----|----|
+| AgriSage-Backend | develop | 62fd9ed  | feat(deployment): added all file and config to docker and deploy the API | - | 26/06/2024 |
+| AgriSage-Backend | feature/payment  | d5e13d5 | fix: error id on table | - | 24/06/2023 |
+| AgriSage-Backend | profile | 157b996 | Feat: add profile | - | 24/06/2023 |
+
+
 #### [**5.2.4.4. Testing Suite Evidence for Sprint Review**](#5244-testing-suite-evidence-for-sprint-review)
+
+
 #### [**5.2.4.5. Execution Evidence for Sprint Review**](#5245-execution-evidence-for-sprint-review)
 
 A continuación se presentan capturas de la aplicacion web en Angular
