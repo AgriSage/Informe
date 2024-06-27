@@ -1775,7 +1775,7 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 </div>
 
-Link de la app desplegada: [https://agrisage-sw52.web.app/home](https://agrisage-sw52.web.app)
+Link de la app desplegada: [Click Despliegue Aqui](https://agrisage.vercel.app/)
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
@@ -1891,6 +1891,8 @@ En el transcurso del tercer sprint, se realizaron pruebas de los endpoints con l
 
 <td><img src="images/execution-sprint3.PNG"></td>
 
+Link de nuestro backend desplegado: [Click Despliegue Aqui](https://agrisage-backend.azurewebsites.net/swagger/index.html)
+
 #### [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
 
 <table border="0" width="100%" height="100%">
@@ -1933,6 +1935,7 @@ Paso 4: Luego esperamos hasta que se suba la aplicación
 <td><img src="images/deployment-sprint3-5.jpeg"></td>
 <td><img src="images/deployment-sprint3-6.jpeg"></td>
 
+Link de nuestro backend desplegado: [Click Despliegue Aqui](https://agrisage-backend.azurewebsites.net/swagger/index.html)
 
 #### [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
 
@@ -2037,7 +2040,76 @@ Link de nuestra aplicacion Frontend desplegada: [Click Despliegue aqui](https://
 
 #### [**5.2.4.6. Services Documentation Evidence for Sprint Review**](#5246-services-documentation-evidence-for-sprint-review)
 #### [**5.2.4.7. Software Deployment Evidence for Sprint Review**](#5247-software-deployment-evidence-for-sprint-review)
+
+En cuanto al Deployment de este producto para el Sprint 4, se desplegó nuestro Frontend mediante Firebase y el Backend mediante VS
+
+A continuacion las evidencias de deploy del Backend en VS:
+
+Paso 1:  Agregamos el perfil de la web a nuestro VS para hacer el deploy
+<td><img src="images/deployment-sprint3-1.jpeg"></td>
+<td><img src="images/deployment-sprint3-2.jpeg"></td>
+
+Paso 2: Configuramos el string de conexión a la base de datos y configuramos como independiente el modo de implementación
+<td><img src="images/deployment-sprint3-3.jpeg"></td>
+
+Paso 3: Luego en publicar y rellenamos las creadenciales.
+<td><img src="images/deployment-sprint3-4.jpeg"></td>
+
+Paso 4: Luego esperamos hasta que se suba la aplicación
+<td><img src="images/deployment-sprint3-5.jpeg"></td>
+<td><img src="images/deployment-sprint3-6.jpeg"></td>
+
+Link de nuestro backend desplegado: [Click Despliegue Aqui](https://agrisage-backend.azurewebsites.net/swagger/index.html)
+
+**------------------------------------------------------------------------------------------------------------------**
+
+A continuacion las evidencias de deploy del Frontend en Firebase:
+
+**Paso 1:** desplegarlo localmente 
+
+<div align="center">
+
+  <img src="images/deploy1.PNG">
+
+</div>
+
+**Paso 2:** instalar Firebase tools en nuestro proyecto, y loguearse en firebase
+
+<div align="center">
+
+  Npm install ‐g firebase‐tools
+
+</div>
+
+**Paso 3** realizar el deploy a traves de firebase
+
+<div align="center">
+
+  <img src="images/deploy2.PNG">
+
+</div>
+
+**Paso 4:** ng deploy
+
+<div align="center">
+
+  <img src="images/DeployFinal3.png">
+
+</div>
+
+Link de la app desplegada: [Click Despliegue Aqui](https://agrisage.vercel.app/)
+
+
 #### [**5.2.4.8. Team Collaboration Insights during Sprint**](#5238-team-collaboration-insights-during-sprint)
+
+A continuación se presentan capturas de los insights finales del repositorio del informe en GitHub:
+
+
+De la misma manera, se incluyen capturas de los insights finales del repositorio del Frontend en GitHub:
+
+
+Por último, se muestran capturas de los insights finales del repositorio del Backend en GitHub:
+
 
 ## [**5.3. Validation Interviews.**](#52-Validation-Interviews.)
 
@@ -2320,7 +2392,7 @@ En conclusión, hemos desarrollado el backend de nuestra aplicación utilizando 
 
   <tr>
         <td>Link Back End</td>
-        <td><a href="http://itxdarks-001-site1.ctempurl.com/swagger/index.html">Back End</a></td>
+        <td><a href="https://agrisage-backend.azurewebsites.net/swagger/index.html">Back End</a></td>
     </tr>
     
 </table>
