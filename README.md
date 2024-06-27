@@ -1918,12 +1918,16 @@ Link de la app desplegada: [Click Despliegue Aqui](https://agrisage.vercel.app/)
 
 #### [**5.2.3.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
 
+
 | Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
 | Back-end |Profiles|157b996|Feat: add profile| -|   (07/06/204)      |
 | Back-end |Payment|8ebccf3|feat(validation): value objects| -|   (06/06/204)      |
 | Back-end |Develop|d80f0b3|feat(iam): added Infrastructure layer with the services like Hashing| -|(4/06/204)    |
 | Back-end |Shop|0f1dd5b|feat: Add Shop| -| (08/06/204)    |
+
+
+
 
 #### [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
 
@@ -2080,11 +2084,75 @@ Link de nuestro backend desplegado: [Click Despliegue Aqui](https://agrisage-bac
 
 #### [**5.2.4.3. Development Evidence for Sprint Review**](#5243-development-evidence-for-sprint-review)
 
+**Commits Repositorio Backend**
+
 | Repository| Branch| Commit Id| Commit Message| Commit Message Body| Committed on (Date)|
 |----|----|----|----|----|----|
 | AgriSage-Backend | develop | 62fd9ed  | feat(deployment): added all file and config to docker and deploy the API | - | 26/06/2024 |
 | AgriSage-Backend | feature/payment  | d5e13d5 | fix: error id on table | - | 24/06/2023 |
 | AgriSage-Backend | profile | 157b996 | Feat: add profile | - | 24/06/2023 |
+| AgriSage-Backend | develop | fa763567e581050d2085efb7f8565de692a5adc7| feat(cors): added cors to allow conections| - | 26/06/2024 |
+| AgriSage-Backend | develop | 324f65561b20f842fb523fc8cd65e0f895e28770 | feature/iam-side-acl-layer into develop| - | 24/06/2023 |
+| AgriSage-Backend | develop | 0f1dd5bc0addc33c1e80db6618e939b6cd89149d  | feat: Add Shop | - | 26/06/2024 |
+
+**Commits Repositorio Frontend**
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>feature/Payment-Flow</td>
+    <td>6c0be27bed4fe28d8b744c6264b37d9b52f884a7</td>
+    <td>feat(cart): shopping cart view component</td>
+    <td>29/04/2024</td>
+  </tr>
+   <tr>
+    <td>Frontend</td>
+    <td>feature/header-footer</td>
+    <td>1aa95d70222ba5f06ebd8baffa5e4678f1c76495</td>
+    <td>Feat: Header and footer</td>
+    <td>29/04/2024</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>feature/login-register</td>
+    <td>edd52cda2a17d8eadd189b5bd40d5cc4c31c212f</td>
+    <td>feat: added login-and-register</td>
+    <td>29/04/2024</td>
+  </tr>
+
+  <tr>
+    <td>Frontend</td>
+    <td>Develop</td>
+    <td>d67273f650ec4bdfbe80ae59f5b2d7e4606d1c45</td>
+    <td>feat: Update production API base URL</td>
+    <td>29/04/2024</td>
+  </tr>
+
+  <tr>
+    <td>Frontend</td>
+    <td>Develop</td>
+    <td>f1923febf3185a8ebf89238996fcba18e0235234</td>
+    <td>feat(iam): added the login and register</td>
+    <td>29/04/2024</td>
+  </tr>
+
+  <tr>
+    <td>Frontend</td>
+    <td>Develop</td>
+    <td>68a3d3f1695b1d0926e379247269a9e2909ca625</td>
+    <td>chore: Update npm dependencies to latest versions</td>
+    <td>29/04/2024</td>
+  </tr>
+  </table>
+
+
 
 
 #### [**5.2.4.4. Testing Suite Evidence for Sprint Review**](#5244-testing-suite-evidence-for-sprint-review)
