@@ -2064,11 +2064,18 @@ Link de nuestro backend desplegado: [Click Despliegue Aqui](https://agrisage-bac
 
 #### [**5.2.4.2. Sprint Backlog 4**](#5242-sprint-backlog-4)
 
+
+
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
-| GWS01 | Deployment    | GS01 | Realizar el deployment         |Deploymenta usando Docker     | 5                  | Diego  | Done                                   |
-| GWS02 | Fix Payment    | GS02 | Corregi       | Mejora la vista Artículos y se añade la funcionalidad a categorías.   | 5                  | Eduardo | To Review                                  |                              |
-| GWS04 | User Profile    | GS04 | Desarrollo del Perfil de Usuario                             | Desarrollo e implementación del Perfil de Usuario   | 5                  | Angel  | Done                                   |
+| GWS01 | Deployment| GS01 | Realizar el deployment|Deploymenta usando Docker| 5| Diego  | Done|
+| GWS02 | Fix Payment| GS02 | Corregi| Mejora la vista Artículos y se añade la funcionalidad a categorías.| 5| Eduardo|To Review||
+| GWS04 | User Profile| GS04 | Desarrollo del Perfil de Usuario| Desarrollo e implementación del Perfil de Usuario| 5| Angel  | Done|
+|HU16 |Bounded context Profiles |TO16|Profile |Desarrollo del bounded context profiles | 6|Luis |Done |
+|HU17 |Bounded context Courses|T017 |Course |Desarrollo del bounded context Courses| 5|Alexander |In Process |
+|HU18 |Bounded context Shop |T018 |Shop |Desarrollo del bounded context Shop|6 |Diego Rodrigo |In Process |
+|HU19 |Bounded context Cart |T019 |Cart | Desarrollo del bounded context Cart| 6|Diego Rafael |In Process |
+|HU20 |Bounded context Payment |T020 |Payment |Desarrollo del bounded context Payment |5 |Eduardo |To Review |
 
 
 #### [**5.2.4.3. Development Evidence for Sprint Review**](#5243-development-evidence-for-sprint-review)
