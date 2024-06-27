@@ -90,6 +90,10 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 | Eduardo Mancilla  | Capitulo 4 y 5       |
 | Diego Cisneros    | Capitulo 4           |
 
+<img src="images/Contribuitors_informe.png">
+
+URL Project Report (Github): https://github.com/AgriSage/Informe
+
 <br><br>
 
 _TP_
@@ -104,8 +108,51 @@ Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguie
 |Eduardo Mancilla|Correciones al documento<br> execution evidence|
 |Diego Cisneros|Correciones deldocumento<br> develope and deployment evidence|
 
+<img src="images/Contribuitors_informe.png">
+
+URL Project Report (Github): https://github.com/AgriSage/Informe
+
+<br><br>
+
+_TB2_
+
+Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la siguiente forma
+
+|Integrante|Actvidades Asignadas|
+|----------|----------|
+|Luis Anampa|Correciones del documento <br>Sprint  backlog 3|
+|Diego Pumahualcca |Correciones del documento<br>Sprint review and Collaboration insigths|
+|Alexander Justo  |Correciones del documento<br>Sprint planning 3|
+|Eduardo Mancilla|Correciones al documento<br> execution evidence|
+|Diego Cisneros|Correciones deldocumento<br> develope and deployment evidence|
+
+<img src="images/Contribuitors_informe.png">
+
+<br><br>
+
+URL Project Report (Github): https://github.com/AgriSage/Informe
+
+
+_TF_
+
+Para el desarrollo de la entrega TF, se opto por dividir el trabajo de la siguiente forma
+
+|Integrante|Actvidades Asignadas|
+|----------|----------|
+|Luis Anampa|Correciones del documento <br>Sprint  backlog 4|
+|Diego Pumahualcca |Correciones del documento<br>Sprint review and Collaboration insigths|
+|Alexander Justo  |Correciones del documento<br>Sprint planning 4|
+|Eduardo Mancilla|Correciones al documento<br> execution evidence|
+|Diego Cisneros|Correciones deldocumento<br> develope and deployment evidence|
+
+<br><br>
+
+<img src="images/Contribuitors_informe.png">
+
   
 URL Project Report (Github): https://github.com/AgriSage/Informe
+
+
 <br>
 
 <br>
