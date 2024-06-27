@@ -2473,7 +2473,7 @@ Presentamos nuestro Video About the Product para el Sprint 3, el cual busca prom
 
 Video en Microsoft Stream:
 
-[Dale Click Aqui !](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX6Z4xQmlbZEtVSWFOi8Kq8BFQawgUvCRp9yPHkbhhz2Yw?e=PKF8NE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Dale Click Aqui !](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EXd-h0JeOTFHr1w98Q2TipYBBXJ1UqBjma77VYuGW7Kouw?e=Q4xsnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
@@ -2614,11 +2614,11 @@ Williams, R. (2019). Learning Vue.js 3: Enhance your skills with practical examp
     </tr>
     <tr>
         <td>Video About-The-Product</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX6Z4xQmlbZEtVSWFOi8Kq8BFQawgUvCRp9yPHkbhhz2Yw?e=PKF8NE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EXd-h0JeOTFHr1w98Q2TipYBBXJ1UqBjma77VYuGW7Kouw?e=Q4xsnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
     </tr>
     <tr>
         <td>Video About-The-Team</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EWiZpOxDUfRLjq189X1smVwBiZJPIshJ6CDrKTDqR7xYdg?e=JsUjOi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D ">About-The-Team</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EXYWhxdzyWFIhfNqFeg8K4kBYud1_E7fDyL_dVkA0xFAdA?e=YPF20V&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
     </tr>
 
 <tr>
