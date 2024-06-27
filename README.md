@@ -2036,6 +2036,12 @@ Link de nuestro backend desplegado: [Click Despliegue Aqui](https://agrisage-bac
 #### [**5.2.4.4. Testing Suite Evidence for Sprint Review**](#5244-testing-suite-evidence-for-sprint-review)
 
 
+<div align="center">
+
+  <img src="images/execution-sprint4.PNG">
+
+</div>
+
 #### [**5.2.4.5. Execution Evidence for Sprint Review**](#5245-execution-evidence-for-sprint-review)
 
 A continuación se presentan capturas de la aplicacion web en Angular
@@ -2085,7 +2091,7 @@ A continuación, se presenta una lista de los puntos finales registrados que est
 
 #### [**5.2.4.7. Software Deployment Evidence for Sprint Review**](#5247-software-deployment-evidence-for-sprint-review)
 
-En cuanto al Deployment de este producto para el Sprint 4, se desplegó nuestro Frontend mediante Firebase y el Backend mediante VS
+En cuanto al Deployment de este producto para el Sprint 4, se desplegó nuestro Frontend mediante Vercel y el Backend mediante VS
 
 A continuacion las evidencias de deploy del Backend en VS:
 
@@ -2107,37 +2113,36 @@ Link de nuestro backend desplegado: [Click Despliegue Aqui](https://agrisage-bac
 
 **------------------------------------------------------------------------------------------------------------------**
 
-A continuacion las evidencias de deploy del Frontend en Firebase:
+A continuacion las evidencias de deploy del Frontend en Vercel:
 
-**Paso 1:** desplegarlo localmente 
+**Paso 1:** Abre tu terminal y ejecuta el comando npm i -g vercel.
 
 <div align="center">
 
-  <img src="images/deploy1.PNG">
+  <img src="images/deployment-sprint4-1.png">
 
 </div>
 
-**Paso 2:** instalar Firebase tools en nuestro proyecto, y loguearse en firebase
-
+**Paso 2:** En la terminal, escribe vercel login y sigue las instrucciones para iniciar sesión en tu cuenta de Vercel.
 <div align="center">
 
-  Npm install ‐g firebase‐tools
+   <img src="images/deployment-sprint4-2.png">
 
 </div>
 
-**Paso 3** realizar el deploy a traves de firebase
+**Paso 3** Navega a la carpeta de tu proyecto en la terminal y ejecuta el comando vercel.
 
 <div align="center">
 
-  <img src="images/deploy2.PNG">
+  <img src="images/deployment-sprint4-3.png">
 
 </div>
 
-**Paso 4:** ng deploy
+**Paso 4:** Sigue las indicaciones en pantalla para confirmar las opciones de despliegue y completar el proceso.
 
 <div align="center">
 
-  <img src="images/DeployFinal3.png">
+  <img src="images/deployment-sprint4-4.png">
 
 </div>
 
