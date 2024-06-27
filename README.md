@@ -2206,7 +2206,7 @@ Presentamos nuestro Video About the Product para el Sprint 3, el cual busca prom
 
 Video en Microsoft Stream:
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX6Z4xQmlbZEtVSWFOi8Kq8BFQawgUvCRp9yPHkbhhz2Yw?e=PKF8NE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+[Dale Click Aqui !](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX6Z4xQmlbZEtVSWFOi8Kq8BFQawgUvCRp9yPHkbhhz2Yw?e=PKF8NE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 
@@ -2235,16 +2235,73 @@ En conclusión, hemos desarrollado el backend de nuestra aplicación utilizando 
 
 # [**Anexos**](#anexos)
 
-### Entrevistas:
 
-#### Link Figma: https://www.figma.com/file/bezkX2UkmUPdeVykSlzBgt/AgriSage?type=design&node-id=36%3A224&mode=design&t=v8FaCefprRcoSFI9-1
+<table border="1">
+    <tr>
+        <th>Description</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>Repositorio General de AgriSage</td>
+        <td><a href="https://github.com/orgs/AgriSage/repositories">Repositories AgriSage</a></td>
+    </tr>
+    <tr>
+        <td>Repositorio Reporte Final</td>
+        <td><a href="https://github.com/AgriSage/Informe">Project-Report-AgriSage</a></td>
+    </tr>
+    <tr>
+        <td>Repositorio FrontEnd</td>
+        <td><a href="https://github.com/AgriSage/Frontend">Frontend-AgriSage</a></td>
+    </tr>
+    <tr>
+        <td>Repositorio Landingpage</td>
+        <td><a href="https://github.com/AgriSage/Landing">LandingPage-AgriSage</a></td>
+    </tr>
+     <tr>
+        <td>Repositorio Backend</td>
+        <td><a href="https://github.com/AgriSage/Backend">Backend-AgriSage</a></td>
+    </tr>
+    <tr>
+        <td>Exposicion TB1</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EfTYahsM97xAl2_NlQiqY7gBIUFg7zmZejGOF20bMLI3Rg?e=OulmqT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">TB1</a></td>
+    </tr>
+    <tr>
+        <td>Exposicion TP</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EfTYahsM97xAl2_NlQiqY7gBIUFg7zmZejGOF20bMLI3Rg?e=OulmqT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">TP</a></td>
+    </tr>
+    <tr>
+        <td>Exposicion TB2</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EfTYahsM97xAl2_NlQiqY7gBIUFg7zmZejGOF20bMLI3Rg?e=OulmqT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">TB2</a></td>
+    </tr>
+    <tr>
+        <td>Exposicion TF</td>
+        <td><a href="">TF</a></td>
+    </tr>
+    <tr>
+        <td>Entrevistas - Capitulo V</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/ET9DWcKBuuRBoyE7fCupUBkB0-7Jct6TxWvCEkJROrx_qQ?e=MpWPy9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a></td>
+    </tr>
+    <tr>
+        <td>Video About-The-Product</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX6Z4xQmlbZEtVSWFOi8Kq8BFQawgUvCRp9yPHkbhhz2Yw?e=PKF8NE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+    </tr>
+    <tr>
+        <td>Video About-The-Team</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EWiZpOxDUfRLjq189X1smVwBiZJPIshJ6CDrKTDqR7xYdg?e=JsUjOi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D ">About-The-Team</a></td>
+    </tr>
 
-#### link de las entrevistas: https://upcedupe-my.sharepoint.com/personal/u202218664_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218664%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+<tr>
+        <td>Link landing page</td>
+        <td><a href="https://agrisage.github.io/Landing/">Landing Page</a></td>
+    </tr>
+ <tr>
+        <td>Link Front End</td>
+        <td><a href="https://agrisage.vercel.app/">Front End</a></td>
+    </tr>
 
-### Link de exposicion:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EfTYahsM97xAl2_NlQiqY7gBIUFg7zmZejGOF20bMLI3Rg?e=OulmqT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-### Link de about the team:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EWiZpOxDUfRLjq189X1smVwBiZJPIshJ6CDrKTDqR7xYdg?e=JsUjOi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
-
-### Link de about the product:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EX6Z4xQmlbZEtVSWFOi8Kq8BFQawgUvCRp9yPHkbhhz2Yw?e=PKF8NE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
-
-### Link de la web desplegada: [https://upc202401si730sw52.web.app/home](https://agrisage-sw52.web.app)
+  <tr>
+        <td>Link Back End</td>
+        <td><a href="http://itxdarks-001-site1.ctempurl.com/swagger/index.html">Back End</a></td>
+    </tr>
+    
+</table>
