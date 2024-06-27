@@ -2197,6 +2197,12 @@ A continuación, se presenta una lista de los puntos finales registrados que est
     <td>/api/v1/Users</td>
     <td><img src="images/Swagger-Users.png"></td>
   </tr>
+    <tr>
+    <td>Shops</td>
+    <td>/api/v1/Shops</td>
+    <td><img src="images/Swagger-Shops.png"></td>
+  </tr>
+
   </table>
 
 #### [**5.2.4.7. Software Deployment Evidence for Sprint Review**](#5247-software-deployment-evidence-for-sprint-review)
