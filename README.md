@@ -2594,7 +2594,7 @@ Williams, R. (2019). Learning Vue.js 3: Enhance your skills with practical examp
     </tr>
     <tr>
         <td>Exposicion TF</td>
-        <td><a href="">TF</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EUDy7NrWBfZEiEyV76eya2IBmBCcHRQZK_8SPDL2odiYEQ?e=f0A00q&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">TF</a></td>
     </tr>
 <tr>
         <td>Entrevistas - Capitulo 3</td>
