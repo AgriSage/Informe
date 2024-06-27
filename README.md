@@ -2345,10 +2345,20 @@ Video en Microsoft Stream:
 - A través del análisis de competidores y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para la toma de decisiones informadas en el desarrollo de nuestro producto.<br><br>
 
 **TP1:**
-<p align="justify">Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de AgriSage. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
+
+- Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de AgriSage. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión.
 
 **TB2:**
-En conclusión, hemos desarrollado el backend de nuestra aplicación utilizando Rider y siguiendo la arquitectura hexagonal, asegurando una estructura robusta y eficiente mediante la implementación de diversos Bounded Contexts. Cada miembro del equipo ha contribuido de manera significativa a diferentes áreas del proyecto, garantizando que todas las secciones sean claras, objetivas y comprensibles para audiencias con diversas especialidades y niveles jerárquicos. Este enfoque colaborativo y detallado nos ha permitido crear un sistema coherente y bien integrado, destacando nuestra capacidad para comunicar resultados complejos de manera efectiva.
+
+- En conclusión, hemos desarrollado el backend de nuestra aplicación utilizando Rider y siguiendo la arquitectura hexagonal, asegurando una estructura robusta y eficiente mediante la implementación de diversos Bounded Contexts. Cada miembro del equipo ha contribuido de manera significativa a diferentes áreas del proyecto, garantizando que todas las secciones sean claras, objetivas y comprensibles para audiencias con diversas especialidades y niveles jerárquicos. Este enfoque colaborativo y detallado nos ha permitido crear un sistema coherente y bien integrado, destacando nuestra capacidad para comunicar resultados complejos de manera efectiva.
+
+**TF:**
+
+- El desarrollo de nuestra aplicación ha sido un proceso intensivo y meticuloso, donde cada etapa del proyecto ha sido diseñada para alinearse con las expectativas y necesidades de nuestros usuarios. El análisis exhaustivo de competidores nos ha proporcionado una ventaja competitiva significativa, permitiéndonos identificar oportunidades de mejora y posicionar nuestro producto de manera efectiva en el mercado.
+
+- Las entrevistas con los usuarios han sido fundamentales en nuestra investigación. Estas interacciones directas nos permitieron obtener una comprensión profunda de las verdaderas necesidades de nuestros usuarios y adaptar nuestra solución para abordar esas necesidades de manera precisa. Las voces de nuestros usuarios han guiado cada decisión de diseño y desarrollo, asegurando que nuestro producto final sea relevante y útil.
+
+
 # [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
 <p>MDN Web Docs. (s.f.). HTML: Hypertext Markup Language. Recuperado de https://developer.mozilla.org/en-US/docs/Web/HTML</p>
