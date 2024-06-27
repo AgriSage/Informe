@@ -1913,8 +1913,8 @@ Link de nuestro backend desplegado: [Click Despliegue Aqui](https://agrisage-bac
   </tr>
   <tr>
     <td>Courses</td>
-    <td>/api/v1/courses</td>
-    <td></td>
+    <td>/api/v1/Users</td>
+    <td><img src="images/Swagger-Users.png"></td>
   </tr>
   </table>
 
@@ -2039,6 +2039,32 @@ A continuación se presentan capturas de la aplicacion web en Angular
 Link de nuestra aplicacion Frontend desplegada: [Click Despliegue aqui](https://agrisage.vercel.app/)
 
 #### [**5.2.4.6. Services Documentation Evidence for Sprint Review**](#5246-services-documentation-evidence-for-sprint-review)
+
+A continuación, se presenta una lista de los puntos finales registrados que están dentro del alcance del Sprint 4. Posteriormente, se mostrará una tabla que detalla estos puntos finales.
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Entity</th>
+    <th>Endpoint</th>
+    <th>Swagger</th>
+  </tr>
+  <tr>
+    <td>Profile</td>
+    <td>/api/v1/profiles</td>
+    <td><img src="images/documentation-sprint3-2.PNG"></td>
+  </tr>
+   <tr>
+    <td>Payments</td>
+    <td>/api/v1/payments</td>
+    <td><img src="images/documentation-sprint3-1.PNG"></td>
+  </tr>
+  <tr>
+    <td>Courses</td>
+    <td>/api/v1/Users</td>
+    <td><img src="images/Swagger-Users.png"></td>
+  </tr>
+  </table>
+
 #### [**5.2.4.7. Software Deployment Evidence for Sprint Review**](#5247-software-deployment-evidence-for-sprint-review)
 
 En cuanto al Deployment de este producto para el Sprint 4, se desplegó nuestro Frontend mediante Firebase y el Backend mediante VS
