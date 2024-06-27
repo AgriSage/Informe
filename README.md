@@ -2016,6 +2016,25 @@ Paso 4: Luego esperamos hasta que se suba la aplicación
 #### [**5.2.4.3. Development Evidence for Sprint Review**](#5243-development-evidence-for-sprint-review)
 #### [**5.2.4.4. Testing Suite Evidence for Sprint Review**](#5244-testing-suite-evidence-for-sprint-review)
 #### [**5.2.4.5. Execution Evidence for Sprint Review**](#5245-execution-evidence-for-sprint-review)
+
+A continuación se presentan capturas de la aplicacion web en Angular
+
+![Evidencia](images/DeployFinal1.png)
+
+![Evidencia](images/DeployFinal2.png)
+
+![Evidencia](images/DeployFinal3.png)
+
+![Evidencia](images/DeployFinal4.png)
+
+![Evidencia](images/DeployFinal5.png)
+
+![Evidencia](images/DeployFinal6.png)
+
+![Evidencia](images/DeployFinal7.png)
+
+Link de nuestra aplicacion Frontend desplegada: [Click Despliegue aqui](https://agrisage.vercel.app/)
+
 #### [**5.2.4.6. Services Documentation Evidence for Sprint Review**](#5246-services-documentation-evidence-for-sprint-review)
 #### [**5.2.4.7. Software Deployment Evidence for Sprint Review**](#5247-software-deployment-evidence-for-sprint-review)
 #### [**5.2.4.8. Team Collaboration Insights during Sprint**](#5238-team-collaboration-insights-during-sprint)
@@ -2025,7 +2044,7 @@ Paso 4: Luego esperamos hasta que se suba la aplicación
 En la parte de la entrevista de validación de nuestro proyecto, nos centramos en el refinamiento.
 Optimización del servicio de AgriSage. Esta fase del proyecto incluyen nuestros segmentos objetivos: Personas que deseen iniciar en la hidroponía y Personas expertas. Lo haremos a través de entrevistas estructuradas.Lo anterior garantiza que el sitio no sólo cumple con los estándares Aunque es técnico, también resuena con la dinámica operativa y las expectativas del usuario al usar la aplicación. A continuación se enumera los objetivos del usuario necesarios para completar la entrevista:
 
-### [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)\
+### [**5.3.1. Diseño de Entrevistas.**](#521-Interview-Design.)
 
 Para esta validación se incluirán los siguientes productos:
 
