@@ -634,6 +634,8 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
 
+Link general de todas las entrevistas: [Click aqui !](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EcoWlBvnNNBEruD-HrXhWjEB6N24y9d_EQ-Bpf2BbtJBzQ?e=lwN1Pg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 **Segmento objetivo #1:** Personas que deseen iniciar en la hidroponía.
 
 ![Entrevista 1](images/EntrevistaDayana.jpg)
@@ -647,8 +649,6 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 **- Ubicación en la que vive:** Lima Ate
 
 **Acerca de la entrevista:** Estudiante de la UPC
-
-**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
 
 **- Instante en el que inicia:** 0:31 s
 
@@ -670,8 +670,6 @@ En esta ocasión, se conversó con Dayana Rojas, una estudiante de Comunicación
 
 **Acerca de la entrevista:** Estudiante de la UPC
 
-**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
-
 **- Instante en el que inicia:** 5:46 min
 
 **- Duración:** 33:53 min
@@ -692,8 +690,6 @@ En esta ocasión, se conversó con Christian , una estudiante de Ingenieria Ambi
 
 **Acerca de la entrevista:** Estudiante de la UPC
 
-**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
-
 **- Instante en el que inicia:** 11:44 min
 
 **- Duración:** 33:53 min
@@ -713,8 +709,6 @@ En esta ocasión, se conversó con Giusseppe , me comenta que es una persona cur
 **- Ubicación en la que vive:** Lima Villa el Salvador
 
 **Acerca de la entrevista:** Estudiante de la UTP
-
-**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219266_upc_edu_pe/EQDDWPQyt2lGo3kvj-b7AM8BiCtCJ8HelGiKubRnnFwWAQ?e=Shb1Lt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **- Instante en el que inicia:**
 
@@ -738,8 +732,6 @@ En esta ocasión se entrevistó a Angel Fabian un estudiante de la carrera de In
 
 **Acerca de la entrevista:** Estudiante de la UPC
 
-**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
-
 **- Instante en el que inicia:** 17:00 min
 
 **- Duración:** 33:53 min
@@ -760,8 +752,6 @@ El entrevistado señala que su personalidad es adecuada para impartir clases de 
 
 **Acerca de la entrevista:** Estudiante de la UPC
 
-**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
-
 **- Instante en el que inicia:** 22:00 min
 
 **- Duración:** 33:53 min
@@ -781,8 +771,6 @@ En esta ocasión se entrevistó a Camila Conde una estudiante de la carrera de I
 **- Ubicación en la que vive:** Lima Surco
 
 **Acerca de la entrevista:** Estudiante de la UPC
-
-**Link :**[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Edpn9h_glfxMgirpmCRWL3YB6AjDGhxvJwsH2SMr-pQlYw?e=AykAAA)
 
 **- Instante en el que inicia:** 27:00 min
 
@@ -2607,6 +2595,10 @@ Williams, R. (2019). Learning Vue.js 3: Enhance your skills with practical examp
     <tr>
         <td>Exposicion TF</td>
         <td><a href="">TF</a></td>
+    </tr>
+<tr>
+        <td>Entrevistas - Capitulo 3</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EcoWlBvnNNBEruD-HrXhWjEB6N24y9d_EQ-Bpf2BbtJBzQ?e=lwN1Pg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a></td>
     </tr>
     <tr>
         <td>Entrevistas - Capitulo V</td>
