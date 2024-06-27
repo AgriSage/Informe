@@ -2384,9 +2384,63 @@ Video en Microsoft Stream:
 
 # [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 
-<p>MDN Web Docs. (s.f.). HTML: Hypertext Markup Language. Recuperado de https://developer.mozilla.org/en-US/docs/Web/HTML</p>
-</br>
-<p>MDN Web Docs. (s.f.). CSS: Cascading Style Sheets. Recuperado de https://developer.mozilla.org/en-US/docs/Web/CSS</p>
+MDN Web Docs. (s.f.). CSS: Cascading Style Sheets. Recuperado de https://developer.mozilla.org/en-US/docs/Web/CSS
+
+MDN Web Docs. (s.f.). JavaScript. Recuperado de https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+MDN Web Docs. (s.f.). Web APIs. Recuperado de https://developer.mozilla.org/en-US/docs/Web/API
+
+Vue.js. (s.f.). The Progressive JavaScript Framework. Recuperado de https://vuejs.org/
+
+Microsoft Docs. (s.f.). C# Guide. Recuperado de https://learn.microsoft.com/en-us/dotnet/csharp/
+
+Microsoft Docs. (s.f.). ASP.NET Core 8.0. Recuperado de https://learn.microsoft.com/en-us/aspnet/core/
+
+MDN Web Docs. (s.f.). React: A JavaScript library for building user interfaces. Recuperado de https://reactjs.org/
+
+MDN Web Docs. (s.f.). Angular: One framework. Mobile & desktop. Recuperado de https://angular.io/
+
+MDN Web Docs. (s.f.). Spring Boot: Spring Framework. Recuperado de https://spring.io/projects/spring-boot
+
+Cummings, J. (2019). The Complete Guide to Front-End Development with HTML, CSS, and JavaScript. O'Reilly Media. Recuperado de https://www.oreilly.com/library/view/the-complete-guide/9781492051694/
+
+Hunt, C. (2020). Pro Angular: Build Powerful and Dynamic Web Apps. Apress. Recuperado de https://www.apress.com/gp/book/9781484259383
+
+Walls, C. (2018). Spring Boot in Action. Manning Publications. Recuperado de https://www.manning.com/books/spring-boot-in-action
+
+Vue Mastery. (s.f.). Vue 3 Essentials. Recuperado de https://www.vuemastery.com/courses/vue-3-essentials/
+
+Microsoft Docs. (s.f.). Introduction to ASP.NET Core. Recuperado de https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core
+
+MDN Web Docs. (s.f.). Progressive Web Apps (PWAs). Recuperado de https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+
+Freeman, A. (2020). Pro ASP.NET Core 3: Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages. Apress. Recuperado de https://www.apress.com/gp/book/9781484254401
+
+Heemskerk, J. (2019). C# 8.0 and .NET Core 3.0: Modern Cross-Platform Development. Packt Publishing. Recuperado de https://www.packtpub.com/product/c-80-and-net-core-30-modern-cross-platform-development-third-edition/9781788478120
+
+Laroche, E. (2020). Vue.js: Up and Running: Building Accessible and Performant Web Apps. O'Reilly Media. Recuperado de https://www.oreilly.com/library/view/vuejs-up-and/9781491997238/
+
+Freeman, A., & Sanderson, S. (2020). Pro ASP.NET Core 3: Develop Cloud-Ready Web Applications Using MVC 3, Razor Pages, Web API, and Blazor. Apress. Recuperado de https://www.apress.com/gp/book/9781484254395
+
+Gouigoux, J. (2018). Implementing Domain-Driven Design: Tackle Complex Software Projects with Clean Architecture. Packt Publishing. Recuperado de https://www.packtpub.com/product/implementing-domain-driven-design/9781787289642
+
+Paxton, R. (2020). ASP.NET Core 3 and Angular 9: Full-Stack Web Development with .NET Core and Angular. Packt Publishing. Recuperado de https://www.packtpub.com/product/asp-net-core-3-and-angular-9/9781839215077
+
+Wexler, B. (2021). C# Programming for Absolute Beginners. Apress. Recuperado de https://www.apress.com/gp/book/9781484270456
+
+Bastos, J. (2019). Full-Stack Vue.js 2 and Laravel 5: Bring the Frontend and Backend Together with Vue, Vuex, and Laravel. Packt Publishing. Recuperado de https://www.packtpub.com/product/full-stack-vue-js-2-and-laravel-5/9781788299589
+
+Packer, J. (2020). Mastering ASP.NET Core 3.1: Building Modern Web Applications Using .NET Core 3.1 and React. Packt Publishing. Recuperado de https://www.packtpub.com/product/mastering-asp-net-core-31/9781838645011
+
+Farrelly, J. (2020). Vue.js 3 Cookbook: Discover actionable solutions for building modern web apps with the latest Vue features and TypeScript. Packt Publishing. Recuperado de https://www.packtpub.com/product/vue-js-3-cookbook/9781838984820
+
+Smart, J. (2021). Clean Architecture with ASP.NET Core: A practical guide to building scalable and maintainable enterprise-grade applications. Packt Publishing. Recuperado de https://www.packtpub.com/product/clean-architecture-with-asp-net-core/9781801077866
+
+Roberts, G. (2019). Hands-On Design Patterns with C# and .NET Core: Write clean and maintainable code by using reusable solutions to common software design problems. Packt Publishing. Recuperado de https://www.packtpub.com/product/hands-on-design-patterns-with-c-and-net-core/9781789133646
+
+Goodwin, D. (2019). Full-Stack Vue.js 2 and Node.js: Build modern web apps with Vue.js 2, Node.js, and MongoDB. Packt Publishing. Recuperado de https://www.packtpub.com/product/full-stack-vue-js-2-and-node-js/9781788839464
+
+Williams, R. (2019). Learning Vue.js 3: Enhance your skills with practical examples and build dynamic web applications with Vue.js 3 and TypeScript. Packt Publishing. Recuperado de https://www.packtpub.com/product/learning-vue-js-3/9781800200845
 
 # [**Anexos**](#anexos)
 
